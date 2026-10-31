@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:-1 group-title="181.FM",181.FM Classical
+http://listen.livestreamingservice.com/181-classical_128k.mp3
+#EXTINF:-1 group-title="181.FM",181.FM Classical Guitar
+http://listen.181fm.com/181-classicalguitar_128k.mp3
+#EXTINF:-1 group-title="ABC Classic",ABC Classic FM
+https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8
+#EXTINF:-1 group-title="ABC Classic",ABC Classic 2
+https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/index.m3u8
+#EXTINF:-1 group-title="ABC Classic",ABC Classic Drive
+https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8
+#EXTINF:-1 group-title="Accent 4",Accent 4
+http://str0.creacast.com/accent4
+#EXTINF:-1 group-title="Adagio.FM",Adagio.FM - Timeless Classical Music
+http://hi5.adagio.fm
+#EXTINF:-1 group-title="Adagio Radio",Adagio Radio
+https://stream.tunerplay.com/radio/8010/adagioradio.mp3
+#EXTINF:-1 group-title="All Classical",All Classical
+http://allclassical-ice.streamguys.com/ac96kmp3
+#EXTINF:-1 group-title="Barok",Barok
+http://streams.greenhost.nl:8080/barok
+#EXTINF:-1 group-title="Cinemix",Cinemix
+http://94.23.51.96:8107
+#EXTINF:-1 group-title="Classic FM",Classic FM
+https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80
+#EXTINF:-1 group-title="Classic FM France",Classic FM France
+https://classicfm.ice.infomaniak.ch/classic-fm.mp3
+#EXTINF:-1 group-title="Classic FM RU",Classic FM RU
+https://classic.amgradio.ru/ClassicFM
+#EXTINF:-1 group-title="Classic Praha",Classic Praha
+http://icecast8.play.cz/classic128.mp3
+#EXTINF:-1 group-title="Classic Radio Ukraine",Classic Radio Ukraine
+https://online.classicradio.ua/ClassicRadio_HD
+#EXTINF:-1 group-title="Classical FM 97.7",Classical FM 97.7
+http://59.120.88.155:8000/live.mp3
+#EXTINF:-1 group-title="Concertzender",Concertzender Live
+http://streams.greenhost.nl:8080/live
+#EXTINF:-1 group-title="Concertzender",Concertzender Oude Muziek
+http://streams.greenhost.nl:8080/oudemuziek
+#EXTINF:-1 group-title="De Gehoorde Stilte",De Gehoorde Stilte
+http://streams.greenhost.nl:8080/gehoordestilte
+#EXTINF:-1 group-title="DR P2",DR P2 Klassisk
+https://opml.radiotime.com/Tune.ashx?id=s37197&formats=mp3,aac,ogg,hls
+#EXTINF:-1 group-title="Epic",Epic Classical Piano
+https://stream.epic-classical.com/classical-piano
+#EXTINF:-1 group-title="Epic",Epic Romantic Piano
+https://stream.epic-piano.com/romantic-piano
+#EXTINF:-1 group-title="Epic",Epic Chillout Piano
+https://stream.epic-piano.com/chillout-piano
+#EXTINF:-1 group-title="Epic",Epic Chopin
+https://stream.epic-piano.com/chopin
+#EXTINF:-1 group-title="Epic",Epic Classical Orchestral
+https://stream.epic-classical.com/classical-orchestral
+#EXTINF:-1 group-title="Epic",Epic Modern Classical
+https://stream.epic-classical.com/modern-classical
+#EXTINF:-1 group-title="Epic",Epic Classical Violin
+https://stream.epic-classical.com/classical-violin
+#EXTINF:-1 group-title="Epic",Epic Pan Flute
+https://stream.epic-classical.com/classical-pan-flute
+#EXTINF:-1 group-title="Epic",Epic Classical Guitar
+https://stream.epic-classical.com/classical-guitar
+#EXTINF:-1 group-title="Epic",Epic Classical Pop
+https://stream.epic-classical.com/classical-pop
+#EXTINF:-1 group-title="Epic",Epic Classical Chillout
+https://stream.epic-classical.com/classical-chillout
+#EXTINF:-1 group-title="Epic",Epic Classical Nighttime
+https://stream.epic-classical.com/classical-nighttime
+#EXTINF:-1 group-title="Epic",Epic Classical Lounge
+https://stream.epic-classical.com/classical-lounge
+#EXTINF:-1 group-title="Epic",Epic Ibiza Chillout Lounge
+https://stream.epic-lounge.com/ibiza-chillout-lounge
+#EXTINF:-1 group-title="Epic",Epic Coffee Bar Lounge
+https://stream.epic-lounge.com/coffee-bar-lounge
+#EXTINF:-1 group-title="Epic",Epic Classical Romance
+https://stream.epic-classical.com/classical-romance
+#EXTINF:-1 group-title="Epic",Epic  Classical Love Music
+https://stream.epic-classical.com/classical-love-music
+#EXTINF:-1 group-title="Epic",Epic Classical Coffee Bar
+https://stream.epic-classical.com/classical-coffee-bar
+#EXTINF:-1 group-title="Geen Dag",Geen dag zonder Bach
+http://streams.greenhost.nl:8080/bach
+#EXTINF:-1 group-title="Got Radio",Got Radio - Piano Perfect
+http://gr02.cdnstream.com:8050
+#EXTINF:-1 group-title="High On Line",Hi On Line Classic Radio
+http://mediaserv30.live-streams.nl:8088/live
+#EXTINF:-1 group-title="High On Line",Hi On Line Jazz Radio
+http://mediaserv38.live-streams.nl:8006/
+#EXTINF:-1 group-title="High On Line",Hi On Line Lounge Radio
+http://mediaserv33.live-streams.nl:8036/live
+#EXTINF:-1 group-title="ITU Radio Classical",ITU Radio Classical
+http://160.75.86.29:8088/stream/5/
+#EXTINF:-1 group-title="KING FM",KING FM Classic
+http://classicalking.streamguys1.com/king-fm-aac-128k
+#EXTINF:-1 group-title="KING FM",KING FM Evergreen
+http://classicalking.streamguys1.com/evergreen-aac-128k
+#EXTINF:-1 group-title="Klara",Klara
+http://icecast.vrtcdn.be/klara.aac
+#EXTINF:-1 group-title="KUAT",KUAT
+http://streaming.azpm.org:80/kuat192.mp3
+#EXTINF:-1 group-title="KUSC",Classical KUSC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP256.mp3
+#EXTINF:-1 group-title="KVNO",Classical 90.7, KVNO
+http://kvnovm-hd1.unomaha.edu:8000/listen.aac
+#EXTINF:-1 group-title="Linn Classical",Linn Classical
+http://radio.linn.co.uk:8004/autodj
+#EXTINF:-1 group-title="NAXI",NAXI Classic Radio
+http://109.206.96.34:8030
+#EXTINF:-1 group-title="NPO",NPO Radio 4 Klassiek
+https://icecast.omroep.nl/radio4-bb-mp3
+#EXTINF:-1 group-title="Opus 100,7",Opus 100,7
+https://100komma7.stream11.radiohost.de/100komma7-opus_mp3-320
+#EXTINF:-1 group-title="Orchestras",Berlin Philharmonic Orchestra
+https://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio
+#EXTINF:-1 group-title="Orchestras",Chicago Symphony Orchestra
+https://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio
+#EXTINF:-1 group-title="Orchestras",London Symphony Orchestra
+https://drive.uber.radio/uber/crlso/icecast.audio
+#EXTINF:-1 group-title="Orchestras",Royal Concert Orchestra of the Netherlands
+https://2.mystreaming.net/uber/crrcon/icecast.audio
+#EXTINF:-1 group-title="Orchestras",Vienna Philharmonic Orchestra
+http://drive.uber.radio/uber/crviennaphilharmonic/icecast.audio
+#EXTINF:-1 group-title="Orchestras",Bavarian Radio Symphonic Orchestra
+http://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio
+#EXTINF:-1 group-title="Orchestras",Cleveland Orchestra
+http://drive.uber.radio/uber/crclevelandorchestra/icecast.audio
+#EXTINF:-1 group-title="Ottava Radio",Ottava Radio Classical
+https://ottava2.out.airtime.pro/ottava2_a
+#EXTINF:-1 group-title="Public Domain Classical",Public Domain Classical
+http://relay.publicdomainproject.org/classical.mp3
+#EXTINF:-1 group-title="Radio Bolivariana",Radio Bolivariana FM
+http://131.0.136.54:7630/stream/1/
+#EXTINF:-1 group-title="Radio Classique Monte Car",Radio Classique Monte Carlo
+https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Baroque
+http://79.111.14.76:8000/baroque
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Classic Piano
+http://79.120.39.202:8000/classpiano
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Modern Classical
+http://79.120.39.202:8000/modernclassical
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Symphony
+http://79.111.14.76:8000/symphony
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Flute
+http://79.111.14.76:9101
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Piano
+http://79.120.77.11:9009
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Class Guitar
+http://213.141.131.10:8000/classguitar
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Sonata
+http://213.141.131.10:8000/sonata
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Renaissance
+http://213.141.131.10:8000/renaissance
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Clavosin
+http://213.141.131.10:8000/clavecin
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Clarinet
+http://213.141.131.10:8000/clarinet
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Violin
+http://213.141.131.10:8004/violin
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Classical
+http://79.120.77.11:9019
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Celtic
+http://79.111.14.76:9087
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Neoclassical
+http://79.120.39.202:9101
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Classical Crossover
+http://79.120.77.11:9055
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Organ
+http://79.120.77.11:9051
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice New Age
+http://79.120.77.11:9047
+#EXTINF:-1 group-title="Radio Caprice",Radio Caprice Vocal
+http://79.120.77.11:9063
+#EXTINF:-1 group-title="RauteMusik.FM",Klassik
+http://klassik-high.rautemusik.fm/
+#EXTINF:-1 group-title="RauteMusik.FM",SoloPiano
+http://solopiano-high.rautemusik.fm
+#EXTINF:-1 group-title="RauteMusik.FM",Study
+https://study-high.rautemusik.fm/
+#EXTINF:-1 group-title="RauteMusik.FM",Lounge
+https://lounge-high.rautemusik.fm/
+#EXTINF:-1 group-title="Rete Toscana Classica",Rete Toscana Classica
+https://nr12.newradio.it/stream/8744
+#EXTINF:-1 group-title="RMF Classic",RMF Classic
+http://31.192.216.7:8000/rmf_classic
+#EXTINF:-1 group-title="RMF Classic",RMF FM - Muzyka Klasyczna
+http://195.150.20.242:8000/rmf_muzyka_klasyczna
+#EXTINF:-1 group-title="Rondo",Rondo Classic
+https://iradio.fi/klasu-hi.mp3
+#EXTINF:-1 group-title="Rondo",Rondo Classic Pro
+https://iradio.fi/klasupro-hi.mp3
+#EXTINF:-1 group-title="SUN Classique",SUN Classique
+https://diffusion.lafrap.fr/sun-classique.mp3
+#EXTINF:-1 group-title="The Classical Station",TheClassicalStation
+http://audio-mp3.ibiblio.org:8000/wcpe.mp3
+#EXTINF:-1 group-title="University of Oregon",University Of Oregon - KWAX
+http://streaming.kwax.com:8000/stream/1/
+#EXTINF:-1 group-title="VCR",Venice Classic Radio Auditorium
+http://uk2.streamingpulse.com:8010/stream/1/
+#EXTINF:-1 group-title="VPR",VPR Classical Vermont Public Radio
+http://vprclassical.streamguys.net/vprclassical128.mp3
+#EXTINF:-1 group-title="WCRB",WCRB
+http://wgbh.streamguys.com:80/wcrb-omnia
+#EXTINF:-1 group-title="WDAV",WDAV - Classical Public Radio
+http://audio-mp3.ibiblio.org:8000/wdav-112k
+#EXTINF:-1 group-title="WEMC",WEMC
+http://media.wmra.org:8000/wemc
+#EXTINF:-1 group-title="WFMT",WFMT
+http://stream.wfmt.com/main-source
+#EXTINF:-1 group-title="WMHT",WMHT Classical
+http://wmht.streamguys1.com/wmht1
+#EXTINF:-1 group-title="WMNR",WMNR Fine Arts Radio
+https://wmnr.streamguys1.com/live
+#EXTINF:-1 group-title="WQXR",WQXR
+https://stream.wqxr.org/wqxr-web
+#EXTINF:-1 group-title="WQXR",WQXR Holiday Channel
+http://stream.wqxr.org/qxr-special
+#EXTINF:-1 group-title="WQXR",WQXR-Q2
+http://q2stream.wqxr.org/q2
+#EXTINF:-1 group-title="WQXR",Operavore
+https://opera-stream.wqxr.org/operavore-web
+#EXTINF:-1 group-title="WWFM",WWFM The Classical Network
+http://wwfm.streamguys1.com/live
+#EXTINF:-1 group-title="MidEast",Kuwait Easy
+https://kwtkrdota.cdn.mangomolo.com/eardo/eardo.stream_aac/chunklist.m3u8

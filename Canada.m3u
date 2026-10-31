@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="cbc",CBC Radio 1 Vancouver
+https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8
+#EXTINF:-1 group-title="cbc",CBC Radio 1 Winnipeg
+https://cbcradiolive.akamaized.net/hls/live/2040991/ES_R1CWP/master.m3u8
+#EXTINF:-1 group-title="cbc",CBC Radio 1 Halifax
+https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8
+#EXTINF:-1 group-title="cbc",CBC Radio 1 Sydney
+https://cbcradiolive.akamaized.net/hls/live/2041043/ES_R1MNS/master.m3u8
+#EXTINF:-1 group-title="cbc",CBC Radio 1 Toronto
+https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8
+#EXTINF:-1 group-title="cbc",CBC Radio 1 Montréal
+https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
+#EXTINF:-1 group-title="cbc",CBC Radio 1 Québec City
+https://cbcradiolive.akamaized.net/hls/live/2041031/ES_R1EQQ/master.m3u8
+#EXTINF:-1 group-title="cbc",Ici Première Alberta
+https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8
+#EXTINF:-1 group-title="cbc",Ici Première Montréal
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8
+#EXTINF:-1 group-title="cbc",Ici Première Québec
+https://rcavliveaudio.akamaized.net/hls/live/2006974/P-2QTRV0_TRV/master.m3u8
+#EXTINF:-1 group-title="cbc",Ici Première Toronto
+https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8
+#EXTINF:-1 group-title="cbc",CBC Music Atlantic
+https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
+#EXTINF:-1 group-title="cbc",CBC Music Central
+https://cbcradiolive.akamaized.net/hls/live/2041056/ES_R2CWP/master.m3u8
+#EXTINF:-1 group-title="cbc",CBC Music Eastern
+https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8
+#EXTINF:-1 group-title="cbc",CBC Music Mountain
+https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
+#EXTINF:-1 group-title="cbc",CBC Music Pacific
+https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8
+#EXTINF:-1 group-title="cbc",Ici Musique Alberta
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
+#EXTINF:-1 group-title="cbc",Ici Musique Colombie-Britannique-Yukon, Grand Nord
+https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
+#EXTINF:-1 group-title="cbc",Ici Musique Manitoba
+https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/master.m3u8
+#EXTINF:-1 group-title="cbc",Ici Musique Québec
+https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
+#EXTINF:-1 group-title="cbc",Ici Musique Classique
+https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/master.m3u8
+#EXTINF:-1 group-title="Misc",CityNews Toronto
+https://rogers-hls.leanstream.co/rogers/tor680.stream/icy

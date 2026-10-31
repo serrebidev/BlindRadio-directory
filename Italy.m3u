@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 group-title="RAI",Rai Radio 1
+http://icestreaming.rai.it/1.mp3
+#EXTINF:-1 group-title="RAI",Rai Radio 2
+https://icestreaming.rai.it/2.mp3
+#EXTINF:-1 group-title="RAI",Rai Radio 3
+https://icestreaming.rai.it/3.mp3
+#EXTINF:-1 group-title="RAI",Rai Radio 4 Light
+https://icestreaming.rai.it/4.mp3
+#EXTINF:-1 group-title="RAI",Rai Radio 5 Classica
+http://icestreaming.rai.it/5.mp3
+#EXTINF:-1 group-title="RAI",Rai IsoRadio
+https://icestreaming.rai.it/6.mp3
+#EXTINF:-1 group-title="RAI",Rai GrParlamento
+https://icestreaming.rai.it/7.mp3
+#EXTINF:-1 group-title="RAI",Rai Radio 1 Sport
+https://icestreaming.rai.it/8.mp3
+#EXTINF:-1 group-title="RAI",Rai Radio Techetè
+http://icestreaming.rai.it/9.mp3
+#EXTINF:-1 group-title="RAI",Rai Radio 7 Live
+http://icestreaming.rai.it/10.mp3
+#EXTINF:-1 group-title="RAI",Rai Radio Kids
+http://icestreaming.rai.it/11.mp3
+#EXTINF:-1 group-title="RAI",Rai Radio 12
+http://icestreaming.rai.it/12.mp3
+#EXTINF:-1 group-title="RAI",Rai Radio 13
+http://icestreaming.rai.it/13.mp3
+#EXTINF:-1 group-title="RAI",Rai Radio 14
+http://icestreaming.rai.it/14.mp3
+#EXTINF:-1 group-title="Misc",Radio 24
+http://shoutcast.radio24.it:8000/
+#EXTINF:-1 group-title="Misc",Radio Radicale
+https://live.radioradicale.it/live.mp3
+#EXTINF:-1 group-title="Misc",Radio Popolare
+http://livex.radiopopolare.it/radiopop
+#EXTINF:-1 group-title="Misc",Retesport
+https://icecast.ithost.it/retesport.ogg
+#EXTINF:-1 group-title="Misc",Radio Sportiva
+https://sportiva.inmystream.it/stream/sportiva
+#EXTINF:-1 group-title="Misc",Radio CRC
+https://stream9.xdevel.com/audio2s975936-745/stream/icecast.audio
+#EXTINF:-1 group-title="Misc",TeleRadio
+https://sr8.inmystream.it:8016/stream
+#EXTINF:-1 group-title="Misc",RTL 102.5
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8
+#EXTINF:-1 group-title="Misc",Radio Onda d'Urto
+https://hochimin.urtostream.org:8443/radiondadurto.mp3
+#EXTINF:-1 group-title="Misc",Radio Italy Live
+https://streaming.radiostreamlive.com/radioitalylive_devices
+#EXTINF:-1 group-title="Misc",ICN Radio
+http://icnradiostream.out.airtime.pro:8000/icnradiostream_a
+#EXTINF:-1 group-title="Misc",Radio Italia
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
+#EXTINF:-1 group-title="Misc",Radio Freccia
+https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8
+#EXTINF:-1 group-title="Misc",Radio Senti Chi Parla
+https://26343.live.streamtheworld.com/SAM01AAC222.aac
+#EXTINF:-1 group-title="Misc",Radio Ufita
+http://onair15.xdevel.com:8590/;
+#EXTINF:-1 group-title="Misc",Radio Romanista
+https://romanista.newradio.it/stream
+#EXTINF:-1 group-title="Misc",Centro Suono Sport
+http://streaming.centrosuono.com:8000/cssport.mp3
+#EXTINF:-1 group-title="Misc",Radio Bianconera
+https://stream.tmwradio.com/bianconera.aac
+#EXTINF:-1 group-title="Misc",Giornale Radio
+https://gr.fluidstream.eu/gr1.mp3
+#EXTINF:-1 group-title="Misc",Giornale Radio Ultima Ora
+https://gr.fluidstream.eu/gr2.mp3
+#EXTINF:-1 group-title="Misc",Radio Sintony
+https://stream5.xdevel.com/audio0s976204-1069/stream/icecast.audio
+#EXTINF:-1 group-title="Misc",Radio Radio
+https://sr6.inmystream.it:18102/stream
+#EXTINF:-1 group-title="Misc",Radio Voce Spazio
+http://nr11.newradio.it:9078/stream
+#EXTINF:-1 group-title="Misc",Radiosei
+https://icecast.ithost.it/radiosei.ogg
+#EXTINF:-1 group-title="Misc",Radio Monte Carlo RMC FM
+http://icecast.unitedradio.it/RMC.mp3
+#EXTINF:-1 group-title="Misc",Radio Vaticana Italiano
+https://radio.vaticannews.va/stream-it
+#EXTINF:-1 group-title="Misc",Radio Manà Manà Sport Roma
+https://stream10.xdevel.com/audio2s975363-2142/stream/icecast.audio
+#EXTINF:-1 group-title="Misc",Radio Elettrica
+https://nr8.newradio.it/proxy/apselett
+#EXTINF:-1 group-title="Misc",Radio Bruno Sport Toscana
+http://stream1.xdevel.com/audio7s975355-282/stream/icecast.audio

@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 group-title="RNE",Radio 1
+https://d141.rndfnk.com/star/crtve/rne1/main/mp3/128/ct/stream.mp3?cid=01GEM7NBQ5JM7SEBZ7AYFDPPQD&sid=2esbr5EVaE7JfXLW6xiQfxRYafn&token=2NgkpqIegYNODoHWIJDUXT4r3LZEeD73tsbKAKesaJ4&tvf=b4K3BPnLxBdkMTQxLnJuZGZuay5jb20
+#EXTINF:-1 group-title="RNE",Radio Clasica
+http://f141.rndfnk.com/star/crtve/rnerc/main/mp3/128/stream.mp3?cid=01GEM633TKTAHEB3GYTNAEZB90&sid=2escDFfRN15Qj64i095homA5FMP&token=mZnTZDYSdw0gmY8qExC9JtqGehJZfVxE5zMwXhxt9-E&tvf=bXvf4SHMxBdmMTQxLnJuZGZuay5jb20
+#EXTINF:-1 group-title="RNE",Radio 3
+https://d121.rndfnk.com/star/crtve/rner3/main/mp3/128/stream.mp3?cid=01GEM54NYWN9ZVD7T61AKZA9QV&sid=2escTbgfQw6NqsDVZ927IXD2A12&token=HLqaeBa9oMYiAR_e-G6mfsblbaPYXBSgj9Fpaxs4tv0&tvf=JQgwR0DMxBdkMTIxLnJuZGZuay5jb20
+#EXTINF:-1 group-title="RNE",Radio 4
+https://d141.rndfnk.com/star/crtve/rner4/main/mp3/128/stream.mp3?cid=01GEM7HXWRCVRFZ1GB69X6DZ2N&sid=2escfPIIryqoPIiWYJ0qNVl6gHX&token=RdGjdT6wrM2gPt8CwjPFfWe1PTLD-P0GoxBKw1C4QYU&tvf=3TS5GVbMxBdkMTQxLnJuZGZuay5jb20
+#EXTINF:-1 group-title="RNE",Radio 5
+https://f111.rndfnk.com/star/crtve/rne5/main/mp3/128/stream.mp3?cid=01GEP4MW5CAHPYP1EXHVKWFJ8W&sid=2escpgpw2aa1rqiUedqLXScYeOv&token=ul2d5qWvPtcfP5rxOu558Pdl7y5sGZPjGdcCwdagI7M&tvf=1X1PSGnMxBdmMTExLnJuZGZuay5jb20
+#EXTINF:-1 group-title="RNE",Radio Exterior
+http://f131.rndfnk.com/star/crtve/rneree/main/mp3/128/stream.mp3?cid=01GEM4SVEXZ7HXBQRF6VZQVVBH&sid=2esbEFpzf8hWbRDwJDc1rpcA7D0&token=VR43RSvgJ6KMKQefbd-hin5FOJCODI2wz2ZOFp3YfNs&tvf=X7TbF7HLxBdmMTMxLnJuZGZuay5jb20
+#EXTINF:-1 group-title="Misc",Cadena SER
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1 group-title="Misc",Cadena SER Radio Barcelona
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3
+#EXTINF:-1 group-title="Misc",Cope Directo 2
+https://flucast07-o-cloud.flumotion.com/cope/net2.mp3
+#EXTINF:-1 group-title="Misc",Cope Madrid
+https://flucast02-h-cloud.flumotion.com/cope/madrid.mp3
+#EXTINF:-1 group-title="Misc",Cope Sevilla
+http://sevilla.copesedes.stream.flumotion.com/copesedes/sevilla.mp3.m3u
+#EXTINF:-1 group-title="Misc",ES Radio
+http://livestreaming.esradio.fm/stream64.mp3
+#EXTINF:-1 group-title="Misc",RAC 1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:-1 group-title="Misc",Radio Marca Madrid
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL_SC
+#EXTINF:-1 group-title="Misc",Radio Marca Barcelona
+http://radioweb.radiomarcabarcelona.com:9000/stream.m3u
+#EXTINF:-1 group-title="Misc",Catalunya Radio
+https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
+#EXTINF:-1 group-title="Misc",Onda Cero Espania
+https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
+#EXTINF:-1 group-title="Misc",Informa Radio
+https://24x7.red:42045/informa
+#EXTINF:-1 group-title="Misc",Radio Libertad
+https://server9.emitironline.com:19482/stream
+#EXTINF:-1 group-title="Misc",LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
