@@ -21,6 +21,10 @@ http://example.com/bbc_radio_one.m3u8
 
 ## Submitting stations
 
+Every submission is checked before it is merged: the file must be in a
+playlist format BlindRadio supports and every station must parse and
+point at a playable stream.
+
 Open a pull request that adds or edits a playlist file:
 
 - One station is an `#EXTINF` line (name, and a `group-title` if it
