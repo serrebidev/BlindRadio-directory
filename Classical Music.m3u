@@ -19,8 +19,8 @@ https://stream.tunerplay.com/radio/8010/adagioradio.mp3
 http://allclassical-ice.streamguys.com/ac96kmp3
 #EXTINF:-1 group-title="Barok",Barok
 http://streams.greenhost.nl:8080/barok
-#EXTINF:-1 group-title="Cinemix",Cinemix
-http://94.23.51.96:8107
+#EXTINF:-1 group-title="Cinemix",Cinemix HD
+https://kathy.torontocast.com:1825/stream
 #EXTINF:-1 group-title="Classic FM",Classic FM
 https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80
 #EXTINF:-1 group-title="Classic FM France",Classic FM France

@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="Portugal",Antena 1
+#EXTINF:-1 group-title="Misc",Antena 1
 https://radioip.rtp.pt/liveradio/antena180a/chunklist.m3u8
-#EXTINF:-1 group-title="Portugal",Antena 2
+#EXTINF:-1 group-title="Misc",Antena 2
 https://streaming-live.rtp.pt/liveradio/antena280a/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="Portugal",TSF Rádio Notícias
+#EXTINF:-1 group-title="Misc",TSF Rádio Notícias
 https://directo.tsf.pt/tsfdirecto.mp3
-#EXTINF:-1 group-title="Portugal",Radio TSF Madeira
+#EXTINF:-1 group-title="Misc",Radio TSF Madeira
 http://centova.radios.pt:9470/stream
-#EXTINF:-1 group-title="Portugal",Golo FM
+#EXTINF:-1 group-title="Misc",Golo FM
 https://sp0.redeaudio.com/8154/stream
-#EXTINF:-1 group-title="Portugal",RDP Internacional
+#EXTINF:-1 group-title="Misc",RDP Internacional
 https://radiocast.rtp.pt/rdpint80a.mp3
-#EXTINF:-1 group-title="Portugal",Portuense Radio
+#EXTINF:-1 group-title="Misc",Portuense Radio
 https://sp0.redeaudio.com/8160/stream

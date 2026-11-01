@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="AZPM",AZPM
-https://streaming.azpm.org/kuaz256
 #EXTINF:-1 group-title="AZPM",AZPM Classical
 https://streaming.azpm.org/kuat256
 #EXTINF:-1 group-title="AZPM",AZPM Jazz

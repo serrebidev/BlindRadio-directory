@@ -1,985 +1,985 @@
 #EXTM3U
-#EXTINF:-1 group-title="Germany",Bayern 1 Mainfranken
+#EXTINF:-1 group-title="BR",Bayern 1 Mainfranken
 https://streams.br.de/bayern1main_2.m3u
-#EXTINF:-1 group-title="Germany",Bayern 1 Niederbayern/Oberpfalz
+#EXTINF:-1 group-title="BR",Bayern 1 Niederbayern/Oberpfalz
 https://streams.br.de/bayern1nbopf_2.m3u
-#EXTINF:-1 group-title="Germany",Bayern 1 Oberbayern
+#EXTINF:-1 group-title="BR",Bayern 1 Oberbayern
 https://streams.br.de/bayern1obb_2.m3u
-#EXTINF:-1 group-title="Germany",Bayern 1 Oberfranken
+#EXTINF:-1 group-title="BR",Bayern 1 Oberfranken
 https://streams.br.de/bayern1fran_2.m3u
-#EXTINF:-1 group-title="Germany",Bayern 1 Schwaben
+#EXTINF:-1 group-title="BR",Bayern 1 Schwaben
 https://streams.br.de/bayern1schw_2.m3u
-#EXTINF:-1 group-title="Germany",Bayern 2 Nord
+#EXTINF:-1 group-title="BR",Bayern 2 Nord
 https://streams.br.de/bayern2nord_2.m3u
-#EXTINF:-1 group-title="Germany",Bayern 2 Süd
+#EXTINF:-1 group-title="BR",Bayern 2 Süd
 https://streams.br.de/bayern2sued_2.m3u
-#EXTINF:-1 group-title="Germany",Bayern 3
+#EXTINF:-1 group-title="BR",Bayern 3
 https://streams.br.de/bayern3_2.m3u
-#EXTINF:-1 group-title="Germany",BR Heimat
+#EXTINF:-1 group-title="BR",BR Heimat
 https://streams.br.de/brheimat_2.m3u
-#EXTINF:-1 group-title="Germany",BR24
+#EXTINF:-1 group-title="BR",BR24
 https://streams.br.de/br24_2.m3u
-#EXTINF:-1 group-title="Germany",BR24Live
+#EXTINF:-1 group-title="BR",BR24Live
 https://streams.br.de/br24live_2.m3u
-#EXTINF:-1 group-title="Germany",BR-Klassik
+#EXTINF:-1 group-title="BR",BR-Klassik
 https://streams.br.de/br-klassik_3.m3u
-#EXTINF:-1 group-title="Germany",BR-Schlager
+#EXTINF:-1 group-title="BR",BR-Schlager
 https://streams.br.de/brschlager_2.m3u
-#EXTINF:-1 group-title="Germany",Puls
+#EXTINF:-1 group-title="BR",Puls
 https://streams.br.de/puls_2.m3u
-#EXTINF:-1 group-title="Germany",Deutschlandfunk
+#EXTINF:-1 group-title="DR",Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac
-#EXTINF:-1 group-title="Germany",Deutschlandfunk Kultur
+#EXTINF:-1 group-title="DR",Deutschlandfunk Kultur
 https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac
-#EXTINF:-1 group-title="Germany",Deutschlandfunk Nova
+#EXTINF:-1 group-title="DR",Deutschlandfunk Nova
 https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac
-#EXTINF:-1 group-title="Germany",Dokumente und Debatten
+#EXTINF:-1 group-title="DR",Dokumente und Debatten
 https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac
-#EXTINF:-1 group-title="Germany",hr1
+#EXTINF:-1 group-title="HR",hr1
 http://metafiles.gl-systemhaus.de/hr/hr1_2.m3u
-#EXTINF:-1 group-title="Germany",hr2
+#EXTINF:-1 group-title="HR",hr2
 https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high
-#EXTINF:-1 group-title="Germany",hr3
+#EXTINF:-1 group-title="HR",hr3
 http://metafiles.gl-systemhaus.de/hr/hr3_2.m3u
-#EXTINF:-1 group-title="Germany",hr4 Mittelhessen
+#EXTINF:-1 group-title="HR",hr4 Mittelhessen
 http://metafiles.gl-systemhaus.de/hr/hr4_mitte_2.m3u
-#EXTINF:-1 group-title="Germany",hr4 Nord-Osthessen
+#EXTINF:-1 group-title="HR",hr4 Nord-Osthessen
 https://dispatcher.rndfnk.com/hr/hr4/nord/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",hr4 Südhessen
+#EXTINF:-1 group-title="HR",hr4 Südhessen
 http://metafiles.gl-systemhaus.de/hr/hr4_2.m3u
-#EXTINF:-1 group-title="Germany",hr-iNFO
+#EXTINF:-1 group-title="HR",hr-iNFO
 https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high
-#EXTINF:-1 group-title="Germany",YOU FM
+#EXTINF:-1 group-title="HR",YOU FM
 http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u
-#EXTINF:-1 group-title="Germany",MDR Aktuell
+#EXTINF:-1 group-title="MDR",MDR Aktuell
 http://avw.mdr.de/streams/284340-0_aac_high.m3u
-#EXTINF:-1 group-title="Germany",MDR Jump
+#EXTINF:-1 group-title="MDR",MDR Jump
 https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/aac/high/stream.aac
-#EXTINF:-1 group-title="Germany",MDR Jump In The Mix
+#EXTINF:-1 group-title="MDR",MDR Jump In The Mix
 https://avw.mdr.de/streams/284321-2_aac_high.m3u
-#EXTINF:-1 group-title="Germany",MDR JUMP Trend
+#EXTINF:-1 group-title="MDR",MDR JUMP Trend
 https://avw.mdr.de/streams/284321-0_aac_high.m3u
-#EXTINF:-1 group-title="Germany",MDR Klassik
+#EXTINF:-1 group-title="MDR",MDR Klassik
 http://avw.mdr.de/streams/284350-0_aac_high.m3u
-#EXTINF:-1 group-title="Germany",MDR Kultur
+#EXTINF:-1 group-title="MDR",MDR Kultur
 http://mdr-284310-0.cast.mdr.de/mdr/284310/0/aac/high/stream.aac
-#EXTINF:-1 group-title="Germany",MDR Kultur - Klassik im Konzert
+#EXTINF:-1 group-title="MDR",MDR Kultur - Klassik im Konzert
 http://avw.mdr.de/streams/284311-0_aac_high.m3u
-#EXTINF:-1 group-title="Germany",MDR Sachsen
+#EXTINF:-1 group-title="MDR",MDR Sachsen
 http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",MDR Sachsen-Anhalt
+#EXTINF:-1 group-title="MDR",MDR Sachsen-Anhalt
 http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",MDR Sachsen-Anhalt Sorbisch
+#EXTINF:-1 group-title="MDR",MDR Sachsen-Anhalt Sorbisch
 http://mdr-990100-0.cast.mdr.de/mdr/990100/0/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",MDR Schlagerwelt Sachsen
+#EXTINF:-1 group-title="MDR",MDR Schlagerwelt Sachsen
 http://avw.mdr.de/streams/990801-0_mp3_high.m3u
-#EXTINF:-1 group-title="Germany",MDR Schlagerwelt Sachsen-Anhalt
+#EXTINF:-1 group-title="MDR",MDR Schlagerwelt Sachsen-Anhalt
 http://avw.mdr.de/streams/990701-0_mp3_high.m3u
-#EXTINF:-1 group-title="Germany",MDR Schlagerwelt Thüringen
+#EXTINF:-1 group-title="MDR",MDR Schlagerwelt Thüringen
 http://avw.mdr.de/streams/990601-0_mp3_high.m3u
-#EXTINF:-1 group-title="Germany",MDR Sputnik
+#EXTINF:-1 group-title="MDR",MDR Sputnik
 http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",MDR Sputnik Black
+#EXTINF:-1 group-title="MDR",MDR Sputnik Black
 http://mdr-284331-0.cast.mdr.de/mdr/284331/0/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",MDR Sputnik Club
+#EXTINF:-1 group-title="MDR",MDR Sputnik Club
 http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",MDR Sputnik Firstplay
+#EXTINF:-1 group-title="MDR",MDR Sputnik Firstplay
 http://mdr-284331-3.cast.mdr.de/mdr/284331/3/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",MDR Sputnik Popkult
+#EXTINF:-1 group-title="MDR",MDR Sputnik Popkult
 http://mdr-284331-4.cast.mdr.de/mdr/284331/4/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",MDR Sputnik Roboton
+#EXTINF:-1 group-title="MDR",MDR Sputnik Roboton
 http://mdr-284331-5.cast.mdr.de/mdr/284331/5/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",MDR Sputnik Rock
+#EXTINF:-1 group-title="MDR",MDR Sputnik Rock
 http://mdr-284331-1.cast.mdr.de/mdr/284331/1/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",MDR SPUTNIK Soundcheck
+#EXTINF:-1 group-title="MDR",MDR SPUTNIK Soundcheck
 https://avw.mdr.de/streams/284331-6_aac_high.m3u
-#EXTINF:-1 group-title="Germany",MDR Thüringen
+#EXTINF:-1 group-title="MDR",MDR Thüringen
 http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",MDR Tweens
+#EXTINF:-1 group-title="MDR",MDR Tweens
 http://mdr-991101-0.cast.mdr.de/mdr/991101/0/mp3/high/stream.mp3
-#EXTINF:-1 group-title="Germany",NDR 1 Niedersachsen
+#EXTINF:-1 group-title="NDR",NDR 1 Niedersachsen
 https://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u
-#EXTINF:-1 group-title="Germany",NDR 1 Radio MV
+#EXTINF:-1 group-title="NDR",NDR 1 Radio MV
 https://www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv_hro.m3u
-#EXTINF:-1 group-title="Germany",NDR 1 Welle Nord
+#EXTINF:-1 group-title="NDR",NDR 1 Welle Nord
 https://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord.m3u
-#EXTINF:-1 group-title="Germany",NDR 2 Hamburg
+#EXTINF:-1 group-title="NDR",NDR 2 Hamburg
 https://www.ndr.de/resources/metadaten/audio/m3u/ndr2_hh.m3u
-#EXTINF:-1 group-title="Germany",NDR 2 MV
+#EXTINF:-1 group-title="NDR",NDR 2 MV
 https://www.ndr.de/resources/metadaten/audio/m3u/ndr2_mv.m3u
-#EXTINF:-1 group-title="Germany",NDR 2 Niedersachsen
+#EXTINF:-1 group-title="NDR",NDR 2 Niedersachsen
 https://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u
-#EXTINF:-1 group-title="Germany",NDR 2 Schleswig-Holstein
+#EXTINF:-1 group-title="NDR",NDR 2 Schleswig-Holstein
 https://www.ndr.de/resources/metadaten/audio/m3u/ndr2_sh.m3u
-#EXTINF:-1 group-title="Germany",NDR 90,3
+#EXTINF:-1 group-title="NDR",NDR 90,3
 https://www.ndr.de/resources/metadaten/audio/m3u/ndr903.m3u
-#EXTINF:-1 group-title="Germany",NDR Blue
+#EXTINF:-1 group-title="NDR",NDR Blue
 https://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u
-#EXTINF:-1 group-title="Germany",NDR Info Hamburg
+#EXTINF:-1 group-title="NDR",NDR Info Hamburg
 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u
-#EXTINF:-1 group-title="Germany",NDR Info MV
+#EXTINF:-1 group-title="NDR",NDR Info MV
 https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_mv.m3u
-#EXTINF:-1 group-title="Germany",NDR Info Niedersachsen
+#EXTINF:-1 group-title="NDR",NDR Info Niedersachsen
 https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u
-#EXTINF:-1 group-title="Germany",NDR Info Schleswig-Holstein
+#EXTINF:-1 group-title="NDR",NDR Info Schleswig-Holstein
 https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u
-#EXTINF:-1 group-title="Germany",NDR Info Spezial
+#EXTINF:-1 group-title="NDR",NDR Info Spezial
 https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_spezial.m3u
-#EXTINF:-1 group-title="Germany",NDR Kultur
+#EXTINF:-1 group-title="NDR",NDR Kultur
 https://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u
-#EXTINF:-1 group-title="Germany",NDR Schlager
+#EXTINF:-1 group-title="NDR",NDR Schlager
 https://www.ndr.de/resources/metadaten/audio/m3u/ndrschlager.m3u
-#EXTINF:-1 group-title="Germany",N-JOY
+#EXTINF:-1 group-title="NDR",N-JOY
 https://www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u
-#EXTINF:-1 group-title="Germany",FM4
+#EXTINF:-1 group-title="ORF",FM4
 http://orf-live.ors-shoutcast.at/fm4-q2a
-#EXTINF:-1 group-title="Germany",Hitradio OE3
+#EXTINF:-1 group-title="ORF",Hitradio OE3
 http://orf-live.ors-shoutcast.at/oe3-q2a
-#EXTINF:-1 group-title="Germany",OE 1
+#EXTINF:-1 group-title="ORF",OE 1
 http://orf-live.ors-shoutcast.at/oe1-q2a
-#EXTINF:-1 group-title="Germany",OE1 Campus
+#EXTINF:-1 group-title="ORF",OE1 Campus
 https://orf-live.ors-shoutcast.at/campus-q2a
-#EXTINF:-1 group-title="Germany",OE1 DD
+#EXTINF:-1 group-title="ORF",OE1 DD
 https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8
-#EXTINF:-1 group-title="Germany",ORF Radio Kärnten
+#EXTINF:-1 group-title="ORF",ORF Radio Kärnten
 http://orf-live.ors-shoutcast.at/ktn-q2a
-#EXTINF:-1 group-title="Germany",ORF Radio Salzburg
+#EXTINF:-1 group-title="ORF",ORF Radio Salzburg
 http://orf-live.ors-shoutcast.at/sbg-q2a
-#EXTINF:-1 group-title="Germany",ORF Tirol
+#EXTINF:-1 group-title="ORF",ORF Tirol
 http://orf-live.ors-shoutcast.at/tir-q2a
-#EXTINF:-1 group-title="Germany",Radio Burgenland
+#EXTINF:-1 group-title="ORF",Radio Burgenland
 http://orf-live.ors-shoutcast.at/bgl-q2a
-#EXTINF:-1 group-title="Germany",Radio Niederösterreich
+#EXTINF:-1 group-title="ORF",Radio Niederösterreich
 http://orf-live.ors-shoutcast.at/noe-q2a
-#EXTINF:-1 group-title="Germany",Radio Oberösterreich
+#EXTINF:-1 group-title="ORF",Radio Oberösterreich
 http://orf-live.ors-shoutcast.at/ooe-q2a
-#EXTINF:-1 group-title="Germany",Radio Steiermark
+#EXTINF:-1 group-title="ORF",Radio Steiermark
 http://orf-live.ors-shoutcast.at/stm-q2a
-#EXTINF:-1 group-title="Germany",Radio Vorarlberg
+#EXTINF:-1 group-title="ORF",Radio Vorarlberg
 http://orf-live.ors-shoutcast.at/vbg-q2a
-#EXTINF:-1 group-title="Germany",Radio Wien
+#EXTINF:-1 group-title="ORF",Radio Wien
 http://orf-live.ors-shoutcast.at/wie-q2a
-#EXTINF:-1 group-title="Germany",Bremen Eins
+#EXTINF:-1 group-title="RB",Bremen Eins
 https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",Bremen Eins Beat-Club
+#EXTINF:-1 group-title="RB",Bremen Eins Beat-Club
 https://icecast.radiobremen.de/rb/webchannel6/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",Bremen Eins Spezial
+#EXTINF:-1 group-title="RB",Bremen Eins Spezial
 https://icecast.radiobremen.de/rb/webchannel5/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",Bremen Next
+#EXTINF:-1 group-title="RB",Bremen Next
 https://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",Bremen Spezial
+#EXTINF:-1 group-title="RB",Bremen Spezial
 https://icecast.radiobremen.de/rb/webchannel2/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",Bremen Vier
+#EXTINF:-1 group-title="RB",Bremen Vier
 https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",Bremen Vier Rockt
+#EXTINF:-1 group-title="RB",Bremen Vier Rockt
 https://icecast.radiobremen.de/rb/webchannel8/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",Bremen Zwei
+#EXTINF:-1 group-title="RB",Bremen Zwei
 https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",Antenne Brandenburg
+#EXTINF:-1 group-title="RBB",Antenne Brandenburg
 http://www.antennebrandenburg.de/livemp3
-#EXTINF:-1 group-title="Germany",Fritz
+#EXTINF:-1 group-title="RBB",Fritz
 http://fritz.de/livemp3
-#EXTINF:-1 group-title="Germany",Inforadio
+#EXTINF:-1 group-title="RBB",Inforadio
 http://www.inforadio.de/live.m3u
-#EXTINF:-1 group-title="Germany",Kulturradio
+#EXTINF:-1 group-title="RBB",Kulturradio
 http://www.rbbkultur.de/live.m3u
-#EXTINF:-1 group-title="Germany",radioBERLIN 88
+#EXTINF:-1 group-title="RBB",radioBERLIN 88
 http://www.rbb888.de/live.m3u
-#EXTINF:-1 group-title="Germany",Radioeins
+#EXTINF:-1 group-title="RBB",Radioeins
 http://www.radioeins.de/livemp3
-#EXTINF:-1 group-title="Germany",AntenneSaar
+#EXTINF:-1 group-title="SR",AntenneSaar
 http://sr.audiostream.io/sr/1013/mp3/128/as
-#EXTINF:-1 group-title="Germany",SR 1
+#EXTINF:-1 group-title="SR",SR 1
 http://sr.audiostream.io/sr/1009/mp3/128/sr1
-#EXTINF:-1 group-title="Germany",SR 1 Like-O-Mat
+#EXTINF:-1 group-title="SR",SR 1 Like-O-Mat
 http://sr.audiostream.io/sr/1012/mp3/128/sr1c1
-#EXTINF:-1 group-title="Germany",SR 1 Lounge
+#EXTINF:-1 group-title="SR",SR 1 Lounge
 http://sr.audiostream.io/sr/1012/mp3/128/sr1c2
-#EXTINF:-1 group-title="Germany",SR 2 KulturRadio
+#EXTINF:-1 group-title="SR",SR 2 KulturRadio
 http://sr.audiostream.io/sr/1010/mp3/128/sr2
-#EXTINF:-1 group-title="Germany",SR 2 Off-Beat
+#EXTINF:-1 group-title="SR",SR 2 Off-Beat
 http://sr.audiostream.io/sr/1012/mp3/128/sr2c1
-#EXTINF:-1 group-title="Germany",SR 3 Oldiewelt
+#EXTINF:-1 group-title="SR",SR 3 Oldiewelt
 http://sr.audiostream.io/sr/1012/mp3/128/sr3c2
-#EXTINF:-1 group-title="Germany",SR 3 Saarlandwelle
+#EXTINF:-1 group-title="SR",SR 3 Saarlandwelle
 http://sr.audiostream.io/sr/1011/mp3/128/sr3
-#EXTINF:-1 group-title="Germany",SR 3 Schlagerwelt
+#EXTINF:-1 group-title="SR",SR 3 Schlagerwelt
 http://sr.audiostream.io/sr/1012/mp3/128/sr3c1
-#EXTINF:-1 group-title="Germany",UnserDing
+#EXTINF:-1 group-title="SR",UnserDing
 http://streaming01.sr-online.de/unserding_2.m3u
-#EXTINF:-1 group-title="Germany",UnserDing Schwarz
+#EXTINF:-1 group-title="SR",UnserDing Schwarz
 http://streaming02.sr-online.de/unserding-schwarz.m3u
-#EXTINF:-1 group-title="Germany",UnserDing Zukunft
+#EXTINF:-1 group-title="SR",UnserDing Zukunft
 https://streaming.sr.de/https/unserding-zukunft.m3u
-#EXTINF:-1 group-title="Germany",DASDING
+#EXTINF:-1 group-title="SWR",DASDING
 https://liveradio.swr.de/sw282p3/dasding/
-#EXTINF:-1 group-title="Germany",DASDING Chillout
+#EXTINF:-1 group-title="SWR",DASDING Chillout
 https://liveradio.swr.de/sw331ch/raka10/
-#EXTINF:-1 group-title="Germany",DASDING Partyfieber
+#EXTINF:-1 group-title="SWR",DASDING Partyfieber
 https://liveradio.swr.de/sw331ch/raka07/
-#EXTINF:-1 group-title="Germany",DASDING Rap
+#EXTINF:-1 group-title="SWR",DASDING Rap
 https://liveradio.swr.de/sw331ch/raka11/
-#EXTINF:-1 group-title="Germany",DASDING Weekend Warmup
+#EXTINF:-1 group-title="SWR",DASDING Weekend Warmup
 https://liveradio.swr.de/sw331ch/raka04/
-#EXTINF:-1 group-title="Germany",DASDING Zukunftsmusik
+#EXTINF:-1 group-title="SWR",DASDING Zukunftsmusik
 https://liveradio.swr.de/sw331ch/raka12/
-#EXTINF:-1 group-title="Germany",SWR Aktuell
+#EXTINF:-1 group-title="SWR",SWR Aktuell
 https://liveradio.swr.de/sw282p3/swraktuell/
-#EXTINF:-1 group-title="Germany",SWR1 Baden-Württemberg
+#EXTINF:-1 group-title="SWR",SWR1 Baden-Württemberg
 https://liveradio.swr.de/sw282p3/swr1bw/
-#EXTINF:-1 group-title="Germany",SWR1 Rheinland-Pfalz
+#EXTINF:-1 group-title="SWR",SWR1 Rheinland-Pfalz
 https://liveradio.swr.de/sw282p3/swr1rp/
-#EXTINF:-1 group-title="Germany",SWR2
+#EXTINF:-1 group-title="SWR",SWR2
 https://liveradio.swr.de/sw282p3/swr2/
-#EXTINF:-1 group-title="Germany",SWR2 Archivradio
+#EXTINF:-1 group-title="SWR",SWR2 Archivradio
 https://liveradio.swr.de/sw331ch/raka02/
-#EXTINF:-1 group-title="Germany",SWR3
+#EXTINF:-1 group-title="SWR",SWR3
 https://liveradio.swr.de/sw282p3/swr3/
-#EXTINF:-1 group-title="Germany",SWR3 Lyrix
+#EXTINF:-1 group-title="SWR",SWR3 Lyrix
 https://liveradio.swr.de/sw331ch/raka03/
-#EXTINF:-1 group-title="Germany",SWR3 Party
+#EXTINF:-1 group-title="SWR",SWR3 Party
 https://liveradio.swr.de/sw331ch/raka06/
-#EXTINF:-1 group-title="Germany",SWR3 Rock
+#EXTINF:-1 group-title="SWR",SWR3 Rock
 https://liveradio.swr.de/sw331ch/raka05/
-#EXTINF:-1 group-title="Germany",SWR4 Baden-Württemberg
+#EXTINF:-1 group-title="SWR",SWR4 Baden-Württemberg
 https://liveradio.swr.de/sw282p3/swr4bw/
-#EXTINF:-1 group-title="Germany",SWR4 Rheinland-Pfalz
+#EXTINF:-1 group-title="SWR",SWR4 Rheinland-Pfalz
 https://liveradio.swr.de/sw282p3/swr4rp/
-#EXTINF:-1 group-title="Germany",1LIVE
+#EXTINF:-1 group-title="WDR",1LIVE
 http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",1LIVE DIGGI
+#EXTINF:-1 group-title="WDR",1LIVE DIGGI
 http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",1LIVE DJ SESSION
+#EXTINF:-1 group-title="WDR",1LIVE DJ SESSION
 http://wdr-1live-djsession.icecast.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",1LIVE FIEHE
+#EXTINF:-1 group-title="WDR",1LIVE FIEHE
 http://wdr-1live-fiehe.icecast.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",1LIVE HIPHOP
+#EXTINF:-1 group-title="WDR",1LIVE HIPHOP
 http://wdr-1live-hiphop.icecast.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",1LIVE NEU FÜR DEN SEKTOR
+#EXTINF:-1 group-title="WDR",1LIVE NEU FÜR DEN SEKTOR
 http://wdr-1live-neufuerdensektor.icecast.wdr.de/wdr/1live/neufuerdensektor/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",1LIVE PLAN B
+#EXTINF:-1 group-title="WDR",1LIVE PLAN B
 http://wdr-1live-planb.icecast.wdr.de/wdr/1live/planb/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",1LIVE SPECIAL
+#EXTINF:-1 group-title="WDR",1LIVE SPECIAL
 http://wdr-1live-specials.icecast.wdr.de/wdr/1live/specials/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR 2 (Aachen und Region)
+#EXTINF:-1 group-title="WDR",WDR 2 (Aachen und Region)
 http://wdr-wdr2-aachenundregion.icecast.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR 2 (Bergisches Land)
+#EXTINF:-1 group-title="WDR",WDR 2 (Bergisches Land)
 http://wdr-wdr2-bergischesland.icecast.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR 2 (Münsterland)
+#EXTINF:-1 group-title="WDR",WDR 2 (Münsterland)
 http://wdr-wdr2-muensterland.icecast.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR 2 (Ostwestfalen-Lippe)
+#EXTINF:-1 group-title="WDR",WDR 2 (Ostwestfalen-Lippe)
 http://wdr-wdr2-ostwestfalenlippe.icecast.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR 2 (Rhein und Ruhr)
+#EXTINF:-1 group-title="WDR",WDR 2 (Rhein und Ruhr)
 http://wdr-wdr2-rheinruhr.icecast.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR 2 (Rheinland)
+#EXTINF:-1 group-title="WDR",WDR 2 (Rheinland)
 http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR 2 (Ruhrgebiet)
+#EXTINF:-1 group-title="WDR",WDR 2 (Ruhrgebiet)
 http://wdr-wdr2-ruhrgebiet.icecast.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR 2 (Südwestfalen)
+#EXTINF:-1 group-title="WDR",WDR 2 (Südwestfalen)
 http://wdr-wdr2-suedwestfalen.icecast.wdr.de/wdr/wdr2/suedwestfalen/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR 2. Sportschau Live
+#EXTINF:-1 group-title="WDR",WDR 2. Sportschau Live
 http://wdr-sportschau-liga2konferenz.icecastssl.wdr.de/wdr/sportschau/liga2konferenz/mp3/high
-#EXTINF:-1 group-title="Germany",WDR 3
+#EXTINF:-1 group-title="WDR",WDR 3
 http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR 4
+#EXTINF:-1 group-title="WDR",WDR 4
 http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR 5
+#EXTINF:-1 group-title="WDR",WDR 5
 http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR COSMO
+#EXTINF:-1 group-title="WDR",WDR COSMO
 http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR COSMO Live
+#EXTINF:-1 group-title="WDR",WDR COSMO Live
 http://wdr-cosmo-coslive.icecast.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR Die Maus
+#EXTINF:-1 group-title="WDR",WDR Die Maus
 https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/56/stream.mp3
-#EXTINF:-1 group-title="Germany",WDR Event
+#EXTINF:-1 group-title="WDR",WDR Event
 http://wdr-wdr-event.icecast.wdr.de/wdr/wdr/event/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",104.6 RTL - 80er
+#EXTINF:-1 group-title="1",104.6 RTL - 80er
 http://stream.104.6rtl.com/rtl-80er/mp3-128
-#EXTINF:-1 group-title="Germany",104.6 RTL - Rock & Pop
+#EXTINF:-1 group-title="1",104.6 RTL - Rock & Pop
 http://stream.104.6rtl.com/rtl-poprock/mp3-128
-#EXTINF:-1 group-title="Germany",104.6 RTL Berlin
+#EXTINF:-1 group-title="1",104.6 RTL Berlin
 http://stream.104.6rtl.com/rtl-top40/mp3-192
-#EXTINF:-1 group-title="Germany",105.5 Spreeradio
+#EXTINF:-1 group-title="1",105.5 Spreeradio
 http://stream.spreeradio.de/spree-live/mp3-128
-#EXTINF:-1 group-title="Germany",105.5 Spreeradio Rock
+#EXTINF:-1 group-title="1",105.5 Spreeradio Rock
 http://stream.spreeradio.de/spree-rock/mp3-128
-#EXTINF:-1 group-title="Germany",106.4 TOP FM - Der beste Mix aus Pop & Rock
+#EXTINF:-1 group-title="1",106.4 TOP FM - Der beste Mix aus Pop & Rock
 http://mp3.topfm.c.nmdn.net/ps-topfm/livestream.mp3
-#EXTINF:-1 group-title="Germany",180 Grad FM
+#EXTINF:-1 group-title="1",180 Grad FM
 http://180grad-fm.stream.laut.fm/180grad-fm
-#EXTINF:-1 group-title="Germany",88vier
+#EXTINF:-1 group-title="8",88vier
 http://ice.rosebud-media.de:8000/88vier
-#EXTINF:-1 group-title="Germany",89.0 RTL
+#EXTINF:-1 group-title="8",89.0 RTL
 http://stream.89.0rtl.de/live/mp3-256
-#EXTINF:-1 group-title="Germany",917 XFM
+#EXTINF:-1 group-title="9",917 XFM
 http://stream.rockantenne.hamburg/917xfm/stream/mp3
-#EXTINF:-1 group-title="Germany",99drei Radio Mittweida
+#EXTINF:-1 group-title="9",99drei Radio Mittweida
 http://netradio.ext.htwm.de:8000/live128
-#EXTINF:-1 group-title="Germany",Additan Radio
+#EXTINF:-1 group-title="A",Additan Radio
 http://additan.stream.laut.fm/additan
-#EXTINF:-1 group-title="Germany",afk M94.5
+#EXTINF:-1 group-title="A",afk M94.5
 https://stream.m945.de/m945-hq.mp3
-#EXTINF:-1 group-title="Germany",afk Max
+#EXTINF:-1 group-title="A",afk Max
 http://stream.afkmax.de/afkmax-hq.mp3
-#EXTINF:-1 group-title="Germany",Antenne 1
+#EXTINF:-1 group-title="A",Antenne 1
 http://stream.antenne1.de/a1stg/livestream2.mp3
-#EXTINF:-1 group-title="Germany",Antenne AC
+#EXTINF:-1 group-title="A",Antenne AC
 http://mp3.antenneac.c.nmdn.net/ps-antenneac/livestream.mp3
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN
+#EXTINF:-1 group-title="A",ANTENNE BAYERN
 http://stream.antenne.de/antenne/stream/mp3
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN 80er Kulthits
+#EXTINF:-1 group-title="A",ANTENNE BAYERN 80er Kulthits
 http://stream.antenne.de/80er-kulthits
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN 90er Hits
+#EXTINF:-1 group-title="A",ANTENNE BAYERN 90er Hits
 http://stream.antenne.de/90er-hits
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Black Beatz
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Black Beatz
 http://stream.antenne.de/black-beatz
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Chillout
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Chillout
 http://stream.antenne.de/chillout
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Classic Rock Live
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Classic Rock Live
 http://stream.antenne.de/classic-rock-live
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Coffee Music
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Coffee Music
 http://stream.antenne.de/coffee
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Event
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Event
 http://stream.antenne.de/event
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Fresh
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Fresh
 http://stream.antenne.de/fresh
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Hitmix
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Hitmix
 http://stream.antenne.de/hitmix
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Hits fuer Kids
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Hits fuer Kids
 http://stream.antenne.de/hits-fuer-kids
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Lovesongs
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Lovesongs
 http://stream.antenne.de/lovesongs
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Oldies but Goldies
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Oldies but Goldies
 http://stream.antenne.de/oldies-but-goldies
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Relax
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Relax
 http://stream.antenne.de/relax
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Rockantenne-Deutschland
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Rockantenne-Deutschland
 http://stream.antenne.de/rockantenne-deutschland
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Schlagersahne
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Schlagersahne
 http://stream.antenne.de/das-schlager-karussell
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Top 40
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Top 40
 http://stream.antenne.de/top-40
-#EXTINF:-1 group-title="Germany",ANTENNE BAYERN Workout-Hits
+#EXTINF:-1 group-title="A",ANTENNE BAYERN Workout-Hits
 http://stream.antenne.de/workout-hits
-#EXTINF:-1 group-title="Germany",Antenne Duesseldorf 104.2 FM
+#EXTINF:-1 group-title="A",Antenne Duesseldorf 104.2 FM
 http://stream.antenneduesseldorf.de/444z5kv
-#EXTINF:-1 group-title="Germany",Antenne Duesseldorf lauter:Rock
+#EXTINF:-1 group-title="A",Antenne Duesseldorf lauter:Rock
 http://antenne.stream.laut.fm/antenne
-#EXTINF:-1 group-title="Germany",Antenne Koblenz 98.0 FM
+#EXTINF:-1 group-title="A",Antenne Koblenz 98.0 FM
 https://radiogroup-stream32.radiohost.de//antenne-koblenz_mp3-192
-#EXTINF:-1 group-title="Germany",Antenne Mainz
+#EXTINF:-1 group-title="A",Antenne Mainz
 http://antennemainz-live.cast.addradio.de/antennemainz/live/mp3/high
-#EXTINF:-1 group-title="Germany",Antenne Münster 95.4 FM
+#EXTINF:-1 group-title="A",Antenne Münster 95.4 FM
 http://addrad.io/4459h2p
-#EXTINF:-1 group-title="Germany",Antenne Niederrhein 105.7 FM
+#EXTINF:-1 group-title="A",Antenne Niederrhein 105.7 FM
 http://stream.antenneniederrhein.de/444z5nm
-#EXTINF:-1 group-title="Germany",Antenne Niedersachsen
+#EXTINF:-1 group-title="A",Antenne Niedersachsen
 http://stream.antenne.com/antenne-nds/mp3-192
-#EXTINF:-1 group-title="Germany",Antenne Pulheim 97,2
+#EXTINF:-1 group-title="A",Antenne Pulheim 97,2
 http://stream.antennepulheim.de:8000/antennepulheim
-#EXTINF:-1 group-title="Germany",Antenne Sauerland
+#EXTINF:-1 group-title="A",Antenne Sauerland
 http://antenne-sauerland.stream.laut.fm/antenne-sauerland
-#EXTINF:-1 group-title="Germany",Antenne Sylt
+#EXTINF:-1 group-title="A",Antenne Sylt
 http://streams.antenne-sylt.de/sylt/mp3-128
-#EXTINF:-1 group-title="Germany",Antenne Thüringen 97.9 FM
+#EXTINF:-1 group-title="A",Antenne Thüringen 97.9 FM
 http://antenne-th.divicon-stream.net/antth_atlive_sfS8-mp3-192?sABC=58p46482%230%23ppr86n441o4o17680106qn05q638686r%23ighare&amsparams=playerid:vtuner;skey:1489265794
-#EXTINF:-1 group-title="Germany",Antenne Unna 97.4 FM
+#EXTINF:-1 group-title="A",Antenne Unna 97.4 FM
 http://lokalradiostream.de:8010/
-#EXTINF:-1 group-title="Germany",Antenne Trier
+#EXTINF:-1 group-title="A",Antenne Trier
 http://stream.radiogroup.de/antenne-trier/mp3-192
-#EXTINF:-1 group-title="Germany",Antenne Witten laut.fm
+#EXTINF:-1 group-title="A",Antenne Witten laut.fm
 http://antennewitten.stream.laut.fm/antennewitten
-#EXTINF:-1 group-title="Germany",Apollo Radio
+#EXTINF:-1 group-title="A",Apollo Radio
 http://streams.bcs-systems.de/apollo/live/dresden/mp3/radioplayer/web
-#EXTINF:-1 group-title="Germany",Babelsberg Hitradio
+#EXTINF:-1 group-title="B",Babelsberg Hitradio
 http://46.163.75.84:8000
-#EXTINF:-1 group-title="Germany",Baden FM 106.0
+#EXTINF:-1 group-title="B",Baden FM 106.0
 http://badenfm.ip-streaming.net:8006/badenfm
-#EXTINF:-1 group-title="Germany",Bayernwelle
+#EXTINF:-1 group-title="B",Bayernwelle
 https://bayernwelle-live.cast.addradio.de/bayernwelle/live/mp3/high
-#EXTINF:-1 group-title="Germany",BB Radio - Berlin Club
+#EXTINF:-1 group-title="B",BB Radio - Berlin Club
 http://streambbr.ir-media-tec.com/berlin/mp3-128
-#EXTINF:-1 group-title="Germany",BB Radio - Best of 80's
+#EXTINF:-1 group-title="B",BB Radio - Best of 80's
 http://streambbr.ir-media-tec.com/80s/mp3-128
-#EXTINF:-1 group-title="Germany",BB Radio - Best of 90's
+#EXTINF:-1 group-title="B",BB Radio - Best of 90's
 http://streambbr.ir-media-tec.com/90s/mp3-128
-#EXTINF:-1 group-title="Germany",BB Radio - Brandnew
+#EXTINF:-1 group-title="B",BB Radio - Brandnew
 http://streambbr.ir-media-tec.com/neu/mp3-128
-#EXTINF:-1 group-title="Germany",BB Radio - Deutsch Relax
+#EXTINF:-1 group-title="B",BB Radio - Deutsch Relax
 http://streambbr.ir-media-tec.com/deutsch-relax/mp3-128
-#EXTINF:-1 group-title="Germany",BB Radio - Deutsche Hits
+#EXTINF:-1 group-title="B",BB Radio - Deutsche Hits
 http://streambbr.ir-media-tec.com/deutsch/mp3-128
-#EXTINF:-1 group-title="Germany",BB Radio - Party and Dance
+#EXTINF:-1 group-title="B",BB Radio - Party and Dance
 http://streambbr.ir-media-tec.com/partydance/mp3-128
-#EXTINF:-1 group-title="Germany",BB Radio - Rock
+#EXTINF:-1 group-title="B",BB Radio - Rock
 http://streambbr.ir-media-tec.com/rock/mp3-128
-#EXTINF:-1 group-title="Germany",Berliner Rundfunk 91.4 FM
+#EXTINF:-1 group-title="B",Berliner Rundfunk 91.4 FM
 http://138.201.252.3:80/brf_128
-#EXTINF:-1 group-title="Germany",bigFM
+#EXTINF:-1 group-title="B",bigFM
 http://stream.bigfm.de/worldbeats/mp3-128
-#EXTINF:-1 group-title="Germany",ByteFM
+#EXTINF:-1 group-title="B",ByteFM
 http://bytefm.cast.addradio.de/bytefm/main/mid/stream
-#EXTINF:-1 group-title="Germany",Campus FM
+#EXTINF:-1 group-title="C",Campus FM
 http://stream.campusfm.de/
-#EXTINF:-1 group-title="Germany",Chaos Radio
+#EXTINF:-1 group-title="C",Chaos Radio
 http://stream.laut.fm/chaos-radio
-#EXTINF:-1 group-title="Germany",Charivari 98.6 - Funkhaus Nürnberg
+#EXTINF:-1 group-title="C",Charivari 98.6 - Funkhaus Nürnberg
 http://webstream.charivari986.de/charivari986
-#EXTINF:-1 group-title="Germany",Charivari Live
+#EXTINF:-1 group-title="C",Charivari Live
 http://rs5.stream24.net:80/stream
-#EXTINF:-1 group-title="Germany",Charivari Regensburg
+#EXTINF:-1 group-title="C",Charivari Regensburg
 https://edge03.streamonkey.net/charivaristream-regensburg/stream/mp3
-#EXTINF:-1 group-title="Germany",Coloradio 98.4 FM
+#EXTINF:-1 group-title="C",Coloradio 98.4 FM
 http://streaming.fueralle.org:8000/coloradio_160.mp3
-#EXTINF:-1 group-title="Germany",COUNTRY 108
+#EXTINF:-1 group-title="C",COUNTRY 108
 http://tuner.country108.com:80
-#EXTINF:-1 group-title="Germany",CT das Radio 96.9 FM
+#EXTINF:-1 group-title="C",CT das Radio 96.9 FM
 http://live.ctdasradio.de:8008/web-playlist
-#EXTINF:-1 group-title="Germany",Das Radio der von Neil Young Getöteten
+#EXTINF:-1 group-title="D",Das Radio der von Neil Young Getöteten
 http://streamplus3.leonex.de:11216/;
-#EXTINF:-1 group-title="Germany",delta radio
+#EXTINF:-1 group-title="D",delta radio
 https://regiocast.streamabc.net/rc-deltaliveshsued-mp3-192-8020733
-#EXTINF:-1 group-title="Germany",DELUXE LOUNGE RADIO
+#EXTINF:-1 group-title="D",DELUXE LOUNGE RADIO
 http://audiostreams.deluxemusic.tv/lounge/mp3-192
-#EXTINF:-1 group-title="Germany",DELUXE MUSIC RADIO
+#EXTINF:-1 group-title="D",DELUXE MUSIC RADIO
 http://audiostreams.deluxemusic.tv/music/mp3-192
-#EXTINF:-1 group-title="Germany",DELUXE 2000
+#EXTINF:-1 group-title="D",DELUXE 2000
 https://audiostreams.deluxemusic.tv/2000/mp3-192/audiostreams.deluxemusic.tv
-#EXTINF:-1 group-title="Germany",die neue welle 101.8 FM
+#EXTINF:-1 group-title="D",die neue welle 101.8 FM
 http://dieneuewelle.cast.addradio.de/dieneuewelle/simulcast/high/stream.mp3
-#EXTINF:-1 group-title="Germany",Dom Radio
+#EXTINF:-1 group-title="D",Dom Radio
 https://dispatcher.rndfnk.com/domradio/1000/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",egoFM 104.0
+#EXTINF:-1 group-title="E",egoFM 104.0
 http://streams.egofm.de/egoFM-hq
-#EXTINF:-1 group-title="Germany",Elbe Radio
+#EXTINF:-1 group-title="E",Elbe Radio
 http://stream.laut.fm/elbe-radio
-#EXTINF:-1 group-title="Germany",Elbe Radio Deutsch
+#EXTINF:-1 group-title="E",Elbe Radio Deutsch
 http://stream.laut.fm/elbe-deutsch
-#EXTINF:-1 group-title="Germany",Eldoradio 93 FM
+#EXTINF:-1 group-title="E",Eldoradio 93 FM
 http://sender.eldoradio.de:8000/192
-#EXTINF:-1 group-title="Germany",Ems Vechte Welle 95.60 FM
+#EXTINF:-1 group-title="E",Ems Vechte Welle 95.60 FM
 http://live.radio-aktiv.de/evw.mp3
-#EXTINF:-1 group-title="Germany",ENERGY Berlin 103.4 FM
+#EXTINF:-1 group-title="E",ENERGY Berlin 103.4 FM
 http://nrj.de/berlin
-#EXTINF:-1 group-title="Germany",ENERGY Bremen
+#EXTINF:-1 group-title="E",ENERGY Bremen
 http://nrj.de/bremen
-#EXTINF:-1 group-title="Germany",ENERGY Hamburg 97.1 FM
+#EXTINF:-1 group-title="E",ENERGY Hamburg 97.1 FM
 http://nrj.de/hamburg
-#EXTINF:-1 group-title="Germany",ENERGY München 93.3 FM
+#EXTINF:-1 group-title="E",ENERGY München 93.3 FM
 http://nrj.de/muenchen
-#EXTINF:-1 group-title="Germany",ENERGY Nürnberg 106.9 FM
+#EXTINF:-1 group-title="E",ENERGY Nürnberg 106.9 FM
 http://nrj.de/nuernberg
-#EXTINF:-1 group-title="Germany",ENERGY Sachsen 99.8 FM
+#EXTINF:-1 group-title="E",ENERGY Sachsen 99.8 FM
 http://nrj.de/sachsen
-#EXTINF:-1 group-title="Germany",ENERGY Stuttgart 100.7 FM
+#EXTINF:-1 group-title="E",ENERGY Stuttgart 100.7 FM
 http://nrj.de/stuttgart
-#EXTINF:-1 group-title="Germany",ERF Jess Radio
+#EXTINF:-1 group-title="E",ERF Jess Radio
 http://erf1068-live.cast.addradio.de/erf1068/live/mp3/high
-#EXTINF:-1 group-title="Germany",ERF Plus Radio
+#EXTINF:-1 group-title="E",ERF Plus Radio
 http://addrad.io/44599j4
-#EXTINF:-1 group-title="Germany",Erzabtei St. Ottilien
+#EXTINF:-1 group-title="E",Erzabtei St. Ottilien
 http://www.erzabteilive.de:8000/stream.mp3
-#EXTINF:-1 group-title="Germany",ffn 101.9 Hannover
+#EXTINF:-1 group-title="F",ffn 101.9 Hannover
 http://stream.ffn.de/ffn/mp3-192/
-#EXTINF:-1 group-title="Germany",ffn Comedy
+#EXTINF:-1 group-title="F",ffn Comedy
 http://player.ffn.de/comedy.mp3
-#EXTINF:-1 group-title="Germany",ffn Peppermint
+#EXTINF:-1 group-title="F",ffn Peppermint
 https://ffn-stream20.radiohost.de/peppermintfm_mp3-192
-#EXTINF:-1 group-title="Germany",FluxFM Berlin
+#EXTINF:-1 group-title="F",FluxFM Berlin
 http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035
-#EXTINF:-1 group-title="Germany",Freies Radio Freudenstadt
+#EXTINF:-1 group-title="F",Freies Radio Freudenstadt
 https://s3.fairprice-streams.de:9148/stream
-#EXTINF:-1 group-title="Germany",Freies Sender Kombinat Hamburg
+#EXTINF:-1 group-title="F",Freies Sender Kombinat Hamburg
 http://stream.fsk-hh.org:8000/fsk.mp3
-#EXTINF:-1 group-title="Germany",Gitarre.fm
+#EXTINF:-1 group-title="G",Gitarre.fm
 http://gitarrefm.stream.laut.fm/gitarrefm
-#EXTINF:-1 group-title="Germany",Gold FM
+#EXTINF:-1 group-title="G",Gold FM
 http://tunein.goldfm.de:80
-#EXTINF:-1 group-title="Germany",gong fm Regensburg
+#EXTINF:-1 group-title="G",gong fm Regensburg
 https://edge16.streamonkey.net/gongfm-regensburg/stream/mp3
-#EXTINF:-1 group-title="Germany",GUERICKE FM - Das Uniradio Magdeburg
+#EXTINF:-1 group-title="G",GUERICKE FM - Das Uniradio Magdeburg
 http://streamplus5.leonex.de:35822/
-#EXTINF:-1 group-title="Germany",Hamburg ZWEI
+#EXTINF:-1 group-title="H",Hamburg ZWEI
 https://frontend.streamonkey.net/hh2-950
-#EXTINF:-1 group-title="Germany",Hamburger Lokalradio
+#EXTINF:-1 group-title="H",Hamburger Lokalradio
 https://solid9.streamupsolutions.com/proxy/ddedipmi/stream
-#EXTINF:-1 group-title="Germany",harmony.fm 107.5
+#EXTINF:-1 group-title="H",harmony.fm 107.5
 http://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
-#EXTINF:-1 group-title="Germany",Hellweg Radio 100.9 Soest
+#EXTINF:-1 group-title="H",Hellweg Radio 100.9 Soest
 https://stream.lokalradio.nrw/4453zd3
-#EXTINF:-1 group-title="Germany",Hertz 87.9
+#EXTINF:-1 group-title="H",Hertz 87.9
 http://stream.radiohertz.de/hertz-hq.mp3
-#EXTINF:-1 group-title="Germany",HIT RADIO FFH
+#EXTINF:-1 group-title="H",HIT RADIO FFH
 http://mp3.ffh.de/radioffh/hqlivestream.mp3
-#EXTINF:-1 group-title="Germany",Hit Radio N1 92.9 FM
+#EXTINF:-1 group-title="H",Hit Radio N1 92.9 FM
 http://webstream.hitradion1.de/hitradion1
-#EXTINF:-1 group-title="Germany",Hitradio Namibia
+#EXTINF:-1 group-title="H",Hitradio Namibia
 https://s37.derstream.net/hitradio-namibia.mp3
-#EXTINF:-1 group-title="Germany",Hitradio Ohr 90.5 FM
+#EXTINF:-1 group-title="H",Hitradio Ohr 90.5 FM
 https://edge14.streamonkey.net/fho-hitradioohrlive/stream/mp3
-#EXTINF:-1 group-title="Germany",Hitradio RT1
+#EXTINF:-1 group-title="H",Hitradio RT1
 http://rt1.radio/eomk1
-#EXTINF:-1 group-title="Germany",Hitradio RTL
+#EXTINF:-1 group-title="H",Hitradio RTL
 http://streaming.hitradio-rtl.de/hitradio-rtl_simulcast__dresden_192k_mp3
-#EXTINF:-1 group-title="Germany",Hitradio RTL - Top40
+#EXTINF:-1 group-title="H",Hitradio RTL - Top40
 http://streaming.hitradio-rtl.de/hitradio-rtl_top40_192k_mp3
-#EXTINF:-1 group-title="Germany",HITRADIO SKW 105.1 FM
+#EXTINF:-1 group-title="H",HITRADIO SKW 105.1 FM
 https://server4.streamserver24.com:26237/live
-#EXTINF:-1 group-title="Germany",Hochschulradio Aachen 99.1 FM
+#EXTINF:-1 group-title="H",Hochschulradio Aachen 99.1 FM
 http://evans.hochschulradio.rwth-aachen.de:8000/radio.mp3
-#EXTINF:-1 group-title="Germany",Hochschulradio Kölncampus
+#EXTINF:-1 group-title="H",Hochschulradio Kölncampus
 https://live.koelncampus.com/live
-#EXTINF:-1 group-title="Germany",horads 88.6 FM
+#EXTINF:-1 group-title="H",horads 88.6 FM
 http://realserver3.hdm-stuttgart.de:8080/horads
-#EXTINF:-1 group-title="Germany",Inn Salzach Welle 93.1 FM
+#EXTINF:-1 group-title="I",Inn Salzach Welle 93.1 FM
 https://radioisw.icecaststream.de/stream/radioisw
-#EXTINF:-1 group-title="Germany",Jam FM
+#EXTINF:-1 group-title="J",Jam FM
 http://stream.jam.fm/jamfm-live/mp3-128
-#EXTINF:-1 group-title="Germany",Jazz Radio 106.8 FM
+#EXTINF:-1 group-title="J",Jazz Radio 106.8 FM
 https://streaming.radio.co/s774887f7b/listen
-#EXTINF:-1 group-title="Germany",JazzRadio Berlin
+#EXTINF:-1 group-title="J",JazzRadio Berlin
 http://streaming.radio.co/s774887f7b/listen
-#EXTINF:-1 group-title="Germany",JOKE FM
+#EXTINF:-1 group-title="J",JOKE FM
 http://rs33.stream24.net/joke-fm.mp3
-#EXTINF:-1 group-title="Germany",Kick!FM 105.9
+#EXTINF:-1 group-title="K",Kick!FM 105.9
 http://live.kickfm.eu:8000/
-#EXTINF:-1 group-title="Germany",Kiel FM
+#EXTINF:-1 group-title="K",Kiel FM
 http://radio.oksh.de:8000/kielfm.mp3
-#EXTINF:-1 group-title="Germany",KISS FM 98.8
+#EXTINF:-1 group-title="K",KISS FM 98.8
 http://138.201.251.239:80/kissfm_128
-#EXTINF:-1 group-title="Germany",Klassik Radio
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio
 http://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
-#EXTINF:-1 group-title="Germany",Klassik Radio - Barock
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Barock
 http://stream.klassikradio.de/barock/mp3-192
-#EXTINF:-1 group-title="Germany",Klassik Radio - Chor
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Chor
 http://stream.klassikradio.de/chor/mp3-192/www.klassikradio.de/
-#EXTINF:-1 group-title="Germany",Klassik Radio - Klassik Dreams
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Klassik Dreams
 http://stream.klassikradio.de/dreams/mp3-128/
-#EXTINF:-1 group-title="Germany",Klassik Radio - Klassik Rock
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Klassik Rock
 http://stream.klassikradio.de/klassikrock/mp3-192/stream.klassikradio.de/
-#EXTINF:-1 group-title="Germany",Klassik Radio - Friends at Home
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Friends at Home
 http://stream.klassikradio.de/friendshome/mp3-128
-#EXTINF:-1 group-title="Germany",Klassik Radio - Healing
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Healing
 http://stream.klassikradio.de/healing/mp3-128
-#EXTINF:-1 group-title="Germany",Klassik Radio - Jean Michel Jarre
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Jean Michel Jarre
 http://stream.klassikradio.de/jmjarre/mp3-128/tasmanic/
-#EXTINF:-1 group-title="Germany",Klassik Radio - Lounge
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Lounge
 http://stream.klassikradio.de/lounge/mp3-128/www.klassikradio.de/
-#EXTINF:-1 group-title="Germany",Klassik Radio - Lounge Beat
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Lounge Beat
 http://stream.klassikradio.de/lounge-beat/mp3-128/
-#EXTINF:-1 group-title="Germany",Klassik Radio - Movie
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Movie
 http://stream.klassikradio.de/movie/mp3-192
-#EXTINF:-1 group-title="Germany",Klassik Radio - New Classics
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - New Classics
 https://stream.klassikradio.de/newclassics/aac-64/stream.klassikradio.de?aggregator=hoererdirekt
-#EXTINF:-1 group-title="Germany",Klassik Radio - New Piano Classics
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - New Piano Classics
 https://stream.klassikradio.de/pianonewclassics/mp3-192/radiode/
-#EXTINF:-1 group-title="Germany",Klassik Radio - Opera
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Opera
 http://stream.klassikradio.de/opera/mp3-192
-#EXTINF:-1 group-title="Germany",Klassik Radio - Piano
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Piano
 https://klassikr.streamabc.net/klr-piano-mp3-128-3753357
-#EXTINF:-1 group-title="Germany",Klassik Radio - Pure Beethoven
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Pure Beethoven
 http://stream.klassikradio.de/beethoven/mp3-128
-#EXTINF:-1 group-title="Germany",Klassik Radio - Pure Bach
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Pure Bach
 https://stream.klassikradio.de/purebach/aac-64/radiode/
-#EXTINF:-1 group-title="Germany",Klassik Radio - Pure Mozart
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Pure Mozart
 http://stream.klassikradio.de/mozart/mp3-128/vtuner/
-#EXTINF:-1 group-title="Germany",Klassik Radio - Pure Verdi
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Pure Verdi
 http://stream.klassikradio.de/verdi/mp3-128
-#EXTINF:-1 group-title="Germany",Klassik Radio - Smooth
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Smooth
 http://stream.klassikradio.de/smooth/mp3-128
-#EXTINF:-1 group-title="Germany",Klassik Radio - Schiller
+#EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Schiller
 http://stream.klassikradio.de/schiller/mp3-128
-#EXTINF:-1 group-title="Germany",LandesWelle deutsch
+#EXTINF:-1 group-title="L",LandesWelle deutsch
 http://landeswelle-de-hz-fal-stream02-cluster01.radiohost.de:80/lwdemp3-192
-#EXTINF:-1 group-title="Germany",LandesWelle Thüringen
+#EXTINF:-1 group-title="L",LandesWelle Thüringen
 http://landeswelle-de-hz-fal-stream05-cluster01.radiohost.de:80/lwtmp3-192
-#EXTINF:-1 group-title="Germany",Lausitzwelle
+#EXTINF:-1 group-title="L",Lausitzwelle
 http://radioelsterwelle.mp3.green.ch/elsterwelle.mp3
-#EXTINF:-1 group-title="Germany",LernRadio LIVE
+#EXTINF:-1 group-title="L",LernRadio LIVE
 http://193.197.85.26:8000/
-#EXTINF:-1 group-title="Germany",LOHRO 90,2 FM
+#EXTINF:-1 group-title="L",LOHRO 90,2 FM
 http://stream.lohro.de:8000/lohro128.mp3
-#EXTINF:-1 group-title="Germany",Lokalsender Oldenburg Eins
+#EXTINF:-1 group-title="L",Lokalsender Oldenburg Eins
 http://radio.oeins.de:8000/oeins
-#EXTINF:-1 group-title="Germany",LORA München HQ
+#EXTINF:-1 group-title="L",LORA München HQ
 http://live.lora924.de:8000/lora-hq.mp3
-#EXTINF:-1 group-title="Germany",L'Unico 89.4 FM - Campusradio Paderborn
+#EXTINF:-1 group-title="L",L'Unico 89.4 FM - Campusradio Paderborn
 http://icecast.l-uni.co:8001/lunico_high_mp3
-#EXTINF:-1 group-title="Germany",Mangoradio
+#EXTINF:-1 group-title="M",Mangoradio
 https://mangoradio.stream.laut.fm/mangoradio
-#EXTINF:-1 group-title="Germany",mephisto 97.6
+#EXTINF:-1 group-title="M",mephisto 97.6
 http://radiostream.radio.uni-leipzig.de:8000/mephisto976_livestream.mp3
-#EXTINF:-1 group-title="Germany",NB-Radiotreff 88.0
+#EXTINF:-1 group-title="N",NB-Radiotreff 88.0
 http://mmv-mediathek.de:8000/live160
-#EXTINF:-1 group-title="Germany",NE-WS 89.4
+#EXTINF:-1 group-title="N",NE-WS 89.4
 http://stream.news894.de/444z5yc
-#EXTINF:-1 group-title="Germany",Offener Kanal Nordhausen 100.4 FM
+#EXTINF:-1 group-title="O",Offener Kanal Nordhausen 100.4 FM
 http://stream.tbfunk.de/okn.mp3
-#EXTINF:-1 group-title="Germany",Ohrfunk.de
+#EXTINF:-1 group-title="O",Ohrfunk.de
 http://icecast.multhielemedia.de:8000/ohrfunk
-#EXTINF:-1 group-title="Germany",OSradio 104,8
+#EXTINF:-1 group-title="O",OSradio 104,8
 http://live.osradio.de/os-radio.mp3
-#EXTINF:-1 group-title="Germany",Ostseefun Radio
+#EXTINF:-1 group-title="O",Ostseefun Radio
 https://ostseefun.stream.laut.fm/ostseefun
-#EXTINF:-1 group-title="Germany",Ostseewelle HIT-RADIO Mecklenburg-Vorpommern
+#EXTINF:-1 group-title="O",Ostseewelle HIT-RADIO Mecklenburg-Vorpommern
 http://addrad.io/4454ph7
-#EXTINF:-1 group-title="Germany",planet radio 100.2 FM
+#EXTINF:-1 group-title="P",planet radio 100.2 FM
 http://mp3.planetradio.de/planetradio/hqlivestream.mp3
-#EXTINF:-1 group-title="Germany",Power Radio 91.8 FM
+#EXTINF:-1 group-title="P",Power Radio 91.8 FM
 http://85.25.217.22:8020/stream
-#EXTINF:-1 group-title="Germany",pure fm - berlins dance radio
+#EXTINF:-1 group-title="P",pure fm - berlins dance radio
 http://radionetz.de:8000/purefm-bln.mp3
-#EXTINF:-1 group-title="Germany",Querfunk 104.8 FM
+#EXTINF:-1 group-title="Q",Querfunk 104.8 FM
 http://mp3.querfunk.de/qfhi
-#EXTINF:-1 group-title="Germany",R.SA Sachsen
+#EXTINF:-1 group-title="R",R.SA Sachsen
 https://rsa.streamabc.net/regc-rsasachsenlive9335717-mp3-192-4612768
-#EXTINF:-1 group-title="Germany",R.SH - Radio Schleswig-Holstein
+#EXTINF:-1 group-title="R",R.SH - Radio Schleswig-Holstein
 https://rsh.streamabc.net/regc-rshlive5331785-mp3-192-8119086
-#EXTINF:-1 group-title="Germany",Radio 21
+#EXTINF:-1 group-title="R",Radio 21
 https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655
-#EXTINF:-1 group-title="Germany",Radio 2Day 89 FM
+#EXTINF:-1 group-title="R",Radio 2Day 89 FM
 http://radio2day.ip-streaming.net/radio2day
-#EXTINF:-1 group-title="Germany",Radio 8 89.4 FM
+#EXTINF:-1 group-title="R",Radio 8 89.4 FM
 http://stream.radio8.de:8000/live
-#EXTINF:-1 group-title="Germany",Radio 91.2 FM
+#EXTINF:-1 group-title="R",Radio 91.2 FM
 http://stream.lokalradio.nrw/4453z5m
-#EXTINF:-1 group-title="Germany",radio 98eins
+#EXTINF:-1 group-title="R",radio 98eins
 http://mmv-mediathek.de:8000/radio98eins
-#EXTINF:-1 group-title="Germany",Radio Aktiv
+#EXTINF:-1 group-title="R",Radio Aktiv
 http://live.radio-aktiv.de/r-aktiv.mp3
-#EXTINF:-1 group-title="Germany",Radio Aktiv-FM 89.6
+#EXTINF:-1 group-title="R",Radio Aktiv-FM 89.6
 http://stream.radioaktiv.org:8233/VeryHiFi
-#EXTINF:-1 group-title="Germany",Radio Akwaaba FM
+#EXTINF:-1 group-title="R",Radio Akwaaba FM
 http://centova2.whsh4u.com:10000/
-#EXTINF:-1 group-title="Germany",Radio Alpenwelle 95.0 FM
+#EXTINF:-1 group-title="R",Radio Alpenwelle 95.0 FM
 http://live.alpenwelle.de/alpenwelle128
-#EXTINF:-1 group-title="Germany",Radio Arabella München 105.2 FM
+#EXTINF:-1 group-title="R",Radio Arabella München 105.2 FM
 http://rs6.stream24.net:80/stream
-#EXTINF:-1 group-title="Germany",Radio Augsburg 104.05 FM
+#EXTINF:-1 group-title="R",Radio Augsburg 104.05 FM
 http://streamplus36.leonex.de:15440
-#EXTINF:-1 group-title="Germany",Radio Bamberg 88.5 FM
+#EXTINF:-1 group-title="R",Radio Bamberg 88.5 FM
 http://rs1.stream24.net:80/stream
-#EXTINF:-1 group-title="Germany",Radio Berg 99.7 FM
+#EXTINF:-1 group-title="R",Radio Berg 99.7 FM
 https://radioberg--di--nacs-ais-lgc--05--cdn.cast.addradio.de/radioberg/live/mp3/high
-#EXTINF:-1 group-title="Germany",Radio Bielefeld 98.3 FM
+#EXTINF:-1 group-title="R",Radio Bielefeld 98.3 FM
 https://radiobielefeld-live.cast.addradio.de/radiobielefeld/live/mp3/high
-#EXTINF:-1 group-title="Germany",Radio Blau 99.2 FM
+#EXTINF:-1 group-title="R",Radio Blau 99.2 FM
 http://stream.radioblau.de/
-#EXTINF:-1 group-title="Germany",RADIO BOB!
+#EXTINF:-1 group-title="R",RADIO BOB!
 https://regiocast.streamabc.net/regc-radiobobnational5043365-mp3-192-2943705
-#EXTINF:-1 group-title="Germany",Radio Bochum 98.5 FM
+#EXTINF:-1 group-title="R",Radio Bochum 98.5 FM
 http://stream.lokalradio.nrw/444zbqc
-#EXTINF:-1 group-title="Germany",Radio Bonn/Rhein-Sieg 91.2 FM
+#EXTINF:-1 group-title="R",Radio Bonn/Rhein-Sieg 91.2 FM
 http://rbrs.cast.addradio.de/rbrs/live/mp3/128/stream.mp3
-#EXTINF:-1 group-title="Germany",Radio Brocken 93.5 FM Halle
+#EXTINF:-1 group-title="R",Radio Brocken 93.5 FM Halle
 http://stream.radiobrocken.de/live/mp3-256
-#EXTINF:-1 group-title="Germany",Radio Charivari 102.4 FM Würzburg
+#EXTINF:-1 group-title="R",Radio Charivari 102.4 FM Würzburg
 https://edge06.streamonkey.net/charivari-live
-#EXTINF:-1 group-title="Germany",Radio Charivari 96.7 FM Rosenheim
+#EXTINF:-1 group-title="R",Radio Charivari 96.7 FM Rosenheim
 http://s17.myradiostream.com:10938
-#EXTINF:-1 group-title="Germany",Radio Chemnitz
+#EXTINF:-1 group-title="R",Radio Chemnitz
 http://streaming.radiochemnitz.de/radio-chemnitz_simulcast_192k_mp3
-#EXTINF:-1 group-title="Germany",Radio Chiemgau 99.4 FM
+#EXTINF:-1 group-title="R",Radio Chiemgau 99.4 FM
 http://addrad.io/4457xfx
-#EXTINF:-1 group-title="Germany",Radio Corax 95.9 FM
+#EXTINF:-1 group-title="R",Radio Corax 95.9 FM
 http://streaming.fueralle.org:8000/corax.mp3
-#EXTINF:-1 group-title="Germany",Radio Cottbus 94.5
+#EXTINF:-1 group-title="R",Radio Cottbus 94.5
 https://radiogroup-stream09.radiohost.de/radio-cottbus_mp3-192
-#EXTINF:-1 group-title="Germany",Radio Dresden
+#EXTINF:-1 group-title="R",Radio Dresden
 http://streaming.radiodresden.de/radio-dresden_simulcast_192k_mp3
-#EXTINF:-1 group-title="Germany",Radio Dreyeckland Livestream
+#EXTINF:-1 group-title="R",Radio Dreyeckland Livestream
 http://rdl.de:8000/rdl
-#EXTINF:-1 group-title="Germany",Radio Duisburg 92.2 FM
+#EXTINF:-1 group-title="R",Radio Duisburg 92.2 FM
 http://stream.lokalradio.nrw/444zbtv
-#EXTINF:-1 group-title="Germany",Radio Emscher Lippe 98.7 FM
+#EXTINF:-1 group-title="R",Radio Emscher Lippe 98.7 FM
 http://stream.lokalradio.nrw/444zbyc
-#EXTINF:-1 group-title="Germany",Radio Ennepe Ruhr 104.2 FM
+#EXTINF:-1 group-title="R",Radio Ennepe Ruhr 104.2 FM
 http://radioen.cast.addradio.de/radioen/simulcast/high/stream.mp3
-#EXTINF:-1 group-title="Germany",Radio Erft 105.8 FM
+#EXTINF:-1 group-title="R",Radio Erft 105.8 FM
 http://stream.lokalradio.nrw/444z75m
-#EXTINF:-1 group-title="Germany",Radio Erzgebirge
+#EXTINF:-1 group-title="R",Radio Erzgebirge
 http://streaming.radioerzgebirge.de/radio-erzgebirge_simulcast_192k_mp3
-#EXTINF:-1 group-title="Germany",Radio Essen 102.2 FM
+#EXTINF:-1 group-title="R",Radio Essen 102.2 FM
 http://stream.lokalradio.nrw/444zc7c
-#EXTINF:-1 group-title="Germany",Radio Euroherz
+#EXTINF:-1 group-title="R",Radio Euroherz
 http://rs2.stream24.net:80/stream
-#EXTINF:-1 group-title="Germany",Radio Euskirchen 106.9 FM
+#EXTINF:-1 group-title="R",Radio Euskirchen 106.9 FM
 http://stream.lokalradio.nrw/444z7bv
-#EXTINF:-1 group-title="Germany",Radio F.R.E.I. 96.2 FM
+#EXTINF:-1 group-title="R",Radio F.R.E.I. 96.2 FM
 http://streaming.fueralle.org:8000/Radio-F.R.E.I
-#EXTINF:-1 group-title="Germany",Radio Fantasy 93.4 FM
+#EXTINF:-1 group-title="R",Radio Fantasy 93.4 FM
 http://frontend.streamonkey.net/fantasy-934
-#EXTINF:-1 group-title="Germany",Radio Flora 106.5 FM
+#EXTINF:-1 group-title="R",Radio Flora 106.5 FM
 https://radioflora.de:8443/stream/live192.mp3
-#EXTINF:-1 group-title="Germany",Radio Frankfurt
+#EXTINF:-1 group-title="R",Radio Frankfurt
 https://radiogroup-stream31.radiohost.de/radio-frankfurt_mp3-192
-#EXTINF:-1 group-title="Germany",Radio Free FM 97.7
+#EXTINF:-1 group-title="R",Radio Free FM 97.7
 http://stream.freefm.de:7000/Studio
-#EXTINF:-1 group-title="Germany",Radio Galaxy Bamberg 104.7 FM
+#EXTINF:-1 group-title="R",Radio Galaxy Bamberg 104.7 FM
 http://rs21.stream24.net:80/stream
-#EXTINF:-1 group-title="Germany",Radio Galaxy Ingolstadt 107.9 FM
+#EXTINF:-1 group-title="R",Radio Galaxy Ingolstadt 107.9 FM
 http://4broadcast.de:8100
-#EXTINF:-1 group-title="Germany",Radio Galaxy Mittelfranken
+#EXTINF:-1 group-title="R",Radio Galaxy Mittelfranken
 http://live.galaxy-mittelfranken.de/galaxy-mittelfranken.mp3
-#EXTINF:-1 group-title="Germany",Radio Galaxy Oberfranken
+#EXTINF:-1 group-title="R",Radio Galaxy Oberfranken
 http://webstream.galaxy-oberfranken.de/galaxy-oberfranken.mp3
-#EXTINF:-1 group-title="Germany",Radio Gong 106.9 Würzburg
+#EXTINF:-1 group-title="R",Radio Gong 106.9 Würzburg
 http://frontend.streamonkey.net/gong-live
-#EXTINF:-1 group-title="Germany",Radio Gong 96.3 München
+#EXTINF:-1 group-title="R",Radio Gong 96.3 München
 http://addrad.io/44559fj
-#EXTINF:-1 group-title="Germany",Radio Gong 97.1 FM - Nürnberg
+#EXTINF:-1 group-title="R",Radio Gong 97.1 FM - Nürnberg
 http://webstream.gong971.de/gong971
-#EXTINF:-1 group-title="Germany",Radio Gutersloh
+#EXTINF:-1 group-title="R",Radio Gutersloh
 http://mp3.radioguetersloh.c.nmdn.net/ps-radioguetersloh/livestream.mp3
-#EXTINF:-1 group-title="Germany",Radio Hagen 107.7 FM
+#EXTINF:-1 group-title="R",Radio Hagen 107.7 FM
 http://stream.lokalradio.nrw/444zcbv
-#EXTINF:-1 group-title="Germany",Radio Hamburg 103.6 FM
+#EXTINF:-1 group-title="R",Radio Hamburg 103.6 FM
 https://frontend.streamonkey.net/rhh-1036
-#EXTINF:-1 group-title="Germany",Radio Hannover
+#EXTINF:-1 group-title="R",Radio Hannover
 http://radio-hannover.divicon-stream.com/live/mp3-192
-#EXTINF:-1 group-title="Germany",Radio Herford 94.9 FM
+#EXTINF:-1 group-title="R",Radio Herford 94.9 FM
 http://mp3.radioherford.c.nmdn.net/ps-radioherford/livestream.mp3
-#EXTINF:-1 group-title="Germany",Radio Herne 90.8 FM
+#EXTINF:-1 group-title="R",Radio Herne 90.8 FM
 http://stream.lokalradio.nrw/444zcgc
-#EXTINF:-1 group-title="Germany",Radio Hochstift 88.1 FM
+#EXTINF:-1 group-title="R",Radio Hochstift 88.1 FM
 http://mp3.radiohochstift.c.nmdn.net/ps-radiohochstift/livestream.mp3
-#EXTINF:-1 group-title="Germany",Radio Horeb
+#EXTINF:-1 group-title="R",Radio Horeb
 http://rs16.stream24.org:8000/horeb.mp3
-#EXTINF:-1 group-title="Germany",Radio IN 95.4 FM
+#EXTINF:-1 group-title="R",Radio IN 95.4 FM
 http://funkhaus-ingolstadt.stream24.net/radio-in.mp3
-#EXTINF:-1 group-title="Germany",Radio Jade 87.8 FM
+#EXTINF:-1 group-title="R",Radio Jade 87.8 FM
 http://stream.radio-jade.de/live.mp3
-#EXTINF:-1 group-title="Germany",Radio Kiepenkerl 88.2 FM
+#EXTINF:-1 group-title="R",Radio Kiepenkerl 88.2 FM
 http://stream.lokalradio.nrw/4459m2r
-#EXTINF:-1 group-title="Germany",Radio Köln 107.1 FM
+#EXTINF:-1 group-title="R",Radio Köln 107.1 FM
 https://stream.lokalradio.nrw/444z7kb
-#EXTINF:-1 group-title="Germany",Radio KW 107.6 FM
+#EXTINF:-1 group-title="R",Radio KW 107.6 FM
 http://stream.lokalradio.nrw/444zckv
-#EXTINF:-1 group-title="Germany",Radio Lausitz
+#EXTINF:-1 group-title="R",Radio Lausitz
 http://streaming.radiolausitz.de/radio-lausitz_simulcast_192k_mp3
-#EXTINF:-1 group-title="Germany",Radio Leipzig
+#EXTINF:-1 group-title="R",Radio Leipzig
 http://streaming.radioleipzig.de/radio-leipzig_simulcast_192k_mp3
-#EXTINF:-1 group-title="Germany",Radio Leverkusen 107.6 FM
+#EXTINF:-1 group-title="R",Radio Leverkusen 107.6 FM
 http://stream.lokalradio.nrw/444z7qc
-#EXTINF:-1 group-title="Germany",Radio Lippe 106.6 FM
+#EXTINF:-1 group-title="R",Radio Lippe 106.6 FM
 http://mp3.radiolippe.c.nmdn.net/ps-radiolippe/livestream.mp3
-#EXTINF:-1 group-title="Germany",Radio LoTTe 106.6 FM Weimar
+#EXTINF:-1 group-title="R",Radio LoTTe 106.6 FM Weimar
 http://tbradio.de/lotte.mp3
-#EXTINF:-1 group-title="Germany",Radio Lübeck
+#EXTINF:-1 group-title="R",Radio Lübeck
 http://stream.radioluebeck.de/radioluebeck-192.mp3
-#EXTINF:-1 group-title="Germany",Radio Mainwelle 104.3 FM
+#EXTINF:-1 group-title="R",Radio Mainwelle 104.3 FM
 http://webstream.mainwelle.de/radio-mainwelle.mp3
-#EXTINF:-1 group-title="Germany",Radio Melodie
+#EXTINF:-1 group-title="R",Radio Melodie
 https://radiomelodie.schlagerparadies.de/radiomelodie
-#EXTINF:-1 group-title="Germany",Radio MK 92.5 FM Iserlohn
+#EXTINF:-1 group-title="R",Radio MK 92.5 FM Iserlohn
 http://stream.lokalradio.nrw/4454294
-#EXTINF:-1 group-title="Germany",Radio Neandertal 97.6 FM
+#EXTINF:-1 group-title="R",Radio Neandertal 97.6 FM
 http://stream.radioneandertal.de/444z65m
-#EXTINF:-1 group-title="Germany",Radio Nordseewelle
+#EXTINF:-1 group-title="R",Radio Nordseewelle
 http://nsw.streamabc.net/nsw-radionswlive-mp3-192-5305115
-#EXTINF:-1 group-title="Germany",Radio Oberhausen 106.2 FM
+#EXTINF:-1 group-title="R",Radio Oberhausen 106.2 FM
 http://stream.lokalradio.nrw/444zctv
-#EXTINF:-1 group-title="Germany",Radio Oberland FM 106.2 Garmisch
+#EXTINF:-1 group-title="R",Radio Oberland FM 106.2 Garmisch
 http://mp3.radiooberland.c.nmdn.net/ps-radiooberland/livestream.mp3
-#EXTINF:-1 group-title="Germany",Radio Okerwelle 104.6 FM
+#EXTINF:-1 group-title="R",Radio Okerwelle 104.6 FM
 http://stream.okerwelle.de/okw.mp3
-#EXTINF:-1 group-title="Germany",Radio Ostfriesland 107.5 FM
+#EXTINF:-1 group-title="R",Radio Ostfriesland 107.5 FM
 https://live.radio-ostfriesland.de/ostfriesland.mp3
-#EXTINF:-1 group-title="Germany",Radio Osttirol
+#EXTINF:-1 group-title="R",Radio Osttirol
 https://server10956.streamplus.de/;stream.mp3
-#EXTINF:-1 group-title="Germany",Radio Paloma
+#EXTINF:-1 group-title="R",Radio Paloma
 http://tuner.radiopaloma.de:80
-#EXTINF:-1 group-title="Germany",Radio Paradiso 98.2
+#EXTINF:-1 group-title="R",Radio Paradiso 98.2
 https://paradisode.streamabc.net/para-paradisoberlin-mp3-128-5481878
-#EXTINF:-1 group-title="Germany",Radio Primaton 100.5 FM
+#EXTINF:-1 group-title="R",Radio Primaton 100.5 FM
 https://edge63.streamonkey.net/schweinfurt-primaton
-#EXTINF:-1 group-title="Germany",Radio Primavera 100.4 FM
+#EXTINF:-1 group-title="R",Radio Primavera 100.4 FM
 http://live.stream.primavera24.de/primavera24-radioprimavera/stream/mp3
-#EXTINF:-1 group-title="Germany",RADIO PSR
+#EXTINF:-1 group-title="R",RADIO PSR
 http://streams.radiopsr.de/psr-live/mp3-192/mediaplayer
-#EXTINF:-1 group-title="Germany",Radio Q 90.9 FM
+#EXTINF:-1 group-title="R",Radio Q 90.9 FM
 http://rqstream.radioq.de/stream/192.mp3
-#EXTINF:-1 group-title="Germany",Radio Ramasuri 103.9 FM
+#EXTINF:-1 group-title="R",Radio Ramasuri 103.9 FM
 https://ramasuri-live.cast.addradio.de/ramasuri/live/aac/low
-#EXTINF:-1 group-title="Germany",Radio Regenbogen 101.1
+#EXTINF:-1 group-title="R",Radio Regenbogen 101.1
 http://stream.regenbogen.de/freiburg/mp3-128
-#EXTINF:-1 group-title="Germany",Radio Rheinwelle 92,5
+#EXTINF:-1 group-title="R",Radio Rheinwelle 92,5
 https://server7.streamserver24.com:8080/proxy/rheinwelle2
-#EXTINF:-1 group-title="Germany",Radio RSG 94.3 FM
+#EXTINF:-1 group-title="R",Radio RSG 94.3 FM
 http://stream.lokalradio.nrw/444zdbv
-#EXTINF:-1 group-title="Germany",Radio RST 104.0 FM
+#EXTINF:-1 group-title="R",Radio RST 104.0 FM
 http://addrad.io/4459gwj
-#EXTINF:-1 group-title="Germany",Radio Rur 92.7 FM
+#EXTINF:-1 group-title="R",Radio Rur 92.7 FM
 http://stream.lokalradio.nrw/444z7wm
-#EXTINF:-1 group-title="Germany",Radio Rüsselsheim 90.9 MHz
+#EXTINF:-1 group-title="R",Radio Rüsselsheim 90.9 MHz
 http://www.radio-r.net:8000/radio-r
-#EXTINF:-1 group-title="Germany",Radio Saarbrücken 99.6 FM
+#EXTINF:-1 group-title="R",Radio Saarbrücken 99.6 FM
 https://radiogroup-stream32.radiohost.de/cityradio-saarbruecken_mp3-192
-#EXTINF:-1 group-title="Germany",RADIO SALÜ 101.7 FM
+#EXTINF:-1 group-title="R",RADIO SALÜ 101.7 FM
 http://internetradio.salue.de:8000/salue.mp3
-#EXTINF:-1 group-title="Germany",Radio Santec
+#EXTINF:-1 group-title="R",Radio Santec
 https://audio.bild-und-ton.stream:16162/radiosantec-de
-#EXTINF:-1 group-title="Germany",radio SAW
+#EXTINF:-1 group-title="R",radio SAW
 http://saw-de-hz-fal-stream08-cluster01.radiohost.de:80/saw_128
-#EXTINF:-1 group-title="Germany",Radio Seefunk RSF 104.3 FM
+#EXTINF:-1 group-title="R",Radio Seefunk RSF 104.3 FM
 http://webradio.radio-seefunk.de:8000
-#EXTINF:-1 group-title="Germany",Radio Siegen 88.2 FM
+#EXTINF:-1 group-title="R",Radio Siegen 88.2 FM
 http://stream.lokalradio.nrw/444z53v
-#EXTINF:-1 group-title="Germany",Radio TEDDY
+#EXTINF:-1 group-title="R",Radio TEDDY
 https://streamtdy.ir-media-tec.com/live/mp3-128/radioplayer_web/
-#EXTINF:-1 group-title="Germany",Radio Ton - Bad Mergentheim
+#EXTINF:-1 group-title="R",Radio Ton - Bad Mergentheim
 http://live2.radioton.de/rt-live-mt
-#EXTINF:-1 group-title="Germany",Radio Ton - Heilbronn
+#EXTINF:-1 group-title="R",Radio Ton - Heilbronn
 http://live2.radioton.de/rt-live-mobile-hn
-#EXTINF:-1 group-title="Germany",Radio Tonkuhle 105.3 FM Hildesheim
+#EXTINF:-1 group-title="R",Radio Tonkuhle 105.3 FM Hildesheim
 https://stream.tonkuhle.de/tonkuhle.mp3
-#EXTINF:-1 group-title="Germany",radio TOP 40 96.6 FM
+#EXTINF:-1 group-title="R",radio TOP 40 96.6 FM
 http://antenne-th.divicon-stream.net/antth_top40live_SeJx-mp3-192?sABC=58p46973%230%23ppr86n441o4o17680106qn05q638686r%23ighare&amsparams=playerid:vtuner;skey:1489267059
-#EXTINF:-1 group-title="Germany",Radio Trausnitz 104.1 FM
+#EXTINF:-1 group-title="R",Radio Trausnitz 104.1 FM
 http://mp3ad.radiotrausnitz.c.nmdn.net/ps-radiotrausnitz/livestream.mp3
-#EXTINF:-1 group-title="Germany",Radio Unerhört Marburg 90.1 FM
+#EXTINF:-1 group-title="R",Radio Unerhört Marburg 90.1 FM
 http://stream.radio-rum.de:8000/rum.mp3
-#EXTINF:-1 group-title="Germany",Radio UNiCC 102.7 FM
+#EXTINF:-1 group-title="R",Radio UNiCC 102.7 FM
 http://radio-stream.hrz.tu-chemnitz.de:8000/unicc_hq.mp3
-#EXTINF:-1 group-title="Germany",Radio Vest 95.6 FM
+#EXTINF:-1 group-title="R",Radio Vest 95.6 FM
 http://radiovest.cast.addradio.de/radiovest/simulcast/high/stream.mp3
-#EXTINF:-1 group-title="Germany",Radio WAF 92.6 FM
+#EXTINF:-1 group-title="R",Radio WAF 92.6 FM
 http://mp3.radiowaf.c.nmdn.net/ps-radiowaf/livestream.mp3
-#EXTINF:-1 group-title="Germany",Radio Weser 90.7 FM
+#EXTINF:-1 group-title="R",Radio Weser 90.7 FM
 http://radiocast-radiowesertv.video-stream-hosting.de:8000/rwtvbx
-#EXTINF:-1 group-title="Germany",Radio Weser Bremerhaven
+#EXTINF:-1 group-title="R",Radio Weser Bremerhaven
 http://stream.bfbu.de:8000/hb128
-#EXTINF:-1 group-title="Germany",Radio Westfalica 95.7 FM
+#EXTINF:-1 group-title="R",Radio Westfalica 95.7 FM
 http://mp3.radiowestfalica.c.nmdn.net/ps-radiowestfalica/livestream.mp3
-#EXTINF:-1 group-title="Germany",Radio WMW 88.4 FM
+#EXTINF:-1 group-title="R",Radio WMW 88.4 FM
 http://addrad.io/4459h6t
-#EXTINF:-1 group-title="Germany",Radio Wuppertal 107.4 FM
+#EXTINF:-1 group-title="R",Radio Wuppertal 107.4 FM
 https://stream.lokalradio.nrw/444z68k
-#EXTINF:-1 group-title="Germany",Radio X 91.8 FM
+#EXTINF:-1 group-title="R",Radio X 91.8 FM
 http://radiox.istmein.de:8000/live
-#EXTINF:-1 group-title="Germany",Radio Z 95.8 FM
+#EXTINF:-1 group-title="R",Radio Z 95.8 FM
 http://snd.radio-z.net:8000/Radio-Z
-#EXTINF:-1 group-title="Germany",Radio Zwickau
+#EXTINF:-1 group-title="R",Radio Zwickau
 http://streaming.radiozwickau.de/radio-zwickau_simulcast_192k_mp3
-#EXTINF:-1 group-title="Germany",RADIO21 - 104.9 Hannover
+#EXTINF:-1 group-title="R",RADIO21 - 104.9 Hannover
 https://streams.radio21.de/hannover/mp3-192/web
-#EXTINF:-1 group-title="Germany",RMNradio
+#EXTINF:-1 group-title="R",RMNradio
 http://rmnradio.powerstream.de:8022/
-#EXTINF:-1 group-title="Germany",ROCK ANTENNE
+#EXTINF:-1 group-title="R",ROCK ANTENNE
 http://stream.rockantenne.de/rockantenne/stream/mp3
-#EXTINF:-1 group-title="Germany",ROCK ANTENNE Alternative
+#EXTINF:-1 group-title="R",ROCK ANTENNE Alternative
 http://mp3channels.webradio.rockantenne.de:80/alternative
-#EXTINF:-1 group-title="Germany",ROCK ANTENNE Classic Perlen
+#EXTINF:-1 group-title="R",ROCK ANTENNE Classic Perlen
 http://mp3channels.webradio.rockantenne.de:80/classic-perlen
-#EXTINF:-1 group-title="Germany",ROCK ANTENNE Deutschrock
+#EXTINF:-1 group-title="R",ROCK ANTENNE Deutschrock
 http://mp3channels.webradio.rockantenne.de:80/deutschrock
-#EXTINF:-1 group-title="Germany",ROCK ANTENNE Hamburg
+#EXTINF:-1 group-title="R",ROCK ANTENNE Hamburg
 http://stream.rockantenne.hamburg/rockantenne-hamburg/stream/mp3
-#EXTINF:-1 group-title="Germany",ROCK ANTENNE Heavy Metal
+#EXTINF:-1 group-title="R",ROCK ANTENNE Heavy Metal
 http://mp3channels.webradio.rockantenne.de:80/heavy-metal
-#EXTINF:-1 group-title="Germany",ROCK ANTENNE Punk Rock
+#EXTINF:-1 group-title="R",ROCK ANTENNE Punk Rock
 http://mp3channels.webradio.rockantenne.de/punkrock
-#EXTINF:-1 group-title="Germany",ROCK ANTENNE Rock 'n' Roll
+#EXTINF:-1 group-title="R",ROCK ANTENNE Rock 'n' Roll
 http://mp3channels.webradio.rockantenne.de/rockandroll
-#EXTINF:-1 group-title="Germany",ROCK ANTENNE Soft Rock
+#EXTINF:-1 group-title="R",ROCK ANTENNE Soft Rock
 http://mp3channels.webradio.antenne.de/soft-rock
-#EXTINF:-1 group-title="Germany",Rockland Radio
+#EXTINF:-1 group-title="R",Rockland Radio
 http://streams.rockland.de/kl/mp3-192
-#EXTINF:-1 group-title="Germany",Rockland.fm
+#EXTINF:-1 group-title="R",Rockland.fm
 http://saw-de-hz-fal-stream01-cluster01.radiohost.de:80/rockland_128
-#EXTINF:-1 group-title="Germany",RPR1 102.6 FM
+#EXTINF:-1 group-title="R",RPR1 102.6 FM
 http://stream.rpr1.de/trier/mp3-128
-#EXTINF:-1 group-title="Germany",RS2
+#EXTINF:-1 group-title="R",RS2
 http://stream.rs2.de/rs2/mp3-128/internetradio/
-#EXTINF:-1 group-title="Germany",RS2 80er
+#EXTINF:-1 group-title="R",RS2 80er
 http://stream.rs2.de/rs2-80er/mp3-128/internetradio/
-#EXTINF:-1 group-title="Germany",RS2 90er
+#EXTINF:-1 group-title="R",RS2 90er
 http://stream.rs2.de/rs2-90er/mp3-128/internetradio/
-#EXTINF:-1 group-title="Germany",RS2 Relax
+#EXTINF:-1 group-title="R",RS2 Relax
 http://stream.rs2.de/rs2-relax/mp3-128/internetradio/
-#EXTINF:-1 group-title="Germany",RSA Radio
+#EXTINF:-1 group-title="R",RSA Radio
 http://mp3.rsaradio.c.nmdn.net/ps-rsaradio/hqlivestream.mp3
-#EXTINF:-1 group-title="Germany",RSA Radio 2
+#EXTINF:-1 group-title="R",RSA Radio 2
 http://mp3.rsaradio2.c.nmdn.net/ps-rsaradio2/hqlivestream.mp3
-#EXTINF:-1 group-title="Germany",RSA Radio 3
+#EXTINF:-1 group-title="R",RSA Radio 3
 http://mp3.rsaradio3.c.nmdn.net/ps-rsaradio3/hqlivestream.mp3
-#EXTINF:-1 group-title="Germany",Rundfunk Meissner 99.4 FM
+#EXTINF:-1 group-title="R",Rundfunk Meissner 99.4 FM
 https://server4.streamserver24.com:43524/stream
-#EXTINF:-1 group-title="Germany",Schwany 1 Volkstümlich
+#EXTINF:-1 group-title="S",Schwany 1 Volkstümlich
 https://schwany.streampanel.cloud/1-schwany
-#EXTINF:-1 group-title="Germany",Schwany 2 Schlager
+#EXTINF:-1 group-title="S",Schwany 2 Schlager
 https://schwany.streampanel.cloud/2-schlager
-#EXTINF:-1 group-title="Germany",Schwany 3 Echte Volksmusik
+#EXTINF:-1 group-title="S",Schwany 3 Echte Volksmusik
 https://schwany.streampanel.cloud/3-dieechte
-#EXTINF:-1 group-title="Germany",Schwany 4 Blasmusik
+#EXTINF:-1 group-title="S",Schwany 4 Blasmusik
 https://schwany.streampanel.cloud/4-blasmusik
-#EXTINF:-1 group-title="Germany",Schwany 5 Oberkrain
+#EXTINF:-1 group-title="S",Schwany 5 Oberkrain
 https://schwany.streampanel.cloud/5-oberkrain
-#EXTINF:-1 group-title="Germany",Schwany Herzklang
+#EXTINF:-1 group-title="S",Schwany Herzklang
 https://schwany.streampanel.cloud/8-herzklang
-#EXTINF:-1 group-title="Germany",Schwany Instrumental
+#EXTINF:-1 group-title="S",Schwany Instrumental
 https://schwany.streampanel.cloud/11-instrumental
-#EXTINF:-1 group-title="Germany",Schwany Märchen/Kinderradio
+#EXTINF:-1 group-title="S",Schwany Märchen/Kinderradio
 https://schwany.streampanel.cloud/7-maerchen
-#EXTINF:-1 group-title="Germany",Schwany Mundart
+#EXTINF:-1 group-title="S",Schwany Mundart
 https://schwany.streampanel.cloud/6-oldiehit
-#EXTINF:-1 group-title="Germany",Schwany Souvenir1
+#EXTINF:-1 group-title="S",Schwany Souvenir1
 http://souvenir1.schwany.de
-#EXTINF:-1 group-title="Germany",Schwany Souvenir2
+#EXTINF:-1 group-title="S",Schwany Souvenir2
 https://schwany.streampanel.cloud/13-souvenir2
-#EXTINF:-1 group-title="Germany",Schwarzwald Radio 93.6 FM
+#EXTINF:-1 group-title="S",Schwarzwald Radio 93.6 FM
 https://edge05.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3
-#EXTINF:-1 group-title="Germany",Schwarzwald FM
+#EXTINF:-1 group-title="S",Schwarzwald FM
 https://schwarzwaldfm.stream.laut.fm/schwarzwaldfm?ref=radiode&t302=2026-01-06_08-35-17&uuid=862aff2a-f8e0-484f-8f8c-dc674cccae62
-#EXTINF:-1 group-title="Germany",StadtRadio Göttingen 107,eins
+#EXTINF:-1 group-title="S",StadtRadio Göttingen 107,eins
 http://stream.stadtradio-goettingen.de:8000/stadtradio.mp3
-#EXTINF:-1 group-title="Germany",STAR FM Berlin 87.9
+#EXTINF:-1 group-title="S",STAR FM Berlin 87.9
 https://stream.starfm.de/berlin/mp3-128/
-#EXTINF:-1 group-title="Germany",Star FM Classic Rock
+#EXTINF:-1 group-title="S",Star FM Classic Rock
 https://starfm.streamabc.net/30-classicrock-mp3-192-4299376?sABC=695ppn1s%230%23232o9sqqorr2oq969r744ooo3o753s27%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1767688735
-#EXTINF:-1 group-title="Germany",STAR FM Nürnberg
+#EXTINF:-1 group-title="S",STAR FM Nürnberg
 https://stream.starfm.de/nbg/mp3-192/iradio
-#EXTINF:-1 group-title="Germany",STARSAT RADIO
+#EXTINF:-1 group-title="S",STARSAT RADIO
 http://mp3ad.radiob2starsat.c.nmdn.net/ps-radiob2starsat/livestream.mp3
-#EXTINF:-1 group-title="Germany",Sunradio
+#EXTINF:-1 group-title="S",Sunradio
 http://87.237.169.24:8000/live
-#EXTINF:-1 group-title="Germany",Sunshine Live
+#EXTINF:-1 group-title="S",Sunshine Live
 http://stream.sunshine-live.de/hq/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live - 90er
+#EXTINF:-1 group-title="S",Sunshine Live - 90er
 http://stream.sunshine-live.de/90er/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live - EDM
+#EXTINF:-1 group-title="S",Sunshine Live - EDM
 http://stream.sunshine-live.de/edm/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live - Festival
+#EXTINF:-1 group-title="S",Sunshine Live - Festival
 http://stream.sunshine-live.de/festival/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live - Techno
+#EXTINF:-1 group-title="S",Sunshine Live - Techno
 http://stream.sunshine-live.de/techno/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live Classics
+#EXTINF:-1 group-title="S",Sunshine Live Classics
 http://stream.sunshine-live.de/classics/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live Drum N Bass
+#EXTINF:-1 group-title="S",Sunshine Live Drum N Bass
 http://stream.sunshine-live.de/dnb/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live Hands Up
+#EXTINF:-1 group-title="S",Sunshine Live Hands Up
 http://stream.sunshine-live.de/handsup/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live Hard
+#EXTINF:-1 group-title="S",Sunshine Live Hard
 http://stream.sunshine-live.de/hard/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live House
+#EXTINF:-1 group-title="S",Sunshine Live House
 http://stream.sunshine-live.de/house/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live Lounge
+#EXTINF:-1 group-title="S",Sunshine Live Lounge
 http://stream.sunshine-live.de/lounge/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live Mayday
+#EXTINF:-1 group-title="S",Sunshine Live Mayday
 http://stream.sunshine-live.de/mayday/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live Nature One
+#EXTINF:-1 group-title="S",Sunshine Live Nature One
 http://stream.sunshine-live.de/natureone/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live Time Warp
+#EXTINF:-1 group-title="S",Sunshine Live Time Warp
 http://stream.sunshine-live.de/timewarp/mp3-192
-#EXTINF:-1 group-title="Germany",Sunshine Live Trance
+#EXTINF:-1 group-title="S",Sunshine Live Trance
 http://stream.sunshine-live.de/trance/mp3-192
-#EXTINF:-1 group-title="Germany",Technobase.fm
+#EXTINF:-1 group-title="T",Technobase.fm
 http://lw1.mp3.tb-group.fm/tb.mp3
-#EXTINF:-1 group-title="Germany",The Radio Fire and Ice
+#EXTINF:-1 group-title="T",The Radio Fire and Ice
 http://the-radio-fire-and-ice.de:8000/stream/main/
-#EXTINF:-1 group-title="Germany",Triquency Campus Radio
+#EXTINF:-1 group-title="T",Triquency Campus Radio
 http://livestream.triquency.de:8000/live192.mp3
-#EXTINF:-1 group-title="Germany",Vogtland Radio 100.5 FM
+#EXTINF:-1 group-title="V",Vogtland Radio 100.5 FM
 http://vogtlandradio.mp3.green.ch/vogtland_128k_mp3
-#EXTINF:-1 group-title="Germany",WELLE 1 Salzburg
+#EXTINF:-1 group-title="W",WELLE 1 Salzburg
 https://live.welle1.at:18128/stream
