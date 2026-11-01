@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="AZPM",AZPM
+https://streaming.azpm.org/kuaz256
 #EXTINF:-1 group-title="AZPM",AZPM Classical
 https://streaming.azpm.org/kuat256
 #EXTINF:-1 group-title="AZPM",AZPM Jazz
@@ -60,7 +62,7 @@ https://ycradio.stream.publicradio.org/favorites.mp3
 #EXTINF:-1 group-title="MPR",MPR Classical Piano
 https://holiday.stream.publicradio.org/peacefulpiano.mp3
 #EXTINF:-1 group-title="MPR",MPR The Current
-http://current.stream.publicradio.org/kcmp.mp3
+https://current.stream.publicradio.org/current.aac
 #EXTINF:-1 group-title="NCPR",NCPR
 https://ncpr-ice.streamguys1.com/ncpr-96k.mp3
 #EXTINF:-1 group-title="NCPR",PRX Remix
