@@ -229,8 +229,6 @@ https://ice01.canalfm.ovh/canalfm.mp3
 https://streaming.nrjaudio.fm/oumvmk8fnozc
 #EXTINF:-1 group-title="Misc",Le Son Parisien
 http://stream.lesonparisien.com/hi.mp3
-#EXTINF:-1 group-title="Misc",Littoral FM
-https://littoralfmperpignan.ice.infomaniak.ch/littoralfmperpignan.mp3
 #EXTINF:-1 group-title="Misc",Mistral FM
 http://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3
 #EXTINF:-1 group-title="Misc",Radio Marseillette
@@ -241,8 +239,6 @@ https://n10.rcs.revma.com/x5m14dystk3vv
 http://forumenfrancais.ice.infomaniak.ch/forumenfrancais-128.mp3
 #EXTINF:-1 group-title="Misc",Ici & Maintenant
 https://s64.radiolize.com/radio/8090/radio.mp3
-#EXTINF:-1 group-title="Misc",RadioTSF98
-http://sirius.cloudradio.fr:8053/stream
 #EXTINF:-1 group-title="Misc",Radio Monaco
 http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3
 #EXTINF:-1 group-title="Misc",Radio Vaticana Francais
@@ -281,20 +277,12 @@ https://live.radio-campus.org:8002/campus-bordeaux
 http://streamer.radiocampus.be/stream.mp3
 #EXTINF:-1 group-title="Radio Campus France",Radio Campus Clermont-Ferrand
 https://live.radio-campus.org:8002/clermont-ferrand
-#EXTINF:-1 group-title="Radio Campus France",Radio Campus France
-https://www.radiocampus.fr/audio/live/radio-campus-france
 #EXTINF:-1 group-title="Radio Campus France",Radio Campus Grenoble
 https://live.campusgrenoble.org/rcg112
-#EXTINF:-1 group-title="Radio Campus France",Radio Campus Lille
-http://radiocampuslille.ice.infomaniak.ch/radiocampuslille-128
 #EXTINF:-1 group-title="Radio Campus France",Radio Campus Lorraine
 https://streaming.radio.co/s072797b7e/listen
 #EXTINF:-1 group-title="Radio Campus France",Radio Campus Lyon Brume
 https://listen.radioking.com/radio/489875/stream/546695
-#EXTINF:-1 group-title="Radio Campus France",Radio Campus Montpellier
-https://stream.radiocampusmontpellier.fr/rcm_direct.m3u
-#EXTINF:-1 group-title="Radio Campus France",Radio Campus Mulhouse
-https://www.radiocampus.fr/audio/live/radio-mne-mulhouse
 #EXTINF:-1 group-title="Radio Campus France",Radio Campus Orléans
 https://streams.labomedia.org:8443/stream_rco
 #EXTINF:-1 group-title="Radio Campus France",Radio Campus Paris
@@ -341,8 +329,6 @@ https://rcf.streamakaci.com/rcfoccitanie.mp3
 http://rcf.streamakaci.com/rcf06.mp3
 #EXTINF:-1 group-title="RCF",RCF BRUXELLES
 http://rcf.streamakaci.com/rcfbruxelles.mp3
-#EXTINF:-1 group-title="RCF",RCF Liège
-http://rcf.streamakaci.com/rcfliege.mp3
 #EXTINF:-1 group-title="RFI",RFI Monde
 http://live02.rfi.fr/rfimonde-96k.mp3
 #EXTINF:-1 group-title="RFI",RFI Afrique
@@ -357,28 +343,12 @@ http://rfimusiquemonde96k.ice.infomaniak.ch/rfimusiquemonde-96k.mp3
 https://icecast.rtl.fr/rtl-1-44-128
 #EXTINF:-1 group-title="RTL",RTL 2
 https://icecast.rtl.fr/rtl2-1-44-128
-#EXTINF:-1 group-title="RFM",RFM
-http://stream.rfm.fr/rfm.mp3
-#EXTINF:-1 group-title="RFM",RFM Collector
-http://stream.rfm.fr/rfm-wr1.mp3
-#EXTINF:-1 group-title="RFM",RFM La Radio Couleur
-https://stream.rfm.fr/rfm-wr3.aac
-#EXTINF:-1 group-title="RFM",RFM 80's
-http://stream.rfm.fr/rfm-wr4.mp3
 #EXTINF:-1 group-title="RFM",RFM Party 90
 https://rfm.lmn.fm/rfm-wr5.aac
-#EXTINF:-1 group-title="RFM",RFM Lounge
-http://stream.rfm.fr/rfm-wr6.mp3
 #EXTINF:-1 group-title="RFM",RFM Live
 https://rfm.lmn.fm/rfm-wr22.mp3
-#EXTINF:-1 group-title="RFM",RFM Le Hit
-http://stream.rfm.fr/rfm-wr7.mp3
-#EXTINF:-1 group-title="RFM",RFM Pop Rock
-https://stream.rfm.fr/rfm-wr10.aac
 #EXTINF:-1 group-title="RFM",RFM 100% Francais
 https://wr.lmn.fm/rfm-wr11.aac
-#EXTINF:-1 group-title="RFM",RFM New Wave
-http://stream.rfm.fr/rfm-wr12.aac
 #EXTINF:-1 group-title="RFM",RFM Slow
 https://wr.lmn.fm/rfm-wr13.aac
 #EXTINF:-1 group-title="RFM",RFM Cinema
