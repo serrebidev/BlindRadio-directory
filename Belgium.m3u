@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="New",RTBF La Premiere
+#EXTINF:-1 group-title="Belgium",RTBF La Premiere
 https://radios.rtbf.be/laprem1ere-64.aac
-#EXTINF:-1 group-title="New",RTBF Viva Bxl
+#EXTINF:-1 group-title="Belgium",RTBF Viva Bxl
 https://radios.rtbf.be/vivabxl-64.aac
-#EXTINF:-1 group-title="New",RTBF Viva Liege
+#EXTINF:-1 group-title="Belgium",RTBF Viva Liege
 https://radios.rtbf.be/vivaliege-64.aac
-#EXTINF:-1 group-title="New",RTBF Classic21
+#EXTINF:-1 group-title="Belgium",RTBF Classic21
 https://radios.rtbf.be/classic21-128.mp3
-#EXTINF:-1 group-title="New",RTBF Musiq 3
+#EXTINF:-1 group-title="Belgium",RTBF Musiq 3
 https://radios.rtbf.be/musiq3-128.aac

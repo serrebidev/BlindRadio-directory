@@ -1,53 +1,49 @@
 #EXTM3U
-#EXTINF:-1 group-title="Misc",WRN Europe
+#EXTINF:-1 group-title="English",WRN Europe
 http://streaming.edmradio.online:8025/WRN-E
-#EXTINF:-1 group-title="Misc",WRN North America
+#EXTINF:-1 group-title="English",WRN North America
 http://streaming.edmradio.online:8025/NAMAAP
-#EXTINF:-1 group-title="Misc",World Radio Paris
+#EXTINF:-1 group-title="English",World Radio Paris
 http://stream.worldradioparis.com:8000/wrp-128.mp3
-#EXTINF:-1 group-title="Misc",24/7 News
+#EXTINF:-1 group-title="English",24/7 News
 http://stream.revma.ihrhls.com/zc6043
-#EXTINF:-1 group-title="Misc",24/7 Comedy
+#EXTINF:-1 group-title="English",24/7 Comedy
 https://stream.revma.ihrhls.com/zc4902
-#EXTINF:-1 group-title="Misc",Talk Radio Europe
+#EXTINF:-1 group-title="English",Talk Radio Europe
 http://s3.yesstreaming.net:7014/stream
-#EXTINF:-1 group-title="Misc",RTE radio 1
+#EXTINF:-1 group-title="English",RTE radio 1
 http://icecast.rte.ie/radio1
-#EXTINF:-1 group-title="Misc",CRI Radio English
+#EXTINF:-1 group-title="English",CRI Radio English
 https://sk.cri.cn/am846.m3u8
-#EXTINF:-1 group-title="Misc",Bloomberg Radio
+#EXTINF:-1 group-title="English",Bloomberg Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRCAAMAAC.aac
-#EXTINF:-1 group-title="Misc",Bloomberg HD2
+#EXTINF:-1 group-title="English",Bloomberg HD2
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRDCAAC.aac
-#EXTINF:-1 group-title="Misc",CNN Radio
-https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
-#EXTINF:-1 group-title="Misc",CNN International
+#EXTINF:-1 group-title="English",CNN
+https://tunein.cdnstream1.com/2868_96.mp3
+#EXTINF:-1 group-title="English",CNN International
 https://tunein.cdnstream1.com/3519_96.aac
-#EXTINF:-1 group-title="Misc",Fox News Radio
+#EXTINF:-1 group-title="English",Fox News Radio
 https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc
-#EXTINF:-1 group-title="Misc",Fox News
+#EXTINF:-1 group-title="English",Fox News
 https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/foxfree/master.m3u8
-#EXTINF:-1 group-title="Misc",Fox Sports Radio 1400
+#EXTINF:-1 group-title="English",Fox Sports Radio 1400
 https://stream.revma.ihrhls.com/zc2089
-#EXTINF:-1 group-title="Misc",Israel News Talk
+#EXTINF:-1 group-title="English",Israel News Talk
 https://dfw.audio-stream.com/proxy/israelne?mp=/live_live
-#EXTINF:-1 group-title="Misc",World Radio Switzerland
+#EXTINF:-1 group-title="English",World Radio Switzerland
 https://streamingr.broadcastradio.com:10295/wrs
-#EXTINF:-1 group-title="Misc",ABC Radio National
-https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/master.m3u8
-#EXTINF:-1 group-title="Misc",ABC Radio Australia
-https://live-radio01.mediahubaustralia.com/RAEW/mp3/;;
-#EXTINF:-1 group-title="Misc",ABC News Radio
-https://live-radio01.mediahubaustralia.com/PBW/mp3/;
-#EXTINF:-1 group-title="Misc",Sky News Australia Radio
+#EXTINF:-1 group-title="English",ABC Radio National
+http://abc.streamguys1.com/live/rnnsw/icecast.audio
+#EXTINF:-1 group-title="English",ABC Radio Melbourne
+https://streaming.abc-cdn.net.au/audio/hls/localmelbourne.m3u8?source=web
+#EXTINF:-1 group-title="English",ABC News Radio
+http://abc.streamguys1.com/live/newsradio/icecast.audio
+#EXTINF:-1 group-title="English",Sky News Australia Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
-#EXTINF:-1 group-title="Misc",MSNBC
+#EXTINF:-1 group-title="English",MSNBC
 https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/msnbcfree/master.m3u8
-#EXTINF:-1 group-title="Misc",Radio Vaticana English
+#EXTINF:-1 group-title="English",Radio Vaticana English
 https://radio.vaticannews.va/stream-en
-#EXTINF:-1 group-title="Misc",Oman English Radio
-https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8
-#EXTINF:-1 group-title="Misc",DoubleTap Live
-https://s2.radio.co/s1eb3875b8/listen
-#EXTINF:-1 group-title="Misc",MS Now
+#EXTINF:-1 group-title="English",MS Now
 https://tunein.cdnstream1.com/3511_96.mp3
