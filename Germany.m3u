@@ -1,32 +1,30 @@
 #EXTM3U
 #EXTINF:-1 group-title="BR",Bayern 1 Mainfranken
-https://streams.br.de/bayern1main_2.m3u
+https://dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid
 #EXTINF:-1 group-title="BR",Bayern 1 Niederbayern/Oberpfalz
-https://streams.br.de/bayern1nbopf_2.m3u
+https://dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid
 #EXTINF:-1 group-title="BR",Bayern 1 Oberbayern
-https://streams.br.de/bayern1obb_2.m3u
-#EXTINF:-1 group-title="BR",Bayern 1 Oberfranken
-https://streams.br.de/bayern1fran_2.m3u
+https://br-radio.ard-mcdn.de/br/radio/b1obb/hls/192/seglist.m3u8
 #EXTINF:-1 group-title="BR",Bayern 1 Schwaben
-https://streams.br.de/bayern1schw_2.m3u
+https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid
 #EXTINF:-1 group-title="BR",Bayern 2 Nord
-https://streams.br.de/bayern2nord_2.m3u
+https://br-radio.ard-mcdn.de/br/radio/b2/hls/192/seglist.m3u8
 #EXTINF:-1 group-title="BR",Bayern 2 Süd
-https://streams.br.de/bayern2sued_2.m3u
+https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
+#EXTINF:-1 group-title="BR",Bayern 2
+https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
 #EXTINF:-1 group-title="BR",Bayern 3
-https://streams.br.de/bayern3_2.m3u
+https://br-radio.ard-mcdn.de/br/radio/b3/hls/192/seglist.m3u8
 #EXTINF:-1 group-title="BR",BR Heimat
-https://streams.br.de/brheimat_2.m3u
+https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
 #EXTINF:-1 group-title="BR",BR24
-https://streams.br.de/br24_2.m3u
+https://br-radio.ard-mcdn.de/br/radio/br24/hls/96/seglist.m3u8
 #EXTINF:-1 group-title="BR",BR24Live
-https://streams.br.de/br24live_2.m3u
+https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
 #EXTINF:-1 group-title="BR",BR-Klassik
-https://streams.br.de/br-klassik_3.m3u
+https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/192/seglist.m3u8
 #EXTINF:-1 group-title="BR",BR-Schlager
-https://streams.br.de/brschlager_2.m3u
-#EXTINF:-1 group-title="BR",Puls
-https://streams.br.de/puls_2.m3u
+https://opml.radiotime.com/Tune.ashx?id=s44975&formats=mp3,aac,ogg,hls
 #EXTINF:-1 group-title="DR",Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac
 #EXTINF:-1 group-title="DR",Deutschlandfunk Kultur
@@ -54,15 +52,13 @@ http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u
 #EXTINF:-1 group-title="MDR",MDR Aktuell
 http://avw.mdr.de/streams/284340-0_aac_high.m3u
 #EXTINF:-1 group-title="MDR",MDR Jump
-https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/aac/high/stream.aac
-#EXTINF:-1 group-title="MDR",MDR Jump In The Mix
-https://avw.mdr.de/streams/284321-2_aac_high.m3u
+https://opml.radiotime.com/Tune.ashx?id=s6634&formats=mp3,aac,ogg,hls
 #EXTINF:-1 group-title="MDR",MDR JUMP Trend
-https://avw.mdr.de/streams/284321-0_aac_high.m3u
+https://opml.radiotime.com/Tune.ashx?id=s6634&formats=mp3,aac,ogg,hls
 #EXTINF:-1 group-title="MDR",MDR Klassik
 http://avw.mdr.de/streams/284350-0_aac_high.m3u
 #EXTINF:-1 group-title="MDR",MDR Kultur
-http://mdr-284310-0.cast.mdr.de/mdr/284310/0/aac/high/stream.aac
+http://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
 #EXTINF:-1 group-title="MDR",MDR Kultur - Klassik im Konzert
 http://avw.mdr.de/streams/284311-0_aac_high.m3u
 #EXTINF:-1 group-title="MDR",MDR Sachsen
@@ -79,8 +75,6 @@ http://avw.mdr.de/streams/990701-0_mp3_high.m3u
 http://avw.mdr.de/streams/990601-0_mp3_high.m3u
 #EXTINF:-1 group-title="MDR",MDR Sputnik
 http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
-#EXTINF:-1 group-title="MDR",MDR Sputnik Black
-http://mdr-284331-0.cast.mdr.de/mdr/284331/0/mp3/high/stream.mp3
 #EXTINF:-1 group-title="MDR",MDR Sputnik Club
 http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
 #EXTINF:-1 group-title="MDR",MDR Sputnik Firstplay
@@ -139,8 +133,6 @@ http://orf-live.ors-shoutcast.at/oe3-q2a
 http://orf-live.ors-shoutcast.at/oe1-q2a
 #EXTINF:-1 group-title="ORF",OE1 Campus
 https://orf-live.ors-shoutcast.at/campus-q2a
-#EXTINF:-1 group-title="ORF",OE1 DD
-https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8
 #EXTINF:-1 group-title="ORF",ORF Radio Kärnten
 http://orf-live.ors-shoutcast.at/ktn-q2a
 #EXTINF:-1 group-title="ORF",ORF Radio Salzburg
@@ -197,8 +189,6 @@ http://sr.audiostream.io/sr/1012/mp3/128/sr1c1
 http://sr.audiostream.io/sr/1012/mp3/128/sr1c2
 #EXTINF:-1 group-title="SR",SR 2 KulturRadio
 http://sr.audiostream.io/sr/1010/mp3/128/sr2
-#EXTINF:-1 group-title="SR",SR 2 Off-Beat
-http://sr.audiostream.io/sr/1012/mp3/128/sr2c1
 #EXTINF:-1 group-title="SR",SR 3 Oldiewelt
 http://sr.audiostream.io/sr/1012/mp3/128/sr3c2
 #EXTINF:-1 group-title="SR",SR 3 Saarlandwelle
@@ -206,17 +196,15 @@ http://sr.audiostream.io/sr/1011/mp3/128/sr3
 #EXTINF:-1 group-title="SR",SR 3 Schlagerwelt
 http://sr.audiostream.io/sr/1012/mp3/128/sr3c1
 #EXTINF:-1 group-title="SR",UnserDing
-http://streaming01.sr-online.de/unserding_2.m3u
-#EXTINF:-1 group-title="SR",UnserDing Schwarz
-http://streaming02.sr-online.de/unserding-schwarz.m3u
+http://liveradio.sr.de/sr/ud/mp3/128/stream.mp3?aggregator=custom1
 #EXTINF:-1 group-title="SR",UnserDing Zukunft
-https://streaming.sr.de/https/unserding-zukunft.m3u
+http://liveradio.sr.de/sr/udc2/mp3/128/stream.mp3?aggregator=custom1
+#EXTINF:-1 group-title="SR",UnserDing - Schwarz
+http://liveradio.sr.de/sr/udc1/mp3/128/stream.mp3?aggregator=custom1
 #EXTINF:-1 group-title="SWR",DASDING
 https://liveradio.swr.de/sw282p3/dasding/
 #EXTINF:-1 group-title="SWR",DASDING Chillout
 https://liveradio.swr.de/sw331ch/raka10/
-#EXTINF:-1 group-title="SWR",DASDING Partyfieber
-https://liveradio.swr.de/sw331ch/raka07/
 #EXTINF:-1 group-title="SWR",DASDING Rap
 https://liveradio.swr.de/sw331ch/raka11/
 #EXTINF:-1 group-title="SWR",DASDING Weekend Warmup
@@ -370,7 +358,7 @@ https://radiogroup-stream32.radiohost.de//antenne-koblenz_mp3-192
 #EXTINF:-1 group-title="A",Antenne Mainz
 http://antennemainz-live.cast.addradio.de/antennemainz/live/mp3/high
 #EXTINF:-1 group-title="A",Antenne Münster 95.4 FM
-http://addrad.io/4459h2p
+http://edge03.streamonkey.net/mms-antennemuenster/stream/mp3?aggregator=Hoerer
 #EXTINF:-1 group-title="A",Antenne Niederrhein 105.7 FM
 http://stream.antenneniederrhein.de/444z5nm
 #EXTINF:-1 group-title="A",Antenne Niedersachsen
@@ -382,9 +370,9 @@ http://antenne-sauerland.stream.laut.fm/antenne-sauerland
 #EXTINF:-1 group-title="A",Antenne Sylt
 http://streams.antenne-sylt.de/sylt/mp3-128
 #EXTINF:-1 group-title="A",Antenne Thüringen 97.9 FM
-http://antenne-th.divicon-stream.net/antth_atlive_sfS8-mp3-192?sABC=58p46482%230%23ppr86n441o4o17680106qn05q638686r%23ighare&amsparams=playerid:vtuner;skey:1489265794
+https://edge62.streamonkey.net/antthue-mitte?aggregator=rewrite/
 #EXTINF:-1 group-title="A",Antenne Unna 97.4 FM
-http://lokalradiostream.de:8010/
+https://antenneunna--di--nacs-ais-lgc--07--cdn.cast.addradio.de/antenneunna/live/mp3/high
 #EXTINF:-1 group-title="A",Antenne Trier
 http://stream.radiogroup.de/antenne-trier/mp3-192
 #EXTINF:-1 group-title="A",Antenne Witten laut.fm
@@ -397,16 +385,12 @@ http://46.163.75.84:8000
 http://badenfm.ip-streaming.net:8006/badenfm
 #EXTINF:-1 group-title="B",Bayernwelle
 https://bayernwelle-live.cast.addradio.de/bayernwelle/live/mp3/high
-#EXTINF:-1 group-title="B",BB Radio - Berlin Club
-http://streambbr.ir-media-tec.com/berlin/mp3-128
 #EXTINF:-1 group-title="B",BB Radio - Best of 80's
 http://streambbr.ir-media-tec.com/80s/mp3-128
 #EXTINF:-1 group-title="B",BB Radio - Best of 90's
 http://streambbr.ir-media-tec.com/90s/mp3-128
 #EXTINF:-1 group-title="B",BB Radio - Brandnew
 http://streambbr.ir-media-tec.com/neu/mp3-128
-#EXTINF:-1 group-title="B",BB Radio - Deutsch Relax
-http://streambbr.ir-media-tec.com/deutsch-relax/mp3-128
 #EXTINF:-1 group-title="B",BB Radio - Deutsche Hits
 http://streambbr.ir-media-tec.com/deutsch/mp3-128
 #EXTINF:-1 group-title="B",BB Radio - Party and Dance
@@ -424,7 +408,7 @@ http://stream.campusfm.de/
 #EXTINF:-1 group-title="C",Chaos Radio
 http://stream.laut.fm/chaos-radio
 #EXTINF:-1 group-title="C",Charivari 98.6 - Funkhaus Nürnberg
-http://webstream.charivari986.de/charivari986
+https://frontend.streamonkey.net/fhn-986charivarichillout/stream/mp3
 #EXTINF:-1 group-title="C",Charivari Live
 http://rs5.stream24.net:80/stream
 #EXTINF:-1 group-title="C",Charivari Regensburg
@@ -438,7 +422,7 @@ http://live.ctdasradio.de:8008/web-playlist
 #EXTINF:-1 group-title="D",Das Radio der von Neil Young Getöteten
 http://streamplus3.leonex.de:11216/;
 #EXTINF:-1 group-title="D",delta radio
-https://regiocast.streamabc.net/rc-deltaliveshsued-mp3-192-8020733
+http://streams.deltaradio.de/delta-live/mp3-128/liveradio/
 #EXTINF:-1 group-title="D",DELUXE LOUNGE RADIO
 http://audiostreams.deluxemusic.tv/lounge/mp3-192
 #EXTINF:-1 group-title="D",DELUXE MUSIC RADIO
@@ -497,12 +481,10 @@ http://gitarrefm.stream.laut.fm/gitarrefm
 http://tunein.goldfm.de:80
 #EXTINF:-1 group-title="G",gong fm Regensburg
 https://edge16.streamonkey.net/gongfm-regensburg/stream/mp3
-#EXTINF:-1 group-title="G",GUERICKE FM - Das Uniradio Magdeburg
-http://streamplus5.leonex.de:35822/
 #EXTINF:-1 group-title="H",Hamburg ZWEI
 https://frontend.streamonkey.net/hh2-950
 #EXTINF:-1 group-title="H",Hamburger Lokalradio
-https://solid9.streamupsolutions.com/proxy/ddedipmi/stream
+https://opml.radiotime.com/Tune.ashx?id=s363901&formats=mp3,aac,ogg,hls
 #EXTINF:-1 group-title="H",harmony.fm 107.5
 http://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
 #EXTINF:-1 group-title="H",Hellweg Radio 100.9 Soest
@@ -516,7 +498,7 @@ http://webstream.hitradion1.de/hitradion1
 #EXTINF:-1 group-title="H",Hitradio Namibia
 https://s37.derstream.net/hitradio-namibia.mp3
 #EXTINF:-1 group-title="H",Hitradio Ohr 90.5 FM
-https://edge14.streamonkey.net/fho-hitradioohrlive/stream/mp3
+https://edge12.streamonkey.net/fho-hitradioohr90er/stream/aacp?aggregator=smk-m3u-aac
 #EXTINF:-1 group-title="H",Hitradio RT1
 http://rt1.radio/eomk1
 #EXTINF:-1 group-title="H",Hitradio RTL
@@ -540,13 +522,11 @@ https://streaming.radio.co/s774887f7b/listen
 #EXTINF:-1 group-title="J",JazzRadio Berlin
 http://streaming.radio.co/s774887f7b/listen
 #EXTINF:-1 group-title="J",JOKE FM
-http://rs33.stream24.net/joke-fm.mp3
+https://opml.radiotime.com/Tune.ashx?id=s223567&formats=mp3,aac,ogg,hls
 #EXTINF:-1 group-title="K",Kick!FM 105.9
 http://live.kickfm.eu:8000/
-#EXTINF:-1 group-title="K",Kiel FM
-http://radio.oksh.de:8000/kielfm.mp3
 #EXTINF:-1 group-title="K",KISS FM 98.8
-http://138.201.251.239:80/kissfm_128
+http://stream.kissfm.de/kissfm/mp3-128/internetradio/
 #EXTINF:-1 group-title="Klassik Radio",Klassik Radio
 http://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
 #EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Barock
@@ -594,7 +574,7 @@ http://landeswelle-de-hz-fal-stream02-cluster01.radiohost.de:80/lwdemp3-192
 #EXTINF:-1 group-title="L",LandesWelle Thüringen
 http://landeswelle-de-hz-fal-stream05-cluster01.radiohost.de:80/lwtmp3-192
 #EXTINF:-1 group-title="L",Lausitzwelle
-http://radioelsterwelle.mp3.green.ch/elsterwelle.mp3
+http://s4.radionetz.de/lausitzwelle.mp3
 #EXTINF:-1 group-title="L",LernRadio LIVE
 http://193.197.85.26:8000/
 #EXTINF:-1 group-title="L",LOHRO 90,2 FM
@@ -607,8 +587,6 @@ http://live.lora924.de:8000/lora-hq.mp3
 http://icecast.l-uni.co:8001/lunico_high_mp3
 #EXTINF:-1 group-title="M",Mangoradio
 https://mangoradio.stream.laut.fm/mangoradio
-#EXTINF:-1 group-title="M",mephisto 97.6
-http://radiostream.radio.uni-leipzig.de:8000/mephisto976_livestream.mp3
 #EXTINF:-1 group-title="N",NB-Radiotreff 88.0
 http://mmv-mediathek.de:8000/live160
 #EXTINF:-1 group-title="N",NE-WS 89.4
@@ -619,8 +597,6 @@ http://stream.tbfunk.de/okn.mp3
 http://icecast.multhielemedia.de:8000/ohrfunk
 #EXTINF:-1 group-title="O",OSradio 104,8
 http://live.osradio.de/os-radio.mp3
-#EXTINF:-1 group-title="O",Ostseefun Radio
-https://ostseefun.stream.laut.fm/ostseefun
 #EXTINF:-1 group-title="O",Ostseewelle HIT-RADIO Mecklenburg-Vorpommern
 http://addrad.io/4454ph7
 #EXTINF:-1 group-title="P",planet radio 100.2 FM
@@ -628,13 +604,13 @@ http://mp3.planetradio.de/planetradio/hqlivestream.mp3
 #EXTINF:-1 group-title="P",Power Radio 91.8 FM
 http://85.25.217.22:8020/stream
 #EXTINF:-1 group-title="P",pure fm - berlins dance radio
-http://radionetz.de:8000/purefm-bln.mp3
+http://s4.radionetz.de/purefm-bln.mp3
 #EXTINF:-1 group-title="Q",Querfunk 104.8 FM
 http://mp3.querfunk.de/qfhi
 #EXTINF:-1 group-title="R",R.SA Sachsen
-https://rsa.streamabc.net/regc-rsasachsenlive9335717-mp3-192-4612768
+https://streams.rsa-sachsen.de/sommer/mp3-192/radiode/https://streams.rsa-sachsen.de/sommer/mp3-192/radiode/
 #EXTINF:-1 group-title="R",R.SH - Radio Schleswig-Holstein
-https://rsh.streamabc.net/regc-rshlive5331785-mp3-192-8119086
+https://opml.radiotime.com/Tune.ashx?id=s329284&formats=mp3,aac,ogg,hls
 #EXTINF:-1 group-title="R",Radio 21
 https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655
 #EXTINF:-1 group-title="R",Radio 2Day 89 FM
@@ -647,16 +623,12 @@ http://stream.lokalradio.nrw/4453z5m
 http://mmv-mediathek.de:8000/radio98eins
 #EXTINF:-1 group-title="R",Radio Aktiv
 http://live.radio-aktiv.de/r-aktiv.mp3
-#EXTINF:-1 group-title="R",Radio Aktiv-FM 89.6
-http://stream.radioaktiv.org:8233/VeryHiFi
-#EXTINF:-1 group-title="R",Radio Akwaaba FM
-http://centova2.whsh4u.com:10000/
 #EXTINF:-1 group-title="R",Radio Alpenwelle 95.0 FM
 http://live.alpenwelle.de/alpenwelle128
 #EXTINF:-1 group-title="R",Radio Arabella München 105.2 FM
-http://rs6.stream24.net:80/stream
+https://edge12.stream.radioarabella.de/radioarabella-muenchen
 #EXTINF:-1 group-title="R",Radio Augsburg 104.05 FM
-http://streamplus36.leonex.de:15440
+http://stream.radio-augsburg.de/radioaugsburg.mp3
 #EXTINF:-1 group-title="R",Radio Bamberg 88.5 FM
 http://rs1.stream24.net:80/stream
 #EXTINF:-1 group-title="R",Radio Berg 99.7 FM
@@ -666,7 +638,7 @@ https://radiobielefeld-live.cast.addradio.de/radiobielefeld/live/mp3/high
 #EXTINF:-1 group-title="R",Radio Blau 99.2 FM
 http://stream.radioblau.de/
 #EXTINF:-1 group-title="R",RADIO BOB!
-https://regiocast.streamabc.net/regc-radiobobnational5043365-mp3-192-2943705
+http://streams.radiobob.de/bob-national/mp3-192/mediaplayer
 #EXTINF:-1 group-title="R",Radio Bochum 98.5 FM
 http://stream.lokalradio.nrw/444zbqc
 #EXTINF:-1 group-title="R",Radio Bonn/Rhein-Sieg 91.2 FM
@@ -715,10 +687,6 @@ https://radioflora.de:8443/stream/live192.mp3
 https://radiogroup-stream31.radiohost.de/radio-frankfurt_mp3-192
 #EXTINF:-1 group-title="R",Radio Free FM 97.7
 http://stream.freefm.de:7000/Studio
-#EXTINF:-1 group-title="R",Radio Galaxy Bamberg 104.7 FM
-http://rs21.stream24.net:80/stream
-#EXTINF:-1 group-title="R",Radio Galaxy Ingolstadt 107.9 FM
-http://4broadcast.de:8100
 #EXTINF:-1 group-title="R",Radio Galaxy Mittelfranken
 http://live.galaxy-mittelfranken.de/galaxy-mittelfranken.mp3
 #EXTINF:-1 group-title="R",Radio Galaxy Oberfranken
@@ -766,7 +734,7 @@ http://mp3.radiolippe.c.nmdn.net/ps-radiolippe/livestream.mp3
 #EXTINF:-1 group-title="R",Radio LoTTe 106.6 FM Weimar
 http://tbradio.de/lotte.mp3
 #EXTINF:-1 group-title="R",Radio Lübeck
-http://stream.radioluebeck.de/radioluebeck-192.mp3
+https://s35.derstream.net/radioluebeck-192.mp3
 #EXTINF:-1 group-title="R",Radio Mainwelle 104.3 FM
 http://webstream.mainwelle.de/radio-mainwelle.mp3
 #EXTINF:-1 group-title="R",Radio Melodie
@@ -790,9 +758,9 @@ https://server10956.streamplus.de/;stream.mp3
 #EXTINF:-1 group-title="R",Radio Paloma
 http://tuner.radiopaloma.de:80
 #EXTINF:-1 group-title="R",Radio Paradiso 98.2
-https://paradisode.streamabc.net/para-paradisoberlin-mp3-128-5481878
+https://streams.paradiso.de/Berlin/mp3-128/Web/?pkey=web-radioparadiso-de&tcstring=CPXGs4APXGs4AAFADBDECKCgAAAAAAAAAAYgAAAAAAAA.YAAAAAAAAAAA
 #EXTINF:-1 group-title="R",Radio Primaton 100.5 FM
-https://edge63.streamonkey.net/schweinfurt-primaton
+http://frontend.streamonkey.net/schweinfurt-primaton
 #EXTINF:-1 group-title="R",Radio Primavera 100.4 FM
 http://live.stream.primavera24.de/primavera24-radioprimavera/stream/mp3
 #EXTINF:-1 group-title="R",RADIO PSR
@@ -808,7 +776,7 @@ https://server7.streamserver24.com:8080/proxy/rheinwelle2
 #EXTINF:-1 group-title="R",Radio RSG 94.3 FM
 http://stream.lokalradio.nrw/444zdbv
 #EXTINF:-1 group-title="R",Radio RST 104.0 FM
-http://addrad.io/4459gwj
+https://stream.lokalradio.nrw/4459gw9
 #EXTINF:-1 group-title="R",Radio Rur 92.7 FM
 http://stream.lokalradio.nrw/444z7wm
 #EXTINF:-1 group-title="R",Radio Rüsselsheim 90.9 MHz
@@ -820,9 +788,9 @@ http://internetradio.salue.de:8000/salue.mp3
 #EXTINF:-1 group-title="R",Radio Santec
 https://audio.bild-und-ton.stream:16162/radiosantec-de
 #EXTINF:-1 group-title="R",radio SAW
-http://saw-de-hz-fal-stream08-cluster01.radiohost.de:80/saw_128
+https://stream.radiosaw.de/saw/mp3-192/radio-browser/
 #EXTINF:-1 group-title="R",Radio Seefunk RSF 104.3 FM
-http://webradio.radio-seefunk.de:8000
+https://webradio.radio-seefunk.de/
 #EXTINF:-1 group-title="R",Radio Siegen 88.2 FM
 http://stream.lokalradio.nrw/444z53v
 #EXTINF:-1 group-title="R",Radio TEDDY
@@ -834,7 +802,7 @@ http://live2.radioton.de/rt-live-mobile-hn
 #EXTINF:-1 group-title="R",Radio Tonkuhle 105.3 FM Hildesheim
 https://stream.tonkuhle.de/tonkuhle.mp3
 #EXTINF:-1 group-title="R",radio TOP 40 96.6 FM
-http://antenne-th.divicon-stream.net/antth_top40live_SeJx-mp3-192?sABC=58p46973%230%23ppr86n441o4o17680106qn05q638686r%23ighare&amsparams=playerid:vtuner;skey:1489267059
+http://stream.radiotop40.de/charts/mp3-192/web/
 #EXTINF:-1 group-title="R",Radio Trausnitz 104.1 FM
 http://mp3ad.radiotrausnitz.c.nmdn.net/ps-radiotrausnitz/livestream.mp3
 #EXTINF:-1 group-title="R",Radio Unerhört Marburg 90.1 FM
@@ -852,7 +820,7 @@ http://stream.bfbu.de:8000/hb128
 #EXTINF:-1 group-title="R",Radio Westfalica 95.7 FM
 http://mp3.radiowestfalica.c.nmdn.net/ps-radiowestfalica/livestream.mp3
 #EXTINF:-1 group-title="R",Radio WMW 88.4 FM
-http://addrad.io/4459h6t
+https://stream.lokalradio.nrw/4459h82?t=1779106053988
 #EXTINF:-1 group-title="R",Radio Wuppertal 107.4 FM
 https://stream.lokalradio.nrw/444z68k
 #EXTINF:-1 group-title="R",Radio X 91.8 FM
@@ -886,7 +854,7 @@ http://mp3channels.webradio.antenne.de/soft-rock
 #EXTINF:-1 group-title="R",Rockland Radio
 http://streams.rockland.de/kl/mp3-192
 #EXTINF:-1 group-title="R",Rockland.fm
-http://saw-de-hz-fal-stream01-cluster01.radiohost.de:80/rockland_128
+https://stream.rockland-digital.de/rockland/mp3-192/radio-browser/
 #EXTINF:-1 group-title="R",RPR1 102.6 FM
 http://stream.rpr1.de/trier/mp3-128
 #EXTINF:-1 group-title="R",RS2
@@ -977,9 +945,7 @@ http://stream.sunshine-live.de/trance/mp3-192
 http://lw1.mp3.tb-group.fm/tb.mp3
 #EXTINF:-1 group-title="T",The Radio Fire and Ice
 http://the-radio-fire-and-ice.de:8000/stream/main/
-#EXTINF:-1 group-title="T",Triquency Campus Radio
-http://livestream.triquency.de:8000/live192.mp3
 #EXTINF:-1 group-title="V",Vogtland Radio 100.5 FM
-http://vogtlandradio.mp3.green.ch/vogtland_128k_mp3
+https://edge16.streamonkey.net/vr-vogtland
 #EXTINF:-1 group-title="W",WELLE 1 Salzburg
 https://live.welle1.at:18128/stream
