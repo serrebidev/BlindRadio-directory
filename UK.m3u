@@ -199,3 +199,43 @@ https://cast2.asurahosting.com/proxy/britcom3/stream
 https://radio.talkradio.co.uk/stream
 #EXTINF:-1 group-title="Misk",Monocle Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/MONOCLE_24.mp3
+#EXTINF:-1 group-title="Misc",New Clear Radio - Your favourite music in best quality! (320 Kbits)
+http://live.ncradio.fm/320
+#EXTINF:-1 group-title="NME",NME 1
+http://listen-nme.sharp-stream.com/nme1high.mp3
+#EXTINF:-1 group-title="NME",NME 2
+http://listen-nme.sharp-stream.com/nme2high.mp3
+#EXTINF:-1 group-title="Misc",Radio Caroline
+http://78.129.202.200:8030/;
+#EXTINF:-1 group-title="Linn",Linn Radio
+http://radio.linn.co.uk:8003/stream
+#EXTINF:-1 group-title="Misc",60 North Radio
+http://r5.zetcast.net/flac
+#EXTINF:-1 group-title="Linn",Linn Jazz
+http://radio.linn.co.uk:8000/stream
+#EXTINF:-1 group-title="Misc",Majestic Jukebox Radio #HIGH SOUND QUALITY / majesticjukeboxradio.netlify.app/
+http://uk3.internet-radio.com:8405/live
+#EXTINF:-1 group-title="Misc",Insanity Radio
+https://stream.cor.insanityradio.com/insanity.flac
+#EXTINF:-1 group-title="Misc",107.8 Radio Jackie Finesse - The Sound of South West London
+http://media.radiojackie.com:5873/;
+#EXTINF:-1 group-title="Misc",Centreforce
+http://centreforce.streamgb.com:8830/320
+#EXTINF:-1 group-title="Misc",Themediasite Stream
+http://stream3.themediasite.co.uk:8134/stream
+#EXTINF:-1 group-title="Nation",Nation Radio 60s
+http://listen-nation.sharp-stream.com/nation60sdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio 70s
+http://listen-nation.sharp-stream.com/nationradio70s-dab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio 80s
+http://listen-nation.sharp-stream.com/nationradio80s-dab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio 90s
+http://listen-nation.sharp-stream.com/nationradio90s-dab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio 00s
+http://listen-nation.sharp-stream.com/nationradio00sdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Hits
+http://listen-nation.sharp-stream.com/nationhitsdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Love Nation
+http://listen-nation.sharp-stream.com/lovenationdab.mp3?ref=RF
+#EXTINF:-1 group-title="Misc",GenX Radio
+http://s2.radio.co:80/sf25229e16/listen

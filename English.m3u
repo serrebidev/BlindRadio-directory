@@ -47,3 +47,7 @@ https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/pro
 https://radio.vaticannews.va/stream-en
 #EXTINF:-1 group-title="Misc",MS Now
 https://tunein.cdnstream1.com/3511_96.mp3
+#EXTINF:-1 group-title="Misc",Timewarp Ireland
+http://141.94.205.245:8052/stream
+#EXTINF:-1 group-title="Misc",SerrebiRadio
+https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio

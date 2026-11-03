@@ -49,3 +49,5 @@ http://stream.srg-ssr.ch/m/drsmw/mp3_128
 http://stream.srg-ssr.ch/m/drsvirus/mp3_128
 #EXTINF:-1 group-title="SRF",SRF Virus MentalX
 http://streaming.swisstxt.ch/m/drsvirus/mp3_128
+#EXTINF:-1 group-title="Misc",Radio X (Hi-Res)
+https://mp3.radiox.ch/standard.ogg
