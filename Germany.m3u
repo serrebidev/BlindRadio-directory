@@ -949,3 +949,17 @@ http://the-radio-fire-and-ice.de:8000/stream/main/
 https://edge16.streamonkey.net/vr-vogtland
 #EXTINF:-1 group-title="W",WELLE 1 Salzburg
 https://live.welle1.at:18128/stream
+#EXTINF:-1 group-title="RadioMonster.FM",RadioMonster.FM - Tophits
+http://tophits.radiomonster.fm/320.mp3
+#EXTINF:-1 group-title="RadioMonster.FM",RadioMonster.FM - Evergreens
+http://evergreens.radiomonster.fm/320.mp3
+#EXTINF:-1 group-title="RadioMonster.FM",RadioMonster.FM - Dance
+http://dance.radiomonster.fm/320.mp3
+#EXTINF:-1 group-title="RadioMonster.FM",RadioMonster.FM - Schlager
+http://schlager.radiomonster.fm/320.mp3
+#EXTINF:-1 group-title="Misc",Zappa Stream Radio
+https://streams.norbert.de/zappa.flac
+#EXTINF:-1 group-title="Misc",Absolut TOP
+http://cdn05.radio.cloud:8120/ATD-OMNIA-GAT
+#EXTINF:-1 group-title="Misc",Aida Radio
+https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI

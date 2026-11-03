@@ -221,3 +221,15 @@ https://opera-stream.wqxr.org/operavore-web
 http://wwfm.streamguys1.com/live
 #EXTINF:-1 group-title="MidEast",Kuwait Easy
 https://kwtkrdota.cdn.mangomolo.com/eardo/eardo.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="Naim",Naim Classical
+http://mscp3.live-streams.nl:8250/class-flac.flac
+#EXTINF:-1 group-title="CRo",CRo Vltava
+http://amp.cesnet.cz:8000/cro3.flac
+#EXTINF:-1 group-title="CRo",CRo D-dur
+http://amp.cesnet.cz:8000/cro-d-dur.flac
+#EXTINF:-1 group-title="Organlive",Organlive.com
+https://play.organlive.com:7010/320
+#EXTINF:-1 group-title="Piano",Piano
+http://stream.p-node.org/piano
+#EXTINF:-1 group-title="Misc",beeClassics
+http://stream.beeradio.nl/classics

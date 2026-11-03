@@ -189,3 +189,181 @@ http://radios.rtbf.be/classic21-128.mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
 #EXTINF:-1 group-title="Top 40/Pop",VRT Radio 2 Antwerpen 97.5 FM
 http://icecast.vrtcdn.be/ra2ant-high.mp3
+#EXTINF:-1 group-title="Radio Paradise",Radio Paradise: Beyond... (flac)
+http://stream.radioparadise.com/beyond-flacm
+#EXTINF:-1 group-title="Misc",Naim Radio
+http://mscp3.live-streams.nl:8360/flac.flac
+#EXTINF:-1 group-title="Misc",Hi On Line Lounge Radio
+http://mediaserv33.live-streams.nl:8036/stream
+#EXTINF:-1 group-title="Misc",Sing Sing FLAC
+http://stream.sing-sing-bis.org:8000/singsingFlac
+#EXTINF:-1 group-title="SomaFM",Folk Forward: Indie Folk, Alt-folk and the occasional folk classics. [SomaFM]
+http://ice2.somafm.com/folkfwd-128-aac
+#EXTINF:-1 group-title="SomaFM",Groove Salad (FLAC) [SomaFM]
+https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
+#EXTINF:-1 group-title="SomaFM",Groove Salad (320k) [SomaFM]
+https://hls.somafm.com/hls/groovesalad/320k/program.m3u8
+#EXTINF:-1 group-title="SomaFM",Groove Salad Surround [SomaFM]
+https://hls.somafm.com/hls/gs-surround/program.m3u8
+#EXTINF:-1 group-title="SomaFM",SomaFM Reggae: Stuff [SomaFM]
+http://ice6.somafm.com/reggae-256-mp3
+#EXTINF:-1 group-title="SomaFM",Left Coast 70s: Mellow album rock from the Seventies. Yacht friendly. [SomaFM]
+http://ice4.somafm.com/seventies-320-mp3
+#EXTINF:-1 group-title="SomaFM",Underground Eighties: UK Synthpop and a bit of New Wave. [SomaFM]
+http://ice6.somafm.com/u80s-256-mp3
+#EXTINF:-1 group-title="SomaFM",Boot Liquor: Americana roots music for Cowhands, Cowpokes and Cowtippers. [SomaFM]
+http://ice2.somafm.com/bootliquor-320-mp3
+#EXTINF:-1 group-title="SomaFM",Lush: Mostly female vocals with an electronic influence. [SomaFM]
+http://ice5.somafm.com/lush-128-aac
+#EXTINF:-1 group-title="SomaFM",Covers: Just covers. Songs you know by artists you don't. [SomaFM]
+http://ice4.somafm.com/covers-128-aac
+#EXTINF:-1 group-title="SomaFM",Indie Pop Rocks! [SomaFM]
+http://ice4.somafm.com/indiepop-128-aac
+#EXTINF:-1 group-title="SomaFM",Thistle Radio: An exploration of music from Celtic roots [SomaFM]
+http://ice6.somafm.com/thistle-128-aac
+#EXTINF:-1 group-title="SomaFM",Dub Step Beyond: Dubstep, Dub and Deep Bass. May damage speakers at high volume. [SomaFM]
+http://ice1.somafm.com/dubstep-128-aac
+#EXTINF:-1 group-title="SomaFM",Seven Inch Soul: Vintage soul tracks from the original 45 RPM vinyl. [SomaFM]
+http://ice4.somafm.com/7soul-128-aac
+#EXTINF:-1 group-title="Misc",Radio Calico - lossless
+https://radio3.radio-calico.com:8443/calico
+#EXTINF:-1 group-title="Misc",MaXXima
+http://maxxima.mine.nu:8000/maxx.ogg
+#EXTINF:-1 group-title="Misc",95bFM Flac
+https://streams.95bfm.com/stream112
+#EXTINF:-1 group-title="Misc",Magic Radio
+http://flac.magic-radio.net/flac
+#EXTINF:-1 group-title="Misc",Hi On Line Jazz Radio
+http://mediaserv38.live-streams.nl:8006/stream
+#EXTINF:-1 group-title="Sector",SECTOR  |  Space channel
+http://89.223.45.5:8000/space-flac
+#EXTINF:-1 group-title="Sector",SECTOR  |  Progressive channel
+http://89.223.45.5:8000/progressive-flac
+#EXTINF:-1 group-title="Sector",SECTOR Hi-Res  |  Jazz channel
+http://89.223.45.5:8000/jazz-flac
+#EXTINF:-1 group-title="Sector",SECTOR Nota
+http://89.223.45.5:8000/nota-flac
+#EXTINF:-1 group-title="Sector",SECTOR | Geny channel
+http://89.223.45.5:8000/geny-flac
+#EXTINF:-1 group-title="Sector",SECTOR | Next channel
+http://89.223.45.5:8000/next-flac
+#EXTINF:-1 group-title="Sector",SECTOR | Indigo channel
+http://89.223.45.5:8000/indigo-flac
+#EXTINF:-1 group-title="Sector",SECTOR  |  Zed channel
+http://89.223.45.5:8000/zed-flac
+#EXTINF:-1 group-title="Misc",Intense Radio - We love Dance #HQ# FLAC
+http://secure.live-streams.nl:80/flac.flac
+#EXTINF:-1 group-title="CRo",CRo Radio Wave
+http://amp.cesnet.cz:8000/cro-radio-wave.flac
+#EXTINF:-1 group-title="CRo",CRo Jazz
+http://amp.cesnet.cz:8000/cro-jazz.flac
+#EXTINF:-1 group-title="CRo",CRo Radiozurnal
+http://amp.cesnet.cz:8000/cro1-256.ogg
+#EXTINF:-1 group-title="Misc",Deepvibes Radio
+http://88.208.218.19:9106/stream
+#EXTINF:-1 group-title="Party Vibe",PARTY VIBE RADIO : POP
+http://94.130.242.5:8024/stream
+#EXTINF:-1 group-title="Party Vibe",PARTY VIBE RADIO :  ALTERNATIVE ROCK
+http://94.130.242.5:8032/stream
+#EXTINF:-1 group-title="Party Vibe",PARTY VIBE RADIO : DRUM & BASS
+http://94.130.242.5:8004/stream
+#EXTINF:-1 group-title="Party Vibe",PARTY VIBE RADIO :  JAZZ
+http://94.130.242.5:8020/stream
+#EXTINF:-1 group-title="Party Vibe",PARTY VIBE RADIO : RAP
+http://94.130.242.5:8016/stream
+#EXTINF:-1 group-title="Party Vibe",PARTY VIBE RADIO : TECHNO
+http://94.130.242.5:8046/stream
+#EXTINF:-1 group-title="Party Vibe",PARTY VIBE RADIO : DUBSTEP
+http://94.130.242.5:8040/stream
+#EXTINF:-1 group-title="Party Vibe",PARTY VIBE RADIO : FULL ON PSYTRANCE
+http://94.130.242.5:8010/stream
+#EXTINF:-1 group-title="Party Vibe",PARTY VIBE RADIO : AMBIENT
+http://94.130.242.5:8056/stream
+#EXTINF:-1 group-title="Party Vibe",PARTY VIBE RADIO : REGGAE
+http://94.130.242.5:8000/stream
+#EXTINF:-1 group-title="Misc",Happy Radio Caroline 319 on Ice
+https://happy.radiocaroline319.nl/listen/caroline_oldies/radio320.mp3
+#EXTINF:-1 group-title="Misc",Riverside Radio
+https://stream.and-stuff.nl:8443/riverside
+#EXTINF:-1 group-title="Misc",Easy Radio
+http://live.easyradio.bg/flac
+#EXTINF:-1 group-title="Misc",Grolloo Radio
+https://uk1.streamingpulse.com/ssl/grollooradio
+#EXTINF:-1 group-title="Misc",KroneHit Ultra HD
+https://secureonair.krone.at/kronehit-ultra-hd.aac
+#EXTINF:-1 group-title="Misc",M-1 Plius
+http://radio.m-1.fm/m1plius/aacp320
+#EXTINF:-1 group-title="Misc",Stream 91.121.104.139
+http://91.121.104.139:9280/
+#EXTINF:-1 group-title="Misc",Dance Wave!
+http://dancewave.online/dance.flac.ogg
+#EXTINF:-1 group-title="Misc",Dance Wave Retro!
+http://retro.dancewave.online/retrodance.flac.ogg
+#EXTINF:-1 group-title="Misc",Naim Jazz
+http://mscp3.live-streams.nl:8340/jazz-flac.flac
+#EXTINF:-1 group-title="Misc",Joy Hits
+http://joyhits.online/joyhits.flac.ogg
+#EXTINF:-1 group-title="Misc",BDPST ROCK Hi-Fi
+http://s2.audiostream.hu:8091/bdpstrock_FLAC
+#EXTINF:-1 group-title="Misc",Danubius Radio Hi-Fi
+http://stream.danubiusradio.hu:8091/danubius_HiFi
+#EXTINF:-1 group-title="Misc",Youventus Radio Hi-Fi
+http://s2.audiostream.hu:8090/juventus_FLAC
+#EXTINF:-1 group-title="Misc",Pure Classix Radio
+http://mscp4.live-streams.nl:8140/flac.ogg
+#EXTINF:-1 group-title="Misc",RadioSputnik.nl FLAC
+http://radiosputnik.nl:8002/flac
+#EXTINF:-1 group-title="Misc",Ulia.Radio
+https://audio.opensky.radio:8082/flac?_res_tag_=audio
+#EXTINF:-1 group-title="Misc",Ambient Radio .org - Deeply Beautiful Chillout Music - A Heavenly World of Sound
+http://uk2.internet-radio.com:8171/stream
+#EXTINF:-1 group-title="Misc",LapFox Radio
+https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+#EXTINF:-1 group-title="Misc",Pure Lounge Radio
+https://mscp4.live-streams.nl:8142/lounge.ogg
+#EXTINF:-1 group-title="Misc",Sanctuary Radio's Retro Channel
+http://66.94.113.88:8000/retro_ultra_hq
+#EXTINF:-1 group-title="Misc",Kfre.S3.Amazonaws.Com Truehd Program.
+https://kfre.s3.amazonaws.com/truehd/FLAC/program.m3u8
+#EXTINF:-1 group-title="Misc",Msmn3 Proxy 1
+https://msmn3.co/proxy/x1mp31/stream
+#EXTINF:-1 group-title="Misc",Msmn3 Proxy 2
+https://msmn3.co/proxy/x2mp31/stream
+#EXTINF:-1 group-title="Misc",Xdevel Audio 1
+https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio
+#EXTINF:-1 group-title="Misc",Xdevel Audio 2
+https://stream10.xdevel.com/audio15s976748-2112/stream/icecast.audio
+#EXTINF:-1 group-title="Misc",Xdevel Audio 3
+https://stream10.xdevel.com/audio12s976748-1798/stream/icecast.audio
+#EXTINF:-1 group-title="Misc",Haarlem Shuffle
+https://stream.tbmp.nl:8000/haarlemshuffle.flac
+#EXTINF:-1 group-title="SomaFM",The In-Sound (Special): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes. [SomaFM]
+http://ice4.somafm.com/insound-256-mp3
+#EXTINF:-1 group-title="SomaFM",Bossa Beyond (Special): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond [SomaFM]
+http://ice2.somafm.com/bossa-256-mp3
+#EXTINF:-1 group-title="SomaFM",Tiki Time: Classic Tiki music and Vintage island rhythms to sip cocktails by. [SomaFM]
+http://ice6.somafm.com/tikitime-256-mp3
+#EXTINF:-1 group-title="SomaFM",DEF CON Radio: SomaFM's year-round channel for DEF CON [SomaFM]
+http://ice2.somafm.com/defcon-256-mp3
+#EXTINF:-1 group-title="SomaFM",SYNPHAERA: SPACE | TIME | MATTER [SomaFM]
+http://ice6.somafm.com/synphaera-256-mp3
+#EXTINF:-1 group-title="SomaFM",Drone Zone: Atmospheric ambient space music. Serve Best Chilled. Safe with most medications. [SomaFM]
+http://ice2.somafm.com/dronezone-256-mp3
+#EXTINF:-1 group-title="SomaFM",The Dark Zone: Dark ambient music [SomaFM]
+http://ice2.somafm.com/darkzone-256-mp3
+#EXTINF:-1 group-title="SomaFM",Sonic Universe: Nu Jazz plus avant-garde Euro Jazz: Transcending the boundaries of jazz with experimental takes on tradition. [SomaFM]
+http://ice6.somafm.com/sonicuniverse-256-mp3
+#EXTINF:-1 group-title="Misc",Xdevel Audio 4
+https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
+#EXTINF:-1 group-title="Misc",ISEKOI Radio
+https://isekoi-radio.com/listen/isekoi/radio.flac
+#EXTINF:-1 group-title="Misc",ISEKOI Radio | Non-Stop Ambient
+https://isekoi-radio.com/listen/ambient/ambientradio.flac
+#EXTINF:-1 group-title="Misc",TNM Radio (Ultra)
+http://stream.tnm-radio.eu/ultra
+#EXTINF:-1 group-title="Misc",SCIENCE MUSIC
+https://audio-edge-cmc51.fra.h.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
+#EXTINF:-1 group-title="Misc",1st Greek New Age FLAC Radio
+https://stream.newageradio.gr/listen/hq/radio.flac
+#EXTINF:-1 group-title="Sector",SECTOR Terra
+http://89.223.45.5:8000/terra-flac

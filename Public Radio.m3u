@@ -129,3 +129,9 @@ https://wxpnhi.xpn.org/xpnhi
 https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIAM.mp3
 #EXTINF:-1 group-title="WXXI",WXXI Classical
 http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3
+#EXTINF:-1 group-title="Folk Alley",Folk Alley Fresh Cuts
+http://freshgrass.streamguys1.com/freshcuts-128mp3
+#EXTINF:-1 group-title="Folk Alley",Folk Alley Sidestream
+http://freshgrass.streamguys1.com/ss1-128mp3
+#EXTINF:-1 group-title="WUVT",WUVT-FM 90.7 Blacksburg, VA [AAC 320 kbps]
+http://stream.wuvt.vt.edu/wuvt-hq.aac
