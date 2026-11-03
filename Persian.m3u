@@ -1,63 +1,63 @@
 #EXTM3U
-#EXTINF:-1 group-title="Misc",Iran International
+#EXTINF:-1,Iran International
 https://radio.iraninternational.app/iintl_c
-#EXTINF:-1 group-title="Misc",Iran INTL
+#EXTINF:-1,Iran INTL
 https://stream.radiojar.com/iintl_c
-#EXTINF:-1 group-title="Misc",Radio Farda
+#EXTINF:-1,Radio Farda
 http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21
-#EXTINF:-1 group-title="Misc",R Farda
+#EXTINF:-1,R Farda
 https://stream.radiojar.com/cp13r2cpn3quv
-#EXTINF:-1 group-title="Misc",Göteborgs
+#EXTINF:-1,Göteborgs
 http://lyssna.fnf.nu:8080/gnf102.mp3
-#EXTINF:-1 group-title="Misc",Hamsafar Radio
+#EXTINF:-1,Hamsafar Radio
 http://n0f.radiojar.com/pyea7q9h5ehvv?rj-ttl=5&rj-tok=AAABjpDw7ZwAuw3KZDToUTigZA
-#EXTINF:-1 group-title="Misc",KIRN 670 AM
+#EXTINF:-1,KIRN 670 AM
 https://ice41.securenetsystems.net/KIRN
-#EXTINF:-1 group-title="Misc",LPR Radio
+#EXTINF:-1,LPR Radio
 http://s4.voscast.com:7574/live
-#EXTINF:-1 group-title="Misc",Radio Faaz
+#EXTINF:-1,Radio Faaz
 https://free.rcast.net/230792
-#EXTINF:-1 group-title="Misc",Radio Ava Istanbul
+#EXTINF:-1,Radio Ava Istanbul
 https://play.markaradyo.com:8002/stream
-#EXTINF:-1 group-title="Misc",Radio Ayeneh
+#EXTINF:-1,Radio Ayeneh
 http://83.250.49.43/streampath1.mp3/;
-#EXTINF:-1 group-title="Misc",Radio Bamdad
+#EXTINF:-1,Radio Bamdad
 https://s3.radio.co/sd07c718f1/listen
-#EXTINF:-1 group-title="Misc",Radio Parsa
+#EXTINF:-1,Radio Parsa
 http://parsa.icdndhcp.com:18000/stream
-#EXTINF:-1 group-title="Misc",Radio Hamrah
+#EXTINF:-1,Radio Hamrah
 https://stream-303.zeno.fm/gxdq0awu30duv
-#EXTINF:-1 group-title="Misc",Radio Ma va Shoma
+#EXTINF:-1,Radio Ma va Shoma
 https://global.citrus3.com:8244/stream
-#EXTINF:-1 group-title="Misc",Radio Navahang
+#EXTINF:-1,Radio Navahang
 https://navairan.com/;stream.nsv
-#EXTINF:-1 group-title="Misc",Radio Seda-ye Iran
+#EXTINF:-1,Radio Seda-ye Iran
 http://us3new.listen2myradio.com:8286/stream
-#EXTINF:-1 group-title="Misc",Radio Shemroon
+#EXTINF:-1,Radio Shemroon
 https://stream-26.zeno.fm/845mwpfnhvduv
-#EXTINF:-1 group-title="Misc",Radio Simorgh
+#EXTINF:-1,Radio Simorgh
 https://stream.zeno.fm/jl8n7thgcdftv
-#EXTINF:-1 group-title="Misc",Radio Sarcheshmeh
+#EXTINF:-1,Radio Sarcheshmeh
 http://sarcheshmeh.icdndhcp.com:18452/stream
-#EXTINF:-1 group-title="Misc",Radio Yar
+#EXTINF:-1,Radio Yar
 http://192.34.153.102:8000/RadioYAR.mp3
-#EXTINF:-1 group-title="Misc",RadioYarPlus
+#EXTINF:-1,RadioYarPlus
 https://stream-171.zeno.fm/2jwyo983y49vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyand5bzk4M3k0OXZ2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImxuWlJyYXZfUS1TamI0MXJEUGFZSWciLCJpYXQiOjE3MzgxMDczNzUsImV4cCI6MTczODEwNzQzNX0.s37s0rmtffdTaKEhQMIwFMUl6mxQZ6C-O54FMSjDm-8&an-uid=975551466766821786&triton
-#EXTINF:-1 group-title="Misc",Radio Yar Plus 2
+#EXTINF:-1,Radio Yar Plus 2
 https://stream-163.zeno.fm/yxemzpoaocavv
-#EXTINF:-1 group-title="Misc",Radio Namayesh
+#EXTINF:-1,Radio Namayesh
 http://s1.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8
-#EXTINF:-1 group-title="Misc",Radio Varzesh
+#EXTINF:-1,Radio Varzesh
 http://s1.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8
-#EXTINF:-1 group-title="Misc",Radio Ran
+#EXTINF:-1,Radio Ran
 https://ams1.reliastream.com/proxy/avico00?mp=/live
-#EXTINF:-1 group-title="Misc",PMC Select
+#EXTINF:-1,PMC Select
 https://s5.radio.co/sf0a1af54c/listen
-#EXTINF:-1 group-title="Misc",Radio Donya
+#EXTINF:-1,Radio Donya
 https://stream.zeno.fm/v5kxmagseg0uv
-#EXTINF:-1 group-title="Misc",Radio Rooz
+#EXTINF:-1,Radio Rooz
 https://streams.radio.co/s44c31f45b/listen
-#EXTINF:-1 group-title="Misc",Radio Gheseh
+#EXTINF:-1,Radio Gheseh
 https://audio.radiogheseh.com/gheseh
-#EXTINF:-1 group-title="Misc",Mellig TV
+#EXTINF:-1,Mellig TV
 https://mellihls.wns.live/hls/stream.m3u8

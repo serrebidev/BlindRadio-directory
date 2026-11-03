@@ -31,6 +31,10 @@ https://streams.kcrw.com/kcrw_aac
 https://streams.kcrw.com/news24_aac
 #EXTINF:-1 group-title="KCRW",Eclectic 24
 https://streams.kcrw.com/e24_aac
+#EXTINF:-1 group-title="KCRW",Danse 24
+https://streams.kcrw.com/10466_256.aac/playlist.m3u8
+#EXTINF:-1 group-title="KCRW",Vintage24
+https://streams.kcrw.com/bent24_aac/playlist.m3u8
 #EXTINF:-1 group-title="KOPB",KOPB
 http://stream1.opb.org/radio.mp3
 #EXTINF:-1 group-title="KPBS",KPBS Radio
@@ -109,6 +113,10 @@ http://mozart.wkar.msu.edu/rrs-64-mp3
 https://prod-100-26-100-53.amperwave.net/wncpr-wcqshd2mp3128-ibc4
 #EXTINF:-1 group-title="WNYC",WNYC FM
 http://fm939.wnyc.org/wnycfm
+#EXTINF:-1 group-title="WNYC",WNYC WQXR
+http://stream.wqxr.org/wqxr
+#EXTINF:-1 group-title="WNYC",WNYC Operavore
+http://opera-stream.wqxr.org/operavore.aac
 #EXTINF:-1 group-title="WOR",WOR AM
 http://stream.revma.ihrhls.com/zc5874/hls.m3u8
 #EXTINF:-1 group-title="WOSU",WOSU

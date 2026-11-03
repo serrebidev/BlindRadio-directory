@@ -28,7 +28,7 @@ http://icestreaming.rai.it/13.mp3
 #EXTINF:-1 group-title="RAI",Rai Radio 14
 http://icestreaming.rai.it/14.mp3
 #EXTINF:-1 group-title="Misc",Radio 24
-http://shoutcast.radio24.it:8000/
+http://shoutcast2.radio24.it:8000/;
 #EXTINF:-1 group-title="Misc",Radio Radicale
 https://live.radioradicale.it/live.mp3
 #EXTINF:-1 group-title="Misc",Radio Popolare
@@ -37,10 +37,8 @@ http://livex.radiopopolare.it/radiopop
 https://icecast.ithost.it/retesport.ogg
 #EXTINF:-1 group-title="Misc",Radio Sportiva
 https://sportiva.inmystream.it/stream/sportiva
-#EXTINF:-1 group-title="Misc",Radio CRC
-https://stream9.xdevel.com/audio2s975936-745/stream/icecast.audio
 #EXTINF:-1 group-title="Misc",TeleRadio
-https://sr8.inmystream.it:8016/stream
+http://stream.laut.fm/teleradio1
 #EXTINF:-1 group-title="Misc",RTL 102.5
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8
 #EXTINF:-1 group-title="Misc",Radio Onda d'Urto
@@ -69,8 +67,6 @@ https://gr.fluidstream.eu/gr1.mp3
 https://gr.fluidstream.eu/gr2.mp3
 #EXTINF:-1 group-title="Misc",Radio Sintony
 https://stream5.xdevel.com/audio0s976204-1069/stream/icecast.audio
-#EXTINF:-1 group-title="Misc",Radio Radio
-https://sr6.inmystream.it:18102/stream
 #EXTINF:-1 group-title="Misc",Radio Voce Spazio
 http://nr11.newradio.it:9078/stream
 #EXTINF:-1 group-title="Misc",Radiosei
