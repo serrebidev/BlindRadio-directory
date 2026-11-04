@@ -1,20 +1,50 @@
 #EXTM3U
+
+# BBC
+#EXTINF:-1 group-title="BBC",BBC Afrique Radio
+http://as-hls-ww-live.akamaized.net/pool_26340777/live/ww/bbc_afrique_radio/bbc_afrique_radio.isml/bbc_afrique_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Amharic Radio
+http://as-hls-ww-live.akamaized.net/pool_97636461/live/ww/bbc_amharic_radio/bbc_amharic_radio.isml/bbc_amharic_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Arabic Radio
+http://as-hls-ww-live.akamaized.net/pool_27085945/live/ww/bbc_arabic_radio/bbc_arabic_radio.isml/bbc_arabic_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Asian Network
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/dash/bbc_asian_network-audio=320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Dari Radio
+http://as-hls-ww-live.akamaized.net/pool_75395052/live/ww/bbc_dari_radio/bbc_dari_radio.isml/bbc_dari_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Gahuza Radio
+http://as-hls-ww-live.akamaized.net/pool_72929080/live/ww/bbc_gahuza_radio/bbc_gahuza_radio.isml/bbc_gahuza_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Hausa Radio
+http://as-hls-ww-live.akamaized.net/pool_48023020/live/ww/bbc_hausa_radio/bbc_hausa_radio.isml/bbc_hausa_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Korean Radio
+http://as-hls-ww-live.akamaized.net/pool_73316454/live/ww/bbc_korean_radio/bbc_korean_radio.isml/bbc_korean_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Nepali Radio
+http://as-hls-ww-live.akamaized.net/pool_67752688/live/ww/bbc_nepali_radio/bbc_nepali_radio.isml/bbc_nepali_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Oromo Radio
+http://as-hls-ww-live.akamaized.net/pool_08482226/live/ww/bbc_oromo_radio/bbc_oromo_radio.isml/bbc_oromo_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Pashto Radio
+http://as-hls-ww-live.akamaized.net/pool_76847612/live/ww/bbc_pashto_radio/bbc_pashto_radio.isml/bbc_pashto_radio-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Radio 1Xtra
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/dash/bbc_1xtra-audio=320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Radio 1 Anthems
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_one_anthems&bitrate=320000
 #EXTINF:-1 group-title="BBC",BBC Radio 1 Dance
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/dash/bbc_radio_one_dance-audio=320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Radio 1Xtra
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/dash/bbc_1xtra-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio 2
 http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio 3
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Radio 3 Unwind
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_three_unwind&bitrate=320000
 #EXTINF:-1 group-title="BBC",BBC Radio 4
 http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio 4 Extra
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/dash/bbc_radio_four_extra-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio 5 Live
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/dash/bbc_radio_five_live-audio=320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Radio 5 Sports Extra
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000&uk=1
 #EXTINF:-1 group-title="BBC",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Berkshire
@@ -33,20 +63,20 @@ http://as-hls-ww.live.cf.md.bbci.co.uk/pool_85294020/live/ww/bbc_radio_cumbria/b
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_24792333/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/dash/bbc_radio_cymru-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Cymru 2
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_98610936/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/dash/bbc_radio_cymru_2-audio=320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Radio Essex
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_23657270/live/ww/bbc_radio_essex/bbc_radio_essex.isml/dash/bbc_radio_essex-audio=320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Radio Hereford Worcester
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_80112859/live/ww/bbc_radio_hereford_worcester/bbc_radio_hereford_worcester.isml/dash/bbc_radio_hereford_worcester-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Derby
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_63732303/live/ww/bbc_radio_derby/bbc_radio_derby.isml/dash/bbc_radio_derby-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Devon
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_08856933/live/ww/bbc_radio_devon/bbc_radio_devon.isml/dash/bbc_radio_devon-audio=320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Radio Essex
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_23657270/live/ww/bbc_radio_essex/bbc_radio_essex.isml/dash/bbc_radio_essex-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Foyle
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_43178797/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/dash/bbc_radio_foyle-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Gloucestershire
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_74607547/live/ww/bbc_radio_gloucestershire/bbc_radio_gloucestershire.isml/dash/bbc_radio_gloucestershire-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Guernsey
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_65313722/live/ww/bbc_radio_guernsey/bbc_radio_guernsey.isml/dash/bbc_radio_guernsey-audio=320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Radio Hereford Worcester
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_80112859/live/ww/bbc_radio_hereford_worcester/bbc_radio_hereford_worcester.isml/dash/bbc_radio_hereford_worcester-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Humberside
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_43379345/live/ww/bbc_radio_humberside/bbc_radio_humberside.isml/dash/bbc_radio_humberside-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Jersey
@@ -105,54 +135,32 @@ http://as-hls-ww.live.cf.md.bbci.co.uk/pool_18067288/live/ww/bbc_radio_suffolk/b
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_27374427/live/ww/bbc_radio_surrey/bbc_radio_surrey.isml/dash/bbc_radio_surrey-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Sussex
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_76643803/live/ww/bbc_radio_sussex/bbc_radio_sussex.isml/dash/bbc_radio_sussex-audio=320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Tees
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_08918172/live/ww/bbc_tees/bbc_tees.isml/dash/bbc_tees-audio=320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Three Counties
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_69997923/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/bbc_three_counties_radio-audio=320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Ulster
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/dash/bbc_radio_ulster-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Wales AM
 http://as-hls-ww-live.akamaized.net/pool_34167727/live/ww/bbc_radio_wales_am/bbc_radio_wales_am.isml/bbc_radio_wales_am-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Wales FM
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_97517794/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/dash/bbc_radio_wales_fm-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Wiltshire
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_44240917/live/ww/bbc_radio_wiltshire/bbc_radio_wiltshire.isml/dash/bbc_radio_wiltshire-audio=320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC WM
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_05353924/live/ww/bbc_wm/bbc_wm.isml/dash/bbc_wm-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio York
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_90848428/live/ww/bbc_radio_york/bbc_radio_york.isml/dash/bbc_radio_york-audio=320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Asian Network
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/dash/bbc_asian_network-audio=320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Afrique Radio
-http://as-hls-ww-live.akamaized.net/pool_26340777/live/ww/bbc_afrique_radio/bbc_afrique_radio.isml/bbc_afrique_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Amharic Radio
-http://as-hls-ww-live.akamaized.net/pool_97636461/live/ww/bbc_amharic_radio/bbc_amharic_radio.isml/bbc_amharic_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Arabic Radio
-http://as-hls-ww-live.akamaized.net/pool_27085945/live/ww/bbc_arabic_radio/bbc_arabic_radio.isml/bbc_arabic_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Dari Radio
-http://as-hls-ww-live.akamaized.net/pool_75395052/live/ww/bbc_dari_radio/bbc_dari_radio.isml/bbc_dari_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Gahuza Radio
-http://as-hls-ww-live.akamaized.net/pool_72929080/live/ww/bbc_gahuza_radio/bbc_gahuza_radio.isml/bbc_gahuza_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Hausa Radio
-http://as-hls-ww-live.akamaized.net/pool_48023020/live/ww/bbc_hausa_radio/bbc_hausa_radio.isml/bbc_hausa_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Korean Radio
-http://as-hls-ww-live.akamaized.net/pool_73316454/live/ww/bbc_korean_radio/bbc_korean_radio.isml/bbc_korean_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Nepali Radio
-http://as-hls-ww-live.akamaized.net/pool_67752688/live/ww/bbc_nepali_radio/bbc_nepali_radio.isml/bbc_nepali_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Oromo Radio
-http://as-hls-ww-live.akamaized.net/pool_08482226/live/ww/bbc_oromo_radio/bbc_oromo_radio.isml/bbc_oromo_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Pashto Radio
-http://as-hls-ww-live.akamaized.net/pool_76847612/live/ww/bbc_pashto_radio/bbc_pashto_radio.isml/bbc_pashto_radio-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Somali Radio
 http://as-hls-ww-live.akamaized.net/pool_65497006/live/ww/bbc_somali_radio/bbc_somali_radio.isml/bbc_somali_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Swahili Radio
-http://as-hls-ww-live.akamaized.net/pool_68468159/live/ww/bbc_swahili_radio/bbc_swahili_radio.isml/bbc_swahili_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Tigrinya Radio
-http://as-hls-ww-live.akamaized.net/pool_99423635/live/ww/bbc_tigrinya_radio/bbc_tigrinya_radio.isml/bbc_tigrinya_radio-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="BBC",BBC Uzbek Radio
-http://as-hls-ww-live.akamaized.net/pool_36002112/live/ww/bbc_uzbek_radio/bbc_uzbek_radio.isml/bbc_uzbek_radio-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Sounds News
 http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Swahili Radio
+http://as-hls-ww-live.akamaized.net/pool_68468159/live/ww/bbc_swahili_radio/bbc_swahili_radio.isml/bbc_swahili_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Tees
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_08918172/live/ww/bbc_tees/bbc_tees.isml/dash/bbc_tees-audio=320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Three Counties
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_69997923/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/bbc_three_counties_radio-audio=320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Tigrinya Radio
+http://as-hls-ww-live.akamaized.net/pool_99423635/live/ww/bbc_tigrinya_radio/bbc_tigrinya_radio.isml/bbc_tigrinya_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Ulster
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/dash/bbc_radio_ulster-audio=320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC Uzbek Radio
+http://as-hls-ww-live.akamaized.net/pool_36002112/live/ww/bbc_uzbek_radio/bbc_uzbek_radio.isml/bbc_uzbek_radio-audio%3d320000.norewind.m3u8
+#EXTINF:-1 group-title="BBC",BBC WM
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_05353924/live/ww/bbc_wm/bbc_wm.isml/dash/bbc_wm-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC World Service
 http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC World Service Americas
@@ -171,58 +179,292 @@ http://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_n
 http://as-hls-ww-live.akamaized.net/pool_80670621/live/ww/bbc_world_service_south_asia/bbc_world_service_south_asia.isml/bbc_world_service_south_asia-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC World Service West Africa
 http://as-hls-ww-live.akamaized.net/pool_00924885/live/ww/bbc_world_service_west_africa/bbc_world_service_west_africa.isml/bbc_world_service_west_africa-audio%3d320000.norewind.m3u8
-#EXTINF:-1 group-title="Misk",Talk Sport 1
-https://radio.talksport.com/stream
-#EXTINF:-1 group-title="Misk",Talk Sport 2
-https://radio.talksport.com/stream2
-#EXTINF:-1 group-title="Misk",Times Radio
-https://timesradio.wireless.radio/stream
-#EXTINF:-1 group-title="Misk",LBC UK
-http://media-ice.musicradio.com/LBCUKMP3Low
-#EXTINF:-1 group-title="Misk",LBC News UK
-https://media-ssl.musicradio.com/LBCNewsUK
-#EXTINF:-1 group-title="Misk",GB News
-http://listen-gbnews.sharp-stream.com/gbnews.mp3
-#EXTINF:-1 group-title="Misk",Sky News
-https://tunein.cdnstream1.com/3688_96_nn.mp3
-#EXTINF:-1 group-title="Misk",Sky News Radio
-https://video.news.sky.com/snr/news/snrnews.mp3
-#EXTINF:-1 group-title="Misk",Newstalk
-https://edge.audioxi.com/NT
-#EXTINF:-1 group-title="Misk",BritCom 1 British Comedy Radio
-https://cast2.asurahosting.com/proxy/britcom1/stream
-#EXTINF:-1 group-title="Misk",BritCom 2 British Comedy Radio
-https://cast2.asurahosting.com/proxy/britcom2/stream
-#EXTINF:-1 group-title="Misk",BritCom 3 British Comedy Radio
-https://cast2.asurahosting.com/proxy/britcom3/stream
-#EXTINF:-1 group-title="Misk",Talk Radio
-https://radio.talkradio.co.uk/stream
-#EXTINF:-1 group-title="Misk",Monocle Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/MONOCLE_24.mp3
-#EXTINF:-1 group-title="Misc",New Clear Radio - Your favourite music in best quality! (320 Kbits)
-http://live.ncradio.fm/320
-#EXTINF:-1 group-title="NME",NME 1
-http://listen-nme.sharp-stream.com/nme1high.mp3
-#EXTINF:-1 group-title="NME",NME 2
-http://listen-nme.sharp-stream.com/nme2high.mp3
-#EXTINF:-1 group-title="Misc",Radio Caroline
-http://78.129.202.200:8030/;
-#EXTINF:-1 group-title="Linn",Linn Radio
-http://radio.linn.co.uk:8003/stream
-#EXTINF:-1 group-title="Misc",60 North Radio
-http://r5.zetcast.net/flac
-#EXTINF:-1 group-title="Linn",Linn Jazz
-http://radio.linn.co.uk:8000/stream
-#EXTINF:-1 group-title="Misc",Majestic Jukebox Radio #HIGH SOUND QUALITY / majesticjukeboxradio.netlify.app/
-http://uk3.internet-radio.com:8405/live
-#EXTINF:-1 group-title="Misc",Insanity Radio
-https://stream.cor.insanityradio.com/insanity.flac
-#EXTINF:-1 group-title="Misc",107.8 Radio Jackie Finesse - The Sound of South West London
-http://media.radiojackie.com:5873/;
-#EXTINF:-1 group-title="Misc",Centreforce
-http://centreforce.streamgb.com:8830/320
-#EXTINF:-1 group-title="Misc",Themediasite Stream
-http://stream3.themediasite.co.uk:8134/stream
+
+# Capital
+#EXTINF:-1 group-title="Capital",Capital (Birmingham)
+http://icecast.thisisdax.com/CapitalBirminghamMP3
+#EXTINF:-1 group-title="Capital",Capital (Brighton)
+http://icecast.thisisdax.com/CapitalBrightonMP3
+#EXTINF:-1 group-title="Capital",Capital (East Midlands) (Derbyshire)
+http://icecast.thisisdax.com/CapitalDerbyshireMP3
+#EXTINF:-1 group-title="Capital",Capital (East Midlands) (Leicestershire)
+http://icecast.thisisdax.com/CapitalLeicestershireMP3
+#EXTINF:-1 group-title="Capital",Capital (East Midlands) (Nottinghamshire)
+http://icecast.thisisdax.com/CapitalNottinghamshireMP3
+#EXTINF:-1 group-title="Capital",Capital (Lancashire) (Burnley & Pendle)
+http://icecast.thisisdax.com/CapitalBurnleyMP3
+#EXTINF:-1 group-title="Capital",Capital (Lancashire) (Preston & Blackburn)
+http://icecast.thisisdax.com/CapitalPrestonMP3
+#EXTINF:-1 group-title="Capital",Capital (Liverpool)
+http://icecast.thisisdax.com/CapitalLiverpoolMP3
+#EXTINF:-1 group-title="Capital",Capital (London)
+http://icecast.thisisdax.com/CapitalMP3
+#EXTINF:-1 group-title="Capital",Capital (Manchester)
+http://icecast.thisisdax.com/CapitalManchesterMP3
+#EXTINF:-1 group-title="Capital",Capital (Mid Counties) (Coventry)
+http://media-ice.musicradio.com/CapitalCoventryMP3
+#EXTINF:-1 group-title="Capital",Capital (Mid Counties) (North Oxfordshire)
+http://media-ice.musicradio.com/CapitalNorthOxfordshireMP3
+#EXTINF:-1 group-title="Capital",Capital (Mid Counties) (Rugby)
+http://media-ice.musicradio.com/CapitalRugbyMP3
+#EXTINF:-1 group-title="Capital",Capital (Mid Counties) (South East Staffordshire)
+http://media-ice.musicradio.com/CapitalSouthEastStaffordshireMP3
+#EXTINF:-1 group-title="Capital",Capital (Mid Counties) (Stratford-upon-Avon)
+http://media-ice.musicradio.com/CapitalStratfordMP3
+#EXTINF:-1 group-title="Capital",Capital (Mid Counties) (Warwick)
+http://icecast.thisisdax.com/CapitalWarwickMP3
+#EXTINF:-1 group-title="Capital",Capital (North East) (Teesside)
+http://icecast.thisisdax.com/CapitalTeessideMP3
+#EXTINF:-1 group-title="Capital",Capital (North East) (Tyne & Wear)
+http://icecast.thisisdax.com/CapitalTyneWearMP3
+#EXTINF:-1 group-title="Capital",Capital (North Wales) (Anglesey & Gwynedd)
+http://icecast.thisisdax.com/CapitalCymruMP3
+#EXTINF:-1 group-title="Capital",Capital (North Wales) (North Wales Coast)
+http://icecast.thisisdax.com/CapitalWalesCoastMP3
+#EXTINF:-1 group-title="Capital",Capital (North West & North Wales) (The Wirral)
+http://icecast.thisisdax.com/CapitalWirralMP3
+#EXTINF:-1 group-title="Capital",Capital (North West & North Wales) (Wrexham & Cheshire)
+http://icecast.thisisdax.com/CapitalWrexhamMP3
+#EXTINF:-1 group-title="Capital",Capital (Scotland) (East)
+http://icecast.thisisdax.com/CapitalEdinburghMP3
+#EXTINF:-1 group-title="Capital",Capital (Scotland) (West)
+http://icecast.thisisdax.com/CapitalGlasgowMP3
+#EXTINF:-1 group-title="Capital",Capital (South Coast)
+http://icecast.thisisdax.com/CapitalSouthCoastMP3
+#EXTINF:-1 group-title="Capital",Capital (South Wales)
+http://icecast.thisisdax.com/CapitalSouthWalesMP3
+#EXTINF:-1 group-title="Capital",Capital (UK)
+http://icecast.thisisdax.com/CapitalUKMP3
+#EXTINF:-1 group-title="Capital",Capital (Yorkshire) (East)
+http://icecast.thisisdax.com/CapitalYorkshireEastMP3
+#EXTINF:-1 group-title="Capital",Capital (Yorkshire) (South & West)
+http://icecast.thisisdax.com/CapitalYorkshireSouthWestMP3
+#EXTINF:-1 group-title="Capital",Capital Anthems
+http://media-ice.musicradio.com/CapitalAnthemsMP3
+#EXTINF:-1 group-title="Capital",Capital Chill
+http://media-ice.musicradio.com/CapitalChillMP3
+#EXTINF:-1 group-title="Capital",Capital Dance
+http://media-ice.musicradio.com/CapitalDanceMP3
+#EXTINF:-1 group-title="Capital",Capital XTRA (UK)
+http://icecast.thisisdax.com/CapitalXTRANationalMP3
+#EXTINF:-1 group-title="Capital",Capital XTRA Reloaded
+http://icecast.thisisdax.com/CapitalXTRAReloadedMP3
+
+# Heart
+#EXTINF:-1 group-title="Heart",Heart (Bedfordshire)
+http://icecast.thisisdax.com/HeartBedfordshireMP3
+#EXTINF:-1 group-title="Heart",Heart (Bristol)
+http://icecast.thisisdax.com/HeartBristolMP3
+#EXTINF:-1 group-title="Heart",Heart (Cambridgeshire)
+http://icecast.thisisdax.com/HeartCambridgeMP3
+#EXTINF:-1 group-title="Heart",Heart (Cornwall)
+http://icecast.thisisdax.com/HeartCornwallMP3
+#EXTINF:-1 group-title="Heart",Heart (Devon) (Exeter & East Devon)
+http://icecast.thisisdax.com/HeartEastDevonMP3
+#EXTINF:-1 group-title="Heart",Heart (Devon) (North Devon)
+http://icecast.thisisdax.com/HeartNorthDevonMP3
+#EXTINF:-1 group-title="Heart",Heart (Devon) (Plymouth)
+http://icecast.thisisdax.com/HeartPlymouthMP3
+#EXTINF:-1 group-title="Heart",Heart (Devon) (South Hams)
+http://icecast.thisisdax.com/HeartSouthHamsMP3
+#EXTINF:-1 group-title="Heart",Heart (Devon) (Torbay)
+http://icecast.thisisdax.com/HeartTorbayMP3
+#EXTINF:-1 group-title="Heart",Heart (East Midlands) (Derbyshire)
+http://media-ice.musicradio.com/HeartDerbyshireMP3
+#EXTINF:-1 group-title="Heart",Heart (East Midlands) (Leicestershire)
+http://media-ice.musicradio.com/HeartLeicestershireMP3
+#EXTINF:-1 group-title="Heart",Heart (East Midlands) (Nottinghamshire)
+http://media-ice.musicradio.com/HeartNottinghamshireMP3
+#EXTINF:-1 group-title="Heart",Heart (Essex) (Colchester)
+http://icecast.thisisdax.com/HeartColchesterMP3
+#EXTINF:-1 group-title="Heart",Heart (Essex) (Harlow)
+http://icecast.thisisdax.com/HeartHarlowMP3
+#EXTINF:-1 group-title="Heart",Heart (Essex) (Southend & Chelmsford)
+http://icecast.thisisdax.com/HeartEssexMP3
+#EXTINF:-1 group-title="Heart",Heart (Gloucestershire)
+http://icecast.thisisdax.com/HeartGloucestershireMP3
+#EXTINF:-1 group-title="Heart",Heart (Hertfordshire) (North)
+http://icecast.thisisdax.com/HeartHertsNorthMP3
+#EXTINF:-1 group-title="Heart",Heart (Hertfordshire) (Watford & Hemel)
+http://icecast.thisisdax.com/HeartWatfordMP3
+#EXTINF:-1 group-title="Heart",Heart (Herts, Beds & Bucks)
+http://icecast.thisisdax.com/HeartBedsBucksHertsMP3
+#EXTINF:-1 group-title="Heart",Heart (Kent)
+http://icecast.thisisdax.com/HeartKentMP3
+#EXTINF:-1 group-title="Heart",Heart (Lancashire & Cumbria)
+http://icecast.thisisdax.com/HeartNorthLancsCumbriaMP3
+#EXTINF:-1 group-title="Heart",Heart (Milton Keynes)
+http://icecast.thisisdax.com/HeartMiltonKeynesMP3
+#EXTINF:-1 group-title="Heart",Heart (Norfolk)
+http://icecast.thisisdax.com/HeartNorfolkMP3
+#EXTINF:-1 group-title="Heart",Heart (North East) (Teesside)
+http://icecast.thisisdax.com/HeartTeessideMP3
+#EXTINF:-1 group-title="Heart",Heart (North East) (Tyne & Wear)
+http://icecast.thisisdax.com/HeartTyneWearMP3
+#EXTINF:-1 group-title="Heart",Heart (North West)
+http://icecast.thisisdax.com/HeartNorthWestMP3
+#EXTINF:-1 group-title="Heart",Heart (Northamptonshire)
+http://icecast.thisisdax.com/HeartNorthamptonshireMP3
+#EXTINF:-1 group-title="Heart",Heart (Oxfordshire)
+http://icecast.thisisdax.com/HeartOxfordshireMP3
+#EXTINF:-1 group-title="Heart",Heart (Peterborough)
+http://icecast.thisisdax.com/HeartPeterboroughMP3
+#EXTINF:-1 group-title="Heart",Heart (Scotland) (East)
+http://icecast.thisisdax.com/HeartEdinburghMP3
+#EXTINF:-1 group-title="Heart",Heart (Scotland) (West)
+http://icecast.thisisdax.com/HeartGlasgowMP3
+#EXTINF:-1 group-title="Heart",Heart (Somerset)
+http://icecast.thisisdax.com/HeartSomersetMP3
+#EXTINF:-1 group-title="Heart",Heart (South Coast) (Dorset & The New Forest)
+http://icecast.thisisdax.com/HeartDorsetMP3
+#EXTINF:-1 group-title="Heart",Heart (South Coast) (Hampshire & West Sussex)
+http://icecast.thisisdax.com/HeartHampshireMP3
+#EXTINF:-1 group-title="Heart",Heart (Suffolk)
+http://icecast.thisisdax.com/HeartSuffolkMP3
+#EXTINF:-1 group-title="Heart",Heart (Sussex & Surrey)
+http://icecast.thisisdax.com/HeartCrawleyMP3
+#EXTINF:-1 group-title="Heart",Heart (Sussex)
+http://icecast.thisisdax.com/HeartSussexMP3
+#EXTINF:-1 group-title="Heart",Heart (Thames Valley)
+http://icecast.thisisdax.com/HeartBerkshireMP3
+#EXTINF:-1 group-title="Heart",Heart (UK)
+http://icecast.thisisdax.com/HeartUKMP3
+#EXTINF:-1 group-title="Heart",Heart (Wales) (North & Mid)
+http://icecast.thisisdax.com/HeartNorthWalesMP3
+#EXTINF:-1 group-title="Heart",Heart (Wales) (South East)
+http://icecast.thisisdax.com/HeartSouthWalesMP3
+#EXTINF:-1 group-title="Heart",Heart (Wales) (South West)
+http://icecast.thisisdax.com/HeartWestWalesMP3
+#EXTINF:-1 group-title="Heart",Heart (West Midlands)
+http://icecast.thisisdax.com/HeartWestMidsMP3
+#EXTINF:-1 group-title="Heart",Heart (Westcountry)
+http://icecast.thisisdax.com/HeartBathMP3
+#EXTINF:-1 group-title="Heart",Heart (Wiltshire)
+http://icecast.thisisdax.com/HeartWiltshireMP3
+#EXTINF:-1 group-title="Heart",Heart (Yorkshire)
+http://icecast.thisisdax.com/HeartYorkshireMP3
+#EXTINF:-1 group-title="Heart",Heart 00s
+http://icecast.thisisdax.com/Heart00sMP3
+#EXTINF:-1 group-title="Heart",Heart 10s
+http://media-ice.musicradio.com/Heart10sMP3
+#EXTINF:-1 group-title="Heart",Heart 70s
+http://icecast.thisisdax.com/Heart70sMP3
+#EXTINF:-1 group-title="Heart",Heart 80s
+http://icecast.thisisdax.com/Heart80sMP3
+#EXTINF:-1 group-title="Heart",Heart 90s
+http://icecast.thisisdax.com/Heart90sMP3
+#EXTINF:-1 group-title="Heart",Heart Dance
+http://icecast.thisisdax.com/HeartDanceMP3
+#EXTINF:-1 group-title="Heart",Heart Love
+http://media-ice.musicradio.com/HeartLoveMP3
+#EXTINF:-1 group-title="Heart",Heart Musicals
+http://media-ice.musicradio.com/HeartMusicalsMP3
+#EXTINF:-1 group-title="Heart",Heart Xmas
+http://media-ice.musicradio.com/HeartXmasMP3
+
+# Smooth
+#EXTINF:-1 group-title="Smooth",Smooth 70s
+http://media-ice.musicradio.com/Smooth70sMP3
+#EXTINF:-1 group-title="Smooth",Smooth 80s
+http://media-ice.musicradio.com/Smooth80sMP3
+#EXTINF:-1 group-title="Smooth",Smooth Chill
+http://icecast.thisisdax.com/SmoothChillMP3
+#EXTINF:-1 group-title="Smooth",Smooth Christmas
+http://media-ice.musicradio.com/SmoothXmasMP3
+#EXTINF:-1 group-title="Smooth",Smooth Country
+http://icecast.thisisdax.com/SmoothCountryMP3
+#EXTINF:-1 group-title="Smooth",Smooth Jazz 24/7
+http://smoothjazz247.edge.audiocdn.com/11221_192.mp3?ref=RF
+#EXTINF:-1 group-title="Smooth",Smooth Radio (East Anglia)
+http://icecast.thisisdax.com/SmoothNorfolkMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (East Midlands) (Derbyshire)
+http://icecast.thisisdax.com/SmoothDerbyMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (East Midlands) (East Midlands)
+http://icecast.thisisdax.com/SmoothEastMidsMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (East Midlands) (Northamptonshire & Peterborough)
+http://icecast.thisisdax.com/SmoothNorthantsMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (Essex)
+http://icecast.thisisdax.com/SmoothEssexMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (Herts, Beds & Bucks)
+http://icecast.thisisdax.com/SmoothHertsMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (Kent)
+http://icecast.thisisdax.com/SmoothKentMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (Lake District)
+http://icecast.thisisdax.com/SmoothLakeDistrictMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (London)
+http://icecast.thisisdax.com/SmoothLondonMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (North East) (Teesside)
+http://icecast.thisisdax.com/SmoothNorthEastSMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (North East) (Tyne & Wear)
+http://icecast.thisisdax.com/SmoothNorthEastNMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (North West)
+http://icecast.thisisdax.com/SmoothNorthWestMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (Scotland)
+http://icecast.thisisdax.com/SmoothScotlandMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (South Coast)
+http://icecast.thisisdax.com/SmoothHampshireMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (South West)
+http://icecast.thisisdax.com/SmoothPlymouthMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (Sussex)
+http://icecast.thisisdax.com/SmoothSussexMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (Thames Valley)
+http://icecast.thisisdax.com/SmoothBerkshireMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (UK)
+http://icecast.thisisdax.com/SmoothUKMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (Wales) (North Wales)
+http://icecast.thisisdax.com/SmoothNorthWalesMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (Wales) (South Wales)
+http://icecast.thisisdax.com/SmoothSouthWalesMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (West Midlands)
+http://icecast.thisisdax.com/SmoothWestMidsMP3
+#EXTINF:-1 group-title="Smooth",Smooth Radio (Westcountry)
+http://icecast.thisisdax.com/SmoothBristolMP3
+#EXTINF:-1 group-title="Smooth",Smooth Relax
+http://icecast.thisisdax.com/SmoothRelaxMP3
+#EXTINF:-1 group-title="Smooth",Smooth Soul
+http://media-ice.musicradio.com/SmoothSoulMP3
+
+# Nation
+#EXTINF:-1 group-title="Nation",Love Nation
+http://listen-nation.sharp-stream.com/lovenationdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Dance
+http://listen-nation.sharp-stream.com/clubnationdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Easy Radio (Dorset)
+http://listen-nation.sharp-stream.com/833_easy_radio_dorset_320_mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Easy Radio (Portsmouth)
+http://listen-nation.sharp-stream.com/nationeasyportsdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Easy Radio (Southampton & Winchester)
+http://listen-nation.sharp-stream.com/nationeasysotondab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (London)
+http://listen-nation.sharp-stream.com/nationukdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (North East)
+http://listen-nation.sharp-stream.com/sunfmdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (Scotland) (Glasgow)
+http://listen-nation.sharp-stream.com/nationscotlanddab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (South) (Dorset)
+http://listen-nation.sharp-stream.com/nationdorsetdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (South) (South Hampshire & Isle of Wight)
+http://listen-nation.sharp-stream.com/nationhampshiredab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (South) (Sussex)
+http://listen-nation.sharp-stream.com/838_nation_radio_south_sussex_320_mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (Suffolk)
+http://listen-nation.sharp-stream.com/nationsuffolk-dab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (Wales) (Ceredigion & North Wales)
+http://listen-nation.sharp-stream.com/ceredigiondab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (Wales) (South East)
+http://listen-nation.sharp-stream.com/nationwalesdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (Wales) (South West)
+http://listen-nation.sharp-stream.com/nationwestdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (Westcountry) (Cornwall)
+http://listen-nation.sharp-stream.com/1201_nation_radio_cornwall_320_mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (Westcountry) (Devon)
+http://listen-nation.sharp-stream.com/1202_nation_radio_devon_320_mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (Westcountry) (Somerset)
+http://listen-nation.sharp-stream.com/853_nation_somerset_320_mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio (Yorkshire)
+http://listen-nation.sharp-stream.com/nationhulldab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Radio 00s
+http://listen-nation.sharp-stream.com/nationradio00sdab.mp3?ref=RF
 #EXTINF:-1 group-title="Nation",Nation Radio 60s
 http://listen-nation.sharp-stream.com/nation60sdab.mp3?ref=RF
 #EXTINF:-1 group-title="Nation",Nation Radio 70s
@@ -231,11 +473,1527 @@ http://listen-nation.sharp-stream.com/nationradio70s-dab.mp3?ref=RF
 http://listen-nation.sharp-stream.com/nationradio80s-dab.mp3?ref=RF
 #EXTINF:-1 group-title="Nation",Nation Radio 90s
 http://listen-nation.sharp-stream.com/nationradio90s-dab.mp3?ref=RF
-#EXTINF:-1 group-title="Nation",Nation Radio 00s
-http://listen-nation.sharp-stream.com/nationradio00sdab.mp3?ref=RF
-#EXTINF:-1 group-title="Nation",Nation Hits
-http://listen-nation.sharp-stream.com/nationhitsdab.mp3?ref=RF
-#EXTINF:-1 group-title="Nation",Love Nation
-http://listen-nation.sharp-stream.com/lovenationdab.mp3?ref=RF
-#EXTINF:-1 group-title="Misc",GenX Radio
+#EXTINF:-1 group-title="Nation",Nation Rocks
+http://listen-nation.sharp-stream.com/nationrocksdab.mp3?ref=RF
+#EXTINF:-1 group-title="Nation",Nation Xmas
+http://listen-nation.sharp-stream.com/nationxmasdab.mp3?ref=RF
+
+# BFBS
+#EXTINF:-1 group-title="BFBS",BFBS (Aldershot)
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs13.mp3
+#EXTINF:-1 group-title="BFBS",BFBS (Blandford)
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs14.mp3
+#EXTINF:-1 group-title="BFBS",BFBS (Brize Norton)
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs25.mp3
+#EXTINF:-1 group-title="BFBS",BFBS (Catterick)
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs15.mp3
+#EXTINF:-1 group-title="BFBS",BFBS (Colchester)
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs16.mp3
+#EXTINF:-1 group-title="BFBS",BFBS (Northern Ireland)
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs4.mp3
+#EXTINF:-1 group-title="BFBS",BFBS (Salisbury Plain)
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs17.mp3
+#EXTINF:-1 group-title="BFBS",BFBS (Scotland)
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs18.mp3
+#EXTINF:-1 group-title="BFBS",BFBS (UK)
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs1.mp3
+#EXTINF:-1 group-title="BFBS",BFBS Beats
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs20.mp3
+#EXTINF:-1 group-title="BFBS",BFBS Best of British
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs24.mp3
+#EXTINF:-1 group-title="BFBS",BFBS Edge
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs22.mp3
+#EXTINF:-1 group-title="BFBS",BFBS Gurkha Radio
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs3.mp3
+#EXTINF:-1 group-title="BFBS",BFBS Rewind
+http://edge-audio-w2-01.sharp-stream.com:80/ssvcbfbs21.mp3
+
+# BritCom
+#EXTINF:-1 group-title="BritCom",BritCom 1 British Comedy Radio
+https://cast2.asurahosting.com/proxy/britcom1/stream
+#EXTINF:-1 group-title="BritCom",BritCom 2 British Comedy Radio
+https://cast2.asurahosting.com/proxy/britcom2/stream
+#EXTINF:-1 group-title="BritCom",BritCom 3 British Comedy Radio
+https://cast2.asurahosting.com/proxy/britcom3/stream
+
+# Classic FM
+#EXTINF:-1 group-title="Classic FM",Classic FM Calm
+http://media-ice.musicradio.com/ClassicFMCalmMP3
+#EXTINF:-1 group-title="Classic FM",Classic FM Christmas
+http://icecast.thisisdax.com/ClassicFMXmasMP3
+#EXTINF:-1 group-title="Classic FM",Classic FM Movies
+http://media-ice.musicradio.com/ClassicFMMoviesMP3
+
+# Coast and County Radio
+#EXTINF:-1 group-title="Coast and County Radio",Coast and County Radio (Hull & East Yorkshire)
+http://stream1.superstreaming.co.uk:8064/stream
+#EXTINF:-1 group-title="Coast and County Radio",Coast and County Radio (North Yorkshire)
+http://stream1.superstreaming.co.uk:8006/stream
+#EXTINF:-1 group-title="Coast and County Radio",Coast and County Radio (Ryedale)
+http://stream1.superstreaming.co.uk:4275/streamryed
+#EXTINF:-1 group-title="Coast and County Radio",Coast and County Radio (Scarborough & Filey)
+http://stream1.superstreaming.co.uk:4275/streamscar
+#EXTINF:-1 group-title="Coast and County Radio",Coast and County Radio (Whitby & Eskdale)
+http://stream1.superstreaming.co.uk:4275/streamwhit
+
+# Community
+#EXTINF:-1 group-title="Community",100% Whatever
+http://dione.shoutca.st:8139/stream
+#EXTINF:-1 group-title="Community",101.8 WCRfm
+http://stream3.themediasite.co.uk:8312/stream
+#EXTINF:-1 group-title="Community",102.4 Radio Hartlepool
+http://stream.broadcast-tech.co.uk:8000/hartlepool-ogg
+#EXTINF:-1 group-title="Community",103 The Eye
+http://radio.canstream.co.uk:8010/live.mp3
+#EXTINF:-1 group-title="Community",104.5 CVFM Radio
+http://lyra.shoutca.st:8564/stream
+#EXTINF:-1 group-title="Community",104.8 BigglesFM
+http://uk1.internet-radio.com:8092/bigglesfm
+#EXTINF:-1 group-title="Community",105.3 Zack FM
+http://stream1.nsupdate.info:8100/zack.mp3
+#EXTINF:-1 group-title="Community",105.9 Bishop FM
+http://tachyon.shoutca.st:8792/stream
+#EXTINF:-1 group-title="Community",106.9 SFM
+http://n06-eu2.rcs.revma.com:80/hdaazf6bsucwv
+#EXTINF:-1 group-title="Community",107 Endeavour FM
+http://solid48.streamupsolutions.com:8046/stream
+#EXTINF:-1 group-title="Community",107 Meridian FM
+http://streaming.broadcastradio.com:11990/meridianfm
+#EXTINF:-1 group-title="Community",107.2 Great Driffield Radio
+http://stream1.superstreaming.co.uk:4154/stream
+#EXTINF:-1 group-title="Community",107.5 Switch Radio
+http://listen.switchradio.co.uk/switchradio_high?ref=RF
+#EXTINF:-1 group-title="Community",107.8 Academy FM
+http://lyra.shoutca.st:8097/stream
+#EXTINF:-1 group-title="Community",107FM (Hull)
+http://hyades.shoutca.st:8031/stream
+#EXTINF:-1 group-title="Community",10Radio
+http://radio.canstream.co.uk:8056/live.mp3
+#EXTINF:-1 group-title="Community",1BTN
+http://edge.clrmedia.co.uk:10000/obfm_mp3
+#EXTINF:-1 group-title="Community",3TFM
+http://streaming04.liveboxstream.uk:8042/stream
+#EXTINF:-1 group-title="Community",6 Towns Radio
+http://stream.aiir.com/z7drhoivbpbuv?ref=RF
+#EXTINF:-1 group-title="Community",94.6 Cabin FM
+http://streaming06.liveboxstream.uk:8017/live
+#EXTINF:-1 group-title="Community",96.5 Bolton FM
+http://radio.canstream.co.uk:8083/live.mp3
+#EXTINF:-1 group-title="Community",97.5 Kemet FM
+http://hello.citrus3.com:8022/stream
+#EXTINF:-1 group-title="Community",Abbey104
+http://streaming04.liveboxstream.uk:8051/stream
+#EXTINF:-1 group-title="Community",Access All Aerials
+http://s4.radio.co:80/sd3c379ad6/listen
+#EXTINF:-1 group-title="Community",Affinity Radio
+http://n06-eu2.rcs.revma.com:80/czp6x177tepwv
+#EXTINF:-1 group-title="Community",African Voices Radio
+http://betelgeuse.nucast.co.uk:8048/stream
+#EXTINF:-1 group-title="Community",AIR
+http://uksoutha.streaming.broadcast.radio:29550/air-1072-cic
+#EXTINF:-1 group-title="Community",Akash Radio (Leeds)
+http://c2.radioboss.fm:8276/stream
+#EXTINF:-1 group-title="Community",Akash Radio (London)
+http://radio.canstream.co.uk:8161/stream
+#EXTINF:-1 group-title="Community",Alfred
+http://stream2.hippynet.co.uk:8204/stream
+#EXTINF:-1 group-title="Community",Alive 107.3
+http://stream2.hippynet.co.uk:8013/stream
+#EXTINF:-1 group-title="Community",ALL FM
+http://uksoutha.streaming.broadcast.radio:15870/allfm
+#EXTINF:-1 group-title="Community",Amber Sound FM
+http://92.27.32.159:8400/ukrp
+#EXTINF:-1 group-title="Community",Ambur Radio
+http://s33.myradiostream.com:8388/stream
+#EXTINF:-1 group-title="Community",Andover Radio
+http://s3.xrad.io:8300/stream
+#EXTINF:-1 group-title="Community",Angel Radio (Chichester, Portsmouth & Havant)
+http://n06-eu2.rcs.revma.com:80/cv2dh8bw5znwv
+#EXTINF:-1 group-title="Community",Angel Radio (Isle of Wight)
+http://s3.xrad.io:8054/stream
+#EXTINF:-1 group-title="Community",Apple FM
+http://s26.myradiostream.com:22088/stream
+#EXTINF:-1 group-title="Community",Ashdown Radio
+http://uksoutha.streaming.broadcast.radio:9165/uckfieldfmmp3
+#EXTINF:-1 group-title="Community",Asian Community Radio
+http://mystation.micast.media:8090/radio.mp3
+#EXTINF:-1 group-title="Community",Asian Star 101.6 FM
+http://radio.canstream.co.uk:8067/live.mp3
+#EXTINF:-1 group-title="Community",Avondale Radio
+http://stream.aiir.com/nkysgoj7udxuv?ref=RF
+#EXTINF:-1 group-title="Community",Awaaz FM (Southampton)
+http://us1new.listen2myradio.com:10006/;?ref=RF
+#EXTINF:-1 group-title="Community",Awaz 103.1 FM - Pendle Community Radio
+http://lunar.citrus3.com:8018/stream
+#EXTINF:-1 group-title="Community",Awaz FM (Glasgow)
+http://uksouth.streaming.broadcast.radio:16030/awazfm
+#EXTINF:-1 group-title="Community",Aycliffe Radio
+http://solid41.streamupsolutions.com:10049/stream
+#EXTINF:-1 group-title="Community",B Radio (Reading)
+http://stream.aiir.com/t4k624qg11kuv?ref=RF
+#EXTINF:-1 group-title="Community",Basingstoke Community Radio
+http://listen.hhcr.org.uk:6450/stream
+#EXTINF:-1 group-title="Community",BCB 106.6fm
+http://stream1.bcbradio.co.uk:8000/live128k.mp3
+#EXTINF:-1 group-title="Community",BCfm
+http://hydra.shoutca.st:8268/live.mp3
+#EXTINF:-1 group-title="Community",Beat 103 (Preston)
+http://stream3.themediasite.co.uk:8000/stream
+#EXTINF:-1 group-title="Community",Bedford Radio
+http://stream6.hippynet.co.uk:8001/HQ
+#EXTINF:-1 group-title="Community",Bedrock Radio
+http://azuracast.edu-net.co.uk:8000/BRACC
+#EXTINF:-1 group-title="Community",Belfast 89
+http://uksoutha.streaming.broadcast.radio:9030/belfastfm
+#EXTINF:-1 group-title="Community",Beverley FM
+http://protostar.shoutca.st:8004/stream
+#EXTINF:-1 group-title="Community",Beyond Radio
+http://stream.beyondradio.co.uk:8000/high
+#EXTINF:-1 group-title="Community",BGfm
+http://ice31.securenetsystems.net:80/BGFMRAD
+#EXTINF:-1 group-title="Community",Black Cat Radio
+http://s5.voscast.com:9096/stream
+#EXTINF:-1 group-title="Community",Black Country Radio
+http://edge-audio-w2-01.sharp-stream.com:80/blackcountryradio.mp3
+#EXTINF:-1 group-title="Community",Black Country Xtra
+http://edge-audio-w2-01.sharp-stream.com:80/bcrxtra.mp3
+#EXTINF:-1 group-title="Community",Black Diamond FM
+http://icecast.bdfm.radio:8000/blackdiamondfm
+#EXTINF:-1 group-title="Community",Blast 106 (Belfast)
+http://195.72.55.45:8000/blast
+#EXTINF:-1 group-title="Community",Bounce Digital Radio
+http://31.170.0.20:8000/bounce
+#EXTINF:-1 group-title="Community",Bradford Asian Radio 1413AM
+http://cast1.asurahosting.com:7806/stream
+#EXTINF:-1 group-title="Community",Branch FM
+http://s11.ssl-stream.com:8108/stream
+#EXTINF:-1 group-title="Community",BRFM
+http://nkice1.nkpa.co.uk:8002/BrfmMP3
+#EXTINF:-1 group-title="Community",Bro Radio
+http://streaming.broadcastradio.com:8420/brorad
+#EXTINF:-1 group-title="Community",Brumside Radio
+http://carol.epichosts.co.uk:8440/live.mp3
+#EXTINF:-1 group-title="Community",BSR, Bradley Stoke Radio
+http://eclipse.galaxywebsolutions.com:7400/stream?ref=RF
+#EXTINF:-1 group-title="Community",Bute Island Radio
+http://live.canstream.co.uk:8000/bute.mp3
+#EXTINF:-1 group-title="Community",BWR, Boreham Wood Radio
+http://uksoutha.streaming.broadcast.radio:15351/borehamwood
+#EXTINF:-1 group-title="Community",Caithness FM
+http://streamer.radio.co:80/s2b0b90cfe/listen
+#EXTINF:-1 group-title="Community",Cam FM
+http://stream.camfm.co.uk/camfm?ref=RF
+#EXTINF:-1 group-title="Community",Cambridge Radio
+http://stream.cambridge105.co.uk:443/105-192s-mp3
+#EXTINF:-1 group-title="Community",CamGlen Radio 107.9FM
+http://stream2.hippynet.co.uk:8308/stream
+#EXTINF:-1 group-title="Community",Canalside Radio 102.8fm
+http://radio.canstream.co.uk:8035/canal.mp3
+#EXTINF:-1 group-title="Community",CandoFM
+http://uksoutha.streaming.broadcast.radio:20861/candofm
+#EXTINF:-1 group-title="Community",Caroline Coastal
+http://s47.myradiostream.com:11564/stream
+#EXTINF:-1 group-title="Community",Castledown FM
+http://ukwesta.streaming.broadcast.radio:17660/castledownfm
+#EXTINF:-1 group-title="Community",CCR, Chelmsford Community Radio
+http://cast3.asurahosting.com:9577/stream
+#EXTINF:-1 group-title="Community",Celtic Music Radio
+http://streaming.broadcastradio.com:11130/celtic
+#EXTINF:-1 group-title="Community",CHAOS Radio (St Austell)
+http://uksoutha.streaming.broadcast.radio:15920/thechaosgroup
+#EXTINF:-1 group-title="Community",CHBN
+http://live.chbnradio.org:8000/chbn.aac
+#EXTINF:-1 group-title="Community",CheshireONE
+http://n06-eu2.rcs.revma.com:80/u8ekgps9tncwv
+#EXTINF:-1 group-title="Community",Chiltern Voice
+http://radio.entertainmenttechnologies.co.uk:8020/chilternvoice.mp3
+#EXTINF:-1 group-title="Community",City Groove
+http://stream.aiir.com/orbe0bi4k9guv?ref=RF
+#EXTINF:-1 group-title="Community",City Sound
+http://solid9.streamupsolutions.com:8130/stream
+#EXTINF:-1 group-title="Community",Classic Hits Forest Radio
+http://c2.prostream365.com:8000/live
+#EXTINF:-1 group-title="Community",Clyde Coast Radio
+http://s5.radio.co:80/scaab7719a/listen
+#EXTINF:-1 group-title="Community",Coast FM (Penwith)
+http://stream1.coastfm.co.uk/radio/8000/radio.mp3?ref=RF
+#EXTINF:-1 group-title="Community",COG Grand Radio
+http://cressida.shoutca.st:8118/stream
+#EXTINF:-1 group-title="Community",Colne Radio 106.6FM
+http://s28.myradiostream.com:30198/stream
+#EXTINF:-1 group-title="Community",Corby Radio
+http://stream.cotswoldgrp.com:8014/corby-main
+#EXTINF:-1 group-title="Community",CPR UK (Romney Marsh & Rye)
+http://streams.anytek.co.uk:8020/live
+#EXTINF:-1 group-title="Community",Crescent Community Radio
+http://radio.canstream.co.uk:8152/live.mp3
+#EXTINF:-1 group-title="Community",CRFM
+http://n06-eu2.rcs.revma.com:80/rvhtaqdqsy3vv
+#EXTINF:-1 group-title="Community",Cross Counties Radio
+http://streaming04.liveboxstream.uk:8094/stream
+#EXTINF:-1 group-title="Community",Cross Rhythms City Radio
+http://stream.crossrhythms.co.uk:80/city/hq.mp3
+#EXTINF:-1 group-title="Community",Cross Rhythms Plymouth
+http://stream.crossrhythms.co.uk:80/plymouth/hq.mp3
+#EXTINF:-1 group-title="Community",Croydon FM
+http://cast6.asurahosting.com:7604/stream
+#EXTINF:-1 group-title="Community",Crystal FM
+http://dione.shoutca.st:8122/stream
+#EXTINF:-1 group-title="Community",Cumbernauld FM
+http://radio.canstream.co.uk:8104/live.mp3
+#EXTINF:-1 group-title="Community",Cumbrian Local Radio
+http://178.32.146.184:5564/stream
+#EXTINF:-1 group-title="Community",Dales Radio
+http://stream3.themediasite.co.uk:8358/stream
+#EXTINF:-1 group-title="Community",Dance Asia Radio
+http://s1.citrus3.com:18124/stream
+#EXTINF:-1 group-title="Community",Darbar Sahib Radio
+http://s6.autopo.st:8561/stream
+#EXTINF:-1 group-title="Community",DCR 97.4fm, Dunoon Community Radio
+http://stream2.hippynet.co.uk:8001/dunoon.mp3
+#EXTINF:-1 group-title="Community",DCR, Digital City Radio
+http://stream1.funkyessex.co.uk:8000/dab
+#EXTINF:-1 group-title="Community",DCR, Dover Community Radio
+http://stream1.hippynet.co.uk:8119/stream
+#EXTINF:-1 group-title="Community",Dean Radio
+http://radio.forestmedia.co.uk:80/deanradioaac
+#EXTINF:-1 group-title="Community",Desi Radio
+http://radio.canstream.co.uk:8001/live.mp3
+#EXTINF:-1 group-title="Community",DevonAir Radio
+http://n06-eu2.rcs.revma.com:80/48dmk70k91uvv
+#EXTINF:-1 group-title="Community",Diverse FM
+http://icecast.mediaice.co.uk/DiverseMP3?ref=RF
+#EXTINF:-1 group-title="Community",Dorset Coast Radio
+http://uksoutha.streaming.broadcast.radio:24930/DorsetCoastRadio
+#EXTINF:-1 group-title="Community",Drive 105
+http://icecast.easystream.co.uk:8000/drive105
+#EXTINF:-1 group-title="Community",Drystone Radio
+http://uksoutha.streaming.broadcast.radio:15480/drystoneradio
+#EXTINF:-1 group-title="Community",East Coast FM (East Lothian)
+http://radio.canstream.co.uk:8117/live.mp3
+#EXTINF:-1 group-title="Community",EAVA FM
+http://live.canstream.co.uk:8000/eavafm.mp3
+#EXTINF:-1 group-title="Community",Erewash Sound
+http://stream01.erewashsound.com/erewashaac?ref=RF
+#EXTINF:-1 group-title="Community",Express FM
+http://s3.xrad.io:8014/stream
+#EXTINF:-1 group-title="Community",Fantasy Radio
+http://server.fantasyradio.co.uk:8300/;
+#EXTINF:-1 group-title="Community",Felixstowe Radio
+http://a4.asurahosting.com:8060/radio.mp3
+#EXTINF:-1 group-title="Community",Fever FM
+http://radio.canstream.co.uk:8115/live.mp3
+#EXTINF:-1 group-title="Community",Fiesta FM
+http://hyades.shoutca.st:8317/stream
+#EXTINF:-1 group-title="Community",Flame CCR, Flame Christian & Community Radio
+http://radio.canstream.co.uk:8120/live.mp3
+#EXTINF:-1 group-title="Community",Flex FM (London)
+http://stream.cotswoldgrp.com:8020/flex
+#EXTINF:-1 group-title="Community",FM105 - Down Community Radio
+http://radio.canstream.co.uk:8051/live.mp3
+#EXTINF:-1 group-title="Community",Forest FM (Verwood)
+http://radio.canstream.co.uk:8146/live.mp3
+#EXTINF:-1 group-title="Community",FromeFM
+http://stream2.hippynet.co.uk:8282/stream
+#EXTINF:-1 group-title="Community",FUSE FM
+http://hyades.shoutca.st:8053/stream
+#EXTINF:-1 group-title="Community",Future Radio
+http://radio.canstream.co.uk:8007/live.mp3
+#EXTINF:-1 group-title="Community",Gateway 97.8
+http://stream.gateway978.com:8000/dab.mp3
+#EXTINF:-1 group-title="Community",GFM
+http://radio.canstream.co.uk:8065/live.mp3
+#EXTINF:-1 group-title="Community",Glow Radio (Farnborough)
+http://n08-eu2.rcs.revma.com:80/qqmbdzvet3bwv
+#EXTINF:-1 group-title="Community",GTFM (Cynon Valley)
+http://s4.myradiostream.com:8244/stream
+#EXTINF:-1 group-title="Community",GTFM (Pontypridd)
+http://s8.myradiostream.com:58680/stream
+#EXTINF:-1 group-title="Community",Gulshan Radio
+http://s3.voscast.com:11510/
+#EXTINF:-1 group-title="Community",GWS Radio
+http://stream2.hippynet.co.uk:8248/stream
+#EXTINF:-1 group-title="Community",Hailsham FM
+http://s21.myradiostream.com:10716/;
+#EXTINF:-1 group-title="Community",Harbour Radio
+http://n0b.radiojar.com:80/pkzd477ccchvv
+#EXTINF:-1 group-title="Community",Hayes FM
+http://s19.myradiostream.com:8026/;
+#EXTINF:-1 group-title="Community",HeartSong Live
+http://streamer.radio.co:80/sa0f1967d5/listen
+#EXTINF:-1 group-title="Community",Heritage Radio
+http://s4.citrus3.com:8068/stream
+#EXTINF:-1 group-title="Community",HFM, Harborough FM
+http://edge-audio-w2-01.sharp-stream.com:80/harboroughfm.mp3
+#EXTINF:-1 group-title="Community",High Peak 1
+http://stream3.themediasite.co.uk:8260/dabhq
+#EXTINF:-1 group-title="Community",Hillz FM
+http://live.canstream.co.uk:8000/watch
+#EXTINF:-1 group-title="Community",Hive FM
+http://stream.aiir.com/oukspr99eiptv?ref=RF
+#EXTINF:-1 group-title="Community",Home Radio
+http://uksoutha.streaming.broadcast.radio:16670/home
+#EXTINF:-1 group-title="Community",Hope FM (Bournemouth)
+http://stream-hfm2.tune-in.co.uk:19020/stream
+#EXTINF:-1 group-title="Community",Hospital Radio Glamorgan
+http://uksoutha.streaming.broadcast.radio:8000/glamorg
+#EXTINF:-1 group-title="Community",Hospital Radio Plymouth
+http://chandra.shoutca.st:8067/live
+#EXTINF:-1 group-title="Community",Hot Digital Online
+http://pollux.shoutca.st:8114/stream
+#EXTINF:-1 group-title="Community",Hot Radio
+http://stream1.hippynet.co.uk:8095/HD
+#EXTINF:-1 group-title="Community",House FM
+http://uksoutha.streaming.broadcast.radio:19920/housefm
+#EXTINF:-1 group-title="Community",HRB, Hospital Radio Basingstoke
+http://micslive.co.uk:80/hrbdab
+#EXTINF:-1 group-title="Community",Humber Wave Radio
+http://uksouth.streaming.broadcast.radio:15990/whcr
+#EXTINF:-1 group-title="Community",ICR FM
+http://streams.happyhits.co.uk:80/ICR
+#EXTINF:-1 group-title="Community",in2beats
+http://in2radio.co.uk:80/IN2MP3
+#EXTINF:-1 group-title="Community",Insanity Radio
+https://stream.cor.insanityradio.com/insanity.flac
+#EXTINF:-1 group-title="Community",Inspiration FM
+http://radio.canstream.co.uk:8078/inspirationfm.mp3
+#EXTINF:-1 group-title="Community",Inspire FM
+http://edge-audio-05-gos2.sharp-stream.com:80/inspirefm.mp3
+#EXTINF:-1 group-title="Community",Irvine Beat FM
+http://solid2.streamupsolutions.com:24921/stream
+#EXTINF:-1 group-title="Community",Islands FM
+http://radio.canstream.co.uk:8040/live.mp3
+#EXTINF:-1 group-title="Community",IÚR-fm / Your FM (Digital)
+http://195.72.55.45:8000/iur
+#EXTINF:-1 group-title="Community",Jorvik Radio
+http://uksoutha.streaming.broadcast.radio:24780/jorvikradio
+#EXTINF:-1 group-title="Community",Juice Radio (Belfast)
+http://n05-eu2.rcs.revma.com:80/w4w01guvz42vv
+#EXTINF:-1 group-title="Community",K107
+http://s11.myradiostream.com:9020/;
+#EXTINF:-1 group-title="Community",Kane FM
+http://stream.kanefm.com:1037/listen
+#EXTINF:-1 group-title="Community",KCR 107.7
+http://live.canstream.co.uk:8000/keithcommunityradio.mp3
+#EXTINF:-1 group-title="Community",KeeP 106
+http://solid9.streamupsolutions.com:8118/stream
+#EXTINF:-1 group-title="Community",Kennet Radio
+http://stream.kennetradio.com:8000/hq.mp3
+#EXTINF:-1 group-title="Community",Koast Radio
+http://nkice1.nkpa.co.uk:8008/main
+#EXTINF:-1 group-title="Community",KRFM, Kohinoor Radio
+http://62.31.126.46:5000/;
+#EXTINF:-1 group-title="Community",KTCRfm
+http://stream2.hippynet.co.uk:8238/stream
+#EXTINF:-1 group-title="Community",LCR FM, Lincoln City Radio
+http://ukwesta.streaming.broadcast.radio:16940/lincoln
+#EXTINF:-1 group-title="Community",LDC Radio
+http://stream.ldcradio.co.uk:8000/aac2?ref=RF
+#EXTINF:-1 group-title="Community",Legacy 90.1FM
+http://live.sarc.co.uk:8000/live.mp3?ref=RF
+#EXTINF:-1 group-title="Community",Link FM 96.7
+http://cast4.asurahosting.com:8262/stream
+#EXTINF:-1 group-title="Community",Lionheart Radio
+http://lionheartstudio.co.uk:8000/listen.mp3?ref=RF
+#EXTINF:-1 group-title="Community",Listen Lanarkshire
+http://streaming06.liveboxstream.uk:8061/stream
+#EXTINF:-1 group-title="Community",Liverpool Community Radio
+http://n06.radiojar.com:80/0p8xfnpxfnzuv
+#EXTINF:-1 group-title="Community",Lomond Radio
+http://ukwesta.streaming.broadcast.radio:17210/lomondradio
+#EXTINF:-1 group-title="Community",Marefa Radio
+http://philae.shoutca.st:8054/stream
+#EXTINF:-1 group-title="Community",Maritime Radio
+http://media-ice.nkpa.co.uk:8004/MR_DAB
+#EXTINF:-1 group-title="Community",Marlow FM 97.5
+http://audio.marlowfm.co.uk:8019/stream
+#EXTINF:-1 group-title="Community",MDFR, Merseyside Dementia Friendly Radio
+http://s2.radio.co:80/s9e2b0d28b/listen
+#EXTINF:-1 group-title="Community",Mearns FM
+http://stream2.hippynet.co.uk:8002/live
+#EXTINF:-1 group-title="Community",Mid Sussex Radio
+http://uksoutha.streaming.broadcast.radio:9310/burgesshillradio
+#EXTINF:-1 group-title="Community",Mighty Radio
+http://streaming04.liveboxstream.uk:8014/stream
+#EXTINF:-1 group-title="Community",Mix 92.6
+http://stream4.hippynet.co.uk:8012/stream
+#EXTINF:-1 group-title="Community",MKFM
+http://cressida.shoutca.st:8850/stream
+#EXTINF:-1 group-title="Community",Moorlands Radio (Biddulph & Leek)
+http://eclipse.galaxywebsolutions.com:7722/stream?ref=RF
+#EXTINF:-1 group-title="Community",MônFM
+http://stream1.hippynet.co.uk:8173/monfm2
+#EXTINF:-1 group-title="Community",Nagrecha Radio
+http://radio.canstream.co.uk:8158/live.mp3
+#EXTINF:-1 group-title="Community",Nevis Radio
+http://streaming04.liveboxstream.uk:8000/stream
+#EXTINF:-1 group-title="Community",Newport City Radio
+http://stream3.themediasite.co.uk:8168/stream
+#EXTINF:-1 group-title="Community",NLive
+http://nebula.shoutca.st:8085/stream
+#EXTINF:-1 group-title="Community",North Manchester Radio
+http://radio.canstream.co.uk:8061/live.mp3
+#EXTINF:-1 group-title="Community",Nova Radio North East
+http://orion.shoutca.st:8003/stream
+#EXTINF:-1 group-title="Community",Oldham Community Radio
+http://radio.canstream.co.uk:8069/live
+#EXTINF:-1 group-title="Community",Ouse Valley Radio
+http://listen.streamaudio.co:4303/stream
+#EXTINF:-1 group-title="Community",Park Radio
+http://s32.myradiostream.com:18756/stream
+#EXTINF:-1 group-title="Community",PCRFM, Peterborough Community Radio
+http://streaming.planetwideradio.com:9105/radiopeterborough
+#EXTINF:-1 group-title="Community",Penistone FM
+http://radio.canstream.co.uk:8021/live.mp3
+#EXTINF:-1 group-title="Community",Petersfield's Shine Radio
+http://listen-petersfieldprem.sharp-stream.com/1205_petersfield_community_radio_96_aac_lc?ref=RF
+#EXTINF:-1 group-title="Community",Phoenix FM (Brentwood)
+http://hyades.shoutca.st:8555/stream
+#EXTINF:-1 group-title="Community",Phoenix Radio (Halifax)
+http://live.canstream.co.uk:8000/phoenix.mp3
+#EXTINF:-1 group-title="Community",Phonic FM
+http://stream.cotswoldgrp.com:8003/main
+#EXTINF:-1 group-title="Community",Pie Radio
+http://stream.aiir.com/dnjp99nozxavv?ref=RF
+#EXTINF:-1 group-title="Community",Platform B
+http://edge-audio-05-gos2.sharp-stream.com:80/platformb.mp3
+#EXTINF:-1 group-title="Community",Pride Radio
+http://philae.shoutca.st:8807/stream
+#EXTINF:-1 group-title="Community",Prince Bishops Hospital Radio
+http://hydra.shoutca.st:8024/stream
+#EXTINF:-1 group-title="Community",Quality Radio
+http://radio.canstream.co.uk:8123/live.mp3
+#EXTINF:-1 group-title="Community",QUAY-FM
+http://quayfm.ci-servers.gg:1071/live
+#EXTINF:-1 group-title="Community",Raaj FM
+http://live.canstream.co.uk:8000/raajfm.mp3
+#EXTINF:-1 group-title="Community",Radio Ashford
+http://streaming04.liveboxstream.uk:8008/stream
+#EXTINF:-1 group-title="Community",Radio Bury
+http://radio.canstream.co.uk:8162/live.mp3
+#EXTINF:-1 group-title="Community",Radio Cardiff
+http://hyades.shoutca.st:8159/stream
+#EXTINF:-1 group-title="Community",Radio Dacorum
+http://streamingr.broadcastradio.com:8502/radiodacorum
+#EXTINF:-1 group-title="Community",Radio Dawn
+http://hydra.shoutca.st:8131/stream
+#EXTINF:-1 group-title="Community",Radio Diamond
+http://51.222.42.9:1120/;
+#EXTINF:-1 group-title="Community",Radio Faza
+http://209.97.134.54:8000/radiofaza
+#EXTINF:-1 group-title="Community",Radio Folkestone
+http://s2.xrad.io:8080/stream
+#EXTINF:-1 group-title="Community",Radio Hillingdon
+http://uksoutha.streaming.broadcast.radio:10040/hrhillingdonaac
+#EXTINF:-1 group-title="Community",Radio Ikhlas
+http://radio.canstream.co.uk:8050/live.mp3
+#EXTINF:-1 group-title="Community",Radio LaB
+http://radio.canstream.co.uk:8043/live.mp3
+#EXTINF:-1 group-title="Community",Radio LEAR
+http://icecast.maxxwave.co.uk/lear?ref=RF
+#EXTINF:-1 group-title="Community",Radio Leyland
+http://streaming06.liveboxstream.uk:8092/stream
+#EXTINF:-1 group-title="Community",Radio MAC
+http://178.33.135.246:5344/
+#EXTINF:-1 group-title="Community",Radio New Springs
+http://stream.aiir.com/snlfrauztitvv?ref=RF
+#EXTINF:-1 group-title="Community",Radio Newark
+http://n05-eu2.rcs.revma.com:80/5wamde34h5uvv
+#EXTINF:-1 group-title="Community",Radio Newquay
+http://s46.myradiostream.com:8816/stream
+#EXTINF:-1 group-title="Community",Radio Ninesprings
+http://stream01.fruitfulhosting.uk:80/ninesprings-high
+#EXTINF:-1 group-title="Community",Radio Northumberland
+http://titan.shoutca.st:8951/stream
+#EXTINF:-1 group-title="Community",Radio Panj
+http://s3.voscast.com:11264/stream
+#EXTINF:-1 group-title="Community",Radio Plus
+http://stream.radioplus.org.uk:8000/plus320k
+#EXTINF:-1 group-title="Community",Radio Royal
+http://azuracast.radioroyal.org:8020/high
+#EXTINF:-1 group-title="Community",Radio Saltire
+http://ukwesta.streaming.broadcast.radio:17750/radiosaltire
+#EXTINF:-1 group-title="Community",Radio Sangam
+http://streaming.radio.co:80/s58948a3f0/listen
+#EXTINF:-1 group-title="Community",Radio Scarborough
+http://s3.radio.co:80/s201b7a9d0/listen
+#EXTINF:-1 group-title="Community",Radio Seerah
+http://icecast.maxxwave.co.uk/radioseerah?ref=RF
+#EXTINF:-1 group-title="Community",Radio Tamworth
+http://streaming.radiotamworth.com:8080/live
+#EXTINF:-1 group-title="Community",Radio Tyneside
+http://micslive.co.uk:80/tyneside128.mp3
+#EXTINF:-1 group-title="Community",Radio Utsav
+http://icecast.maxxwave.co.uk/utsav?ref=RF
+#EXTINF:-1 group-title="Community",Radio Warrington
+http://n05-eu2.rcs.revma.com:80/zfkwftp52wuvv
+#EXTINF:-1 group-title="Community",Radio West Fife
+http://stream4.themediasite.co.uk:8298/stream
+#EXTINF:-1 group-title="Community",Radio Wimborne
+http://radio.canstream.co.uk:8057/live.mp3
+#EXTINF:-1 group-title="Community",Radio Winchcombe
+http://radio.canstream.co.uk:8014/winchcombe
+#EXTINF:-1 group-title="Community",Radio2Funky
+http://s6.citrus3.com:8006/stream
+#EXTINF:-1 group-title="Community",RadioReverb
+http://edge-audio-w2-01.sharp-stream.com:80/115_radio_reverb_mp3_320
+#EXTINF:-1 group-title="Community",Raidió Fáilte
+http://radio.canstream.co.uk:8072/live.mp3
+#EXTINF:-1 group-title="Community",Rainbow Radio
+http://167.114.11.80:5374/stream
+#EXTINF:-1 group-title="Community",rajoradio
+http://listen.switchradio.co.uk:8000/rajoradio?ref=RF
+#EXTINF:-1 group-title="Community",Rangoli Radio
+http://listen.radioking.com/radio/416320/stream/469264?ref=RF
+#EXTINF:-1 group-title="Community",Red Kite Radio
+http://solid2.streamupsolutions.com:24944/stream
+#EXTINF:-1 group-title="Community",Redroad FM
+http://s45.myradiostream.com:13784/stream
+#EXTINF:-1 group-title="Community",Reform Radio
+http://testform.out.airtime.pro:8000/testform_a
+#EXTINF:-1 group-title="Community",Reprezent 107.3
+http://radio.canstream.co.uk:8022/live.mp3
+#EXTINF:-1 group-title="Community",Resonance FM
+http://stream.resonance.fm:80/resonance
+#EXTINF:-1 group-title="Community",Rhondda Radio
+http://cast.charter.digital:8020/stream.mp3
+#EXTINF:-1 group-title="Community",Ribble FM
+http://uksouth.streaming.broadcast.radio:15280/ribblefm
+#EXTINF:-1 group-title="Community",Rinse FM
+http://admin.stream.rinse.fm:8820/stream
+#EXTINF:-1 group-title="Community",River Radio
+http://stream2.hippynet.co.uk:8210/stream
+#EXTINF:-1 group-title="Community",Riverside Radio (London)
+http://streaming04.liveboxstream.uk:8216/stream
+#EXTINF:-1 group-title="Community",RNIB Connect Radio
+http://n05-eu2.rcs.revma.com:80/yv4znr4xcg0uv
+#EXTINF:-1 group-title="Community",Roch Valley Radio
+http://protostar.shoutca.st:8431/stream
+#EXTINF:-1 group-title="Community",Rookwood Sound
+http://149.202.83.114:8130/;
+#EXTINF:-1 group-title="Community",Rossendale Radio
+http://stream.aiir.com/jws50dah7vtuv?ref=RF
+#EXTINF:-1 group-title="Community",Rother Radio (Rotherham & Sheffield)
+http://streaming06.liveboxstream.uk:8075/stream
+#EXTINF:-1 group-title="Community",Rutland & Stamford Sound
+http://stream.aiir.com/lqeblzjduoduv?ref=RF
+#EXTINF:-1 group-title="Community",RWSfm 103.3
+http://s3.radio.co:80/s15a98efff/listen
+#EXTINF:-1 group-title="Community",Salaam Radio
+http://radio.canstream.co.uk:8005/live.mp3
+#EXTINF:-1 group-title="Community",Salford City Radio 94.4FM
+http://radio.canstream.co.uk:8154/live.mp3
+#EXTINF:-1 group-title="Community",Seahaven FM (Eastbourne)
+http://stream4.hippynet.co.uk:8002/stream
+#EXTINF:-1 group-title="Community",Seahaven FM (Ouse Valley)
+http://stream1.hippynet.co.uk:8107/stream
+#EXTINF:-1 group-title="Community",Seaside FM (Hornsea & Mid Holderness)
+http://stream1.superstreaming.co.uk:8068/sfmhornsea
+#EXTINF:-1 group-title="Community",Seaside FM (Withernsea)
+http://stream1.superstreaming.co.uk:8068/sfmwithernsea
+#EXTINF:-1 group-title="Community",Sedgemoor FM
+http://stream.cotswoldgrp.com:8004/sedgemoor-hi
+#EXTINF:-1 group-title="Community",Select
+http://streaming04.liveboxstream.uk:8062/stream
+#EXTINF:-1 group-title="Community",Sheffield Live!
+http://live.sheffieldlive.org:8000/shefflive.mp3
+#EXTINF:-1 group-title="Community",Sheppey FM 92.2
+http://streaming05.liveboxstream.uk:8054/stream
+#EXTINF:-1 group-title="Community",Shire Radio
+http://stream.shoutcastservices.com:8095/stream
+#EXTINF:-1 group-title="Community",shmuFM
+http://stream.shmu.org.uk:8000/shmufm_high.mp3
+#EXTINF:-1 group-title="Community",Sid Valley Radio
+http://live.sidvalleyradio.co.uk:8010/;
+#EXTINF:-1 group-title="Community",Sine FM
+http://uksoutha.streaming.broadcast.radio:16750/sinefm
+#EXTINF:-1 group-title="Community",Skylark
+http://uk2.internet-radio.com:8164/dontlisten.ogg
+#EXTINF:-1 group-title="Community",Slack City
+http://edge-audio-w2-01.sharp-stream.com:80/slackcity.mp3
+#EXTINF:-1 group-title="Community",Soar Sound
+http://icecast.maxxwave.co.uk/soarsound?ref=RF
+#EXTINF:-1 group-title="Community",Somer Valley FM
+http://somervalleyfm.streammachine.co.uk:8014/stream
+#EXTINF:-1 group-title="Community",Sound Radio
+http://listen.streamaudio.co:4809/stream
+#EXTINF:-1 group-title="Community",Soundart Radio
+http://radio.canstream.co.uk:8134/live.mp3
+#EXTINF:-1 group-title="Community",Source FM
+http://live.canstream.co.uk:8000/sourcefm.mp3
+#EXTINF:-1 group-title="Community",Spark
+http://stream1.hippynet.co.uk:8117/live.mp3
+#EXTINF:-1 group-title="Community",Speysound Radio
+http://ice.speyside-it.co.uk:8000/speysound
+#EXTINF:-1 group-title="Community",Spice FM
+http://philae.shoutca.st:8212/stream
+#EXTINF:-1 group-title="Community",Strawberry Radio
+http://stream3.themediasite.co.uk:8338/stream
+#EXTINF:-1 group-title="Community",Sunny G Radio
+http://streaming06.liveboxstream.uk:8118/stream
+#EXTINF:-1 group-title="Community",Susy Radio
+http://uksoutha.streaming.broadcast.radio:16040/susycloudradio
+#EXTINF:-1 group-title="Community",SWINDON 105.5
+http://stream.cotswoldgrp.com:8015/sn
+#EXTINF:-1 group-title="Community",Tameside Radio
+http://edge-audio-w2-01.sharp-stream.com:80/tamesideradio.mp3
+#EXTINF:-1 group-title="Community",TD1 Radio
+http://td1.mbc.scot:8000/radio.mp3
+#EXTINF:-1 group-title="Community",Tempo FM
+http://stream.dnsgb.net:8040/stream
+#EXTINF:-1 group-title="Community",The Beat London 103.6FM
+http://stream.zeno.fm/x59sz6hkev8uv?ref=RF
+#EXTINF:-1 group-title="Community",The Cat
+http://uksoutha.streaming.broadcast.radio:20300/thecatcloud
+#EXTINF:-1 group-title="Community",The HitMix
+http://uksouth.streaming.broadcast.radio:15300/hitmixhigh
+#EXTINF:-1 group-title="Community",The New Horizon Radio (Milton Keynes)
+http://streaming.soniic.co.uk:8020/stream_hi
+#EXTINF:-1 group-title="Community",The New Horizon Radio (Northampton)
+http://streaming.soniic.co.uk:8010/stream_hi
+#EXTINF:-1 group-title="Community",The Voice
+http://icecast3.rosisystems.com:8000/v1-dab-feed
+#EXTINF:-1 group-title="Community",Thornbury Radio
+http://s42.myradiostream.com:29400/;
+#EXTINF:-1 group-title="Community",TMCR FM, Today's More Choice Radio
+http://ec5.yesstreaming.net:2470/stream
+#EXTINF:-1 group-title="Community",Torbay Radio
+http://stream.cotswoldgrp.com:8012/sdr-main
+#EXTINF:-1 group-title="Community",Ujima Radio
+http://radio.canstream.co.uk:8037/live.mp3
+#EXTINF:-1 group-title="Community",Unity 101
+http://live.canstream.co.uk:8000/unity24.mp3
+#EXTINF:-1 group-title="Community",Unity FM (Birmingham)
+http://live.canstream.co.uk:8000/unity.mp3
+#EXTINF:-1 group-title="Community",Unity Radio (Manchester)
+http://unity-radio.radiocult.fm/stream?ref=RF
+#EXTINF:-1 group-title="Community",URY, University Radio York
+http://audio.ury.org.uk/live-high?ref=RF
+#EXTINF:-1 group-title="Community",Vanny Radio
+http://icecast.maxxwave.co.uk/vannyradio?ref=RF
+#EXTINF:-1 group-title="Community",Vectis Radio
+http://stream.gointernet.co.uk:8004/live
+#EXTINF:-1 group-title="Community",Vibe 107.6
+http://stream.cotswoldgrp.com:8001/main
+#EXTINF:-1 group-title="Community",Vibe25 Radio
+http://streamer.radio.co:80/s7afcaa07d/listen
+#EXTINF:-1 group-title="Community",Vixen 101
+http://s33.myradiostream.com:15184/stream
+#EXTINF:-1 group-title="Community",Voice FM (Southampton)
+http://stream.aiir.com/kod3i59r2nltv?ref=RF
+#EXTINF:-1 group-title="Community",Wallingford Radio
+http://tvps1.tincs.net:8010/radio.mp3
+#EXTINF:-1 group-title="Community",WCR, Warminster Community Radio
+http://uksouth.streaming.broadcast.radio:15630/wcrcommunityradio
+#EXTINF:-1 group-title="Community",Welsh Coast Radio
+http://janus.shoutca.st:8080/stream
+#EXTINF:-1 group-title="Community",Welwyn Hatfield Radio
+http://stream3.themediasite.co.uk:8402/stream
+#EXTINF:-1 group-title="Community",West Kent Radio
+http://ukwesta.streaming.broadcast.radio:18400/wkcr
+#EXTINF:-1 group-title="Community",West Somerset Radio
+http://stream.cotswoldgrp.com:8013/wsr-main
+#EXTINF:-1 group-title="Community",West Wilts Radio
+http://sc02.lemonhost.ovh:8108/;
+#EXTINF:-1 group-title="Community",Westminster Waves
+http://betelgeuse.nucast.co.uk:8064/stream
+#EXTINF:-1 group-title="Community",Westside
+http://edge-audio-w2-01.sharp-stream.com:80/westside.mp3
+#EXTINF:-1 group-title="Community",Wey Valley Radio
+http://stream.weyvalleyradio.uk/stream.aac?ref=rf
+#EXTINF:-1 group-title="Community",Winchester Radio
+http://orion.shoutca.st:8090/stream
+#EXTINF:-1 group-title="Community",Wrexham City Radio
+http://uksoutha.streaming.broadcast.radio:23060/premier
+#EXTINF:-1 group-title="Community",WRFM
+http://stream.wrfm.co.uk:8000/witney2
+#EXTINF:-1 group-title="Community",Wycombe Sound
+http://chandra.shoutca.st:9771/stream
+#EXTINF:-1 group-title="Community",Wythenshawe FM
+http://streaming.broadcastradio.com:11920/wfmcr
+#EXTINF:-1 group-title="Community",YO1 Radio
+http://stream1.themediasite.co.uk:8026/stream
+#EXTINF:-1 group-title="Community",York Hospital Radio
+http://stream1.superstreaming.co.uk:4000/stream
+#EXTINF:-1 group-title="Community",Zetland FM
+http://s4.voscast.com:8288/
+
+# Fosse 107
+#EXTINF:-1 group-title="Fosse 107",Fosse 107 (Hinckley & Nuneaton)
+http://icecast.maxxwave.co.uk/fossehinckleyhq?ref=RF
+#EXTINF:-1 group-title="Fosse 107",Fosse 107 (Loughborough)
+http://icecast.maxxwave.co.uk/fosseloughbrohq?ref=RF
+
+# Fun Kids
+#EXTINF:-1 group-title="Fun Kids",Fun Kids
+http://listen-funkids.sharp-stream.com/funkids.mp3?platform=3p_agg_02
+#EXTINF:-1 group-title="Fun Kids",Fun Kids Junior
+http://listen-funkids.sharp-stream.com/funkidsjunior.mp3?platform=3p_agg_02
+#EXTINF:-1 group-title="Fun Kids",Fun Kids Junior Non-Stop
+http://n06-eu2.rcs.revma.com:80/ub88r7z3tm0uv
+#EXTINF:-1 group-title="Fun Kids",Fun Kids Naps
+http://n06-eu2.rcs.revma.com:80/pp2cg1z3tm0uv
+#EXTINF:-1 group-title="Fun Kids",Fun Kids Non-Stop
+http://n06-eu2.rcs.revma.com:80/5yg704z3tm0uv
+#EXTINF:-1 group-title="Fun Kids",Fun Kids Party
+http://n06-eu2.rcs.revma.com:80/0gpwvpz3tm0uv
+#EXTINF:-1 group-title="Fun Kids",Fun Kids Soundtracks
+http://n06-eu2.rcs.revma.com:80/x8wbda03tm0uv
+
+# Gaydio
+#EXTINF:-1 group-title="Gaydio",Gaydio (Birmingham)
+http://listen-gaydio.sharp-stream.com/467_gaydio_birmingham_320_mp3?ref=RF
+#EXTINF:-1 group-title="Gaydio",Gaydio (Brighton)
+http://listen-gaydio.sharp-stream.com/gaydioschq.mp3?ref=RF
+#EXTINF:-1 group-title="Gaydio",Gaydio (London)
+http://listen-gaydio.sharp-stream.com/472_gaydio_london_320_mp3?ref=RF
+#EXTINF:-1 group-title="Gaydio",Gaydio (Manchester)
+http://listen-gaydio.sharp-stream.com/gaydionwhq.mp3?ref=RF
+#EXTINF:-1 group-title="Gaydio",Gaydio (Scotland)
+http://listen-gaydio.sharp-stream.com/76_gaydio_scotland_320?ref=RF
+#EXTINF:-1 group-title="Gaydio",Gaydio (UK)
+http://listen-gaydio.sharp-stream.com/gaydioukhq.mp3?ref=RF
+
+# Independent and other
+#EXTINF:-1 group-title="Independent and other",107.8 Radio Jackie
+http://media.radiojackie.com:5873/;
+#EXTINF:-1 group-title="Independent and other",3FM (Isle of Man)
+http://n06-eu2.rcs.revma.com:80/0kv9v43t87zuv
+#EXTINF:-1 group-title="Independent and other",45 Radio
+http://stream3.themediasite.co.uk:8134/stream
+#EXTINF:-1 group-title="Independent and other",60 North Radio
+http://r5.zetcast.net/flac
+#EXTINF:-1 group-title="Independent and other",80s Rhythm
+http://stream.mybroadbandradio.com:80/80srhythmhq
+#EXTINF:-1 group-title="Independent and other",Actual Radio
+http://stream4.themediasite.co.uk:8114/stream
+#EXTINF:-1 group-title="Independent and other",Adventist Radio London
+http://213.177.248.80:8002/;
+#EXTINF:-1 group-title="Independent and other",All 80s Radio
+http://stream.wrfm.co.uk:8000/80
+#EXTINF:-1 group-title="Independent and other",All Hit Radio
+http://uksoutha.streaming.broadcast.radio:25360/all-hit-radio
+#EXTINF:-1 group-title="Independent and other",AltZone Radio
+http://s11.citrus3.com:8020/stream
+#EXTINF:-1 group-title="Independent and other",Ambition Radio
+http://s30.radiolize.com:8060/radio.mp3
+#EXTINF:-1 group-title="Independent and other",Angel Gold
+http://n06-eu2.rcs.revma.com:80/nk3dde6n6hcwv
+#EXTINF:-1 group-title="Independent and other",Argyll FM
+http://live.argyllfm.com/stream?ref=RF
+#EXTINF:-1 group-title="Independent and other",Asian Air Radio
+http://s2.citrus3.com:8282/stream
+#EXTINF:-1 group-title="Independent and other",Aspen Waite Radio
+http://listen-awaite.sharp-stream.com/aspenwaiteprem.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Athavan Radio
+http://stream.zeno.fm/fozhjn4gqwxtv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Atlantic 252
+http://stream3.themediasite.co.uk:8330/stream
+#EXTINF:-1 group-title="Independent and other",Atmosphere.Radio
+http://n06-eu2.rcs.revma.com:80/xak3ztpsk13vv
+#EXTINF:-1 group-title="Independent and other",Atomix Radio
+http://streaming.radio.co:80/s0c41ec4af/listen
+#EXTINF:-1 group-title="Independent and other",Bailiwick Radio
+http://stream.aiir.com/ogyopoc5aryuv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Barts Radio
+http://s1.autopo.st:8583/stream
+#EXTINF:-1 group-title="Independent and other",Bayside
+http://stream1.hippynet.co.uk:8167/stream
+#EXTINF:-1 group-title="Independent and other",BCR, Blackpool Community Radio
+http://s3.citrus3.com:8230/stream
+#EXTINF:-1 group-title="Independent and other",Best City Radio
+http://s6.autopo.st:8616/stream
+#EXTINF:-1 group-title="Independent and other",Beware! The Radio
+http://bewaretheradio.out.airtime.pro:8000/bewaretheradio_a
+#EXTINF:-1 group-title="Independent and other",Blast Xtra
+http://radiocentre.duckdns.org:8000/blastxtra
+#EXTINF:-1 group-title="Independent and other",Blue Sky Radio
+http://stream3.themediasite.co.uk:8180/stream
+#EXTINF:-1 group-title="Independent and other",Boom Light
+http://listen-boomradio.sharp-stream.com/65_boom_light_256_aac?ref=RF
+#EXTINF:-1 group-title="Independent and other",Boom Radio
+http://listen-boomradio.sharp-stream.com/65_boom_radio_live_256_aac?ref=RF
+#EXTINF:-1 group-title="Independent and other",Boomerang Radio
+http://listen.streamaudio.co:4105/stream
+#EXTINF:-1 group-title="Independent and other",Bournemouth One
+http://stream.aiir.com/nyf6ntgpkcfuv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Bridge FM Radio (Bridgend)
+http://listen-nation.sharp-stream.com/bridgefmdab.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",BRIDGEfm (Dundee)
+http://cstream.radiohost.co.uk:8000/bridgefm
+#EXTINF:-1 group-title="Independent and other",BritAsia Radio
+http://s4.radio.co:80/sfefce156f/listen
+#EXTINF:-1 group-title="Independent and other",Broadland
+http://arqiva-camelotfm-live-a.edge.audiocdn.com/10002_128mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Brooklands Radio
+http://stream4.hippynet.co.uk:8008/stream
+#EXTINF:-1 group-title="Independent and other",Bucks Radio
+http://n07.radiojar.com:80/f6mru9artg0uv
+#EXTINF:-1 group-title="Independent and other",Burnley College Radio
+http://stream.digilinkconnect.co.uk:8000/bcr
+#EXTINF:-1 group-title="Independent and other",Canny Radio
+http://vega.streamerr.co:8640/radio.mp3
+#EXTINF:-1 group-title="Independent and other",Central FM
+http://n06-eu2.rcs.revma.com:80/3p9gkcy5z72vv
+#EXTINF:-1 group-title="Independent and other",Central Radio (Lancashire)
+http://stream.central.radio:8000/high
+#EXTINF:-1 group-title="Independent and other",Centreforce
+http://centreforce.streamgb.com:8830/320
+#EXTINF:-1 group-title="Independent and other",Channel 103
+http://n06-eu2.rcs.revma.com:80/1b7wddebanzuv
+#EXTINF:-1 group-title="Independent and other",CHDAB UK
+http://s4.radio.co:80/s8c2ffcbda/listen
+#EXTINF:-1 group-title="Independent and other",Club Asia
+http://s3.citrus3.com:8320/stream
+#EXTINF:-1 group-title="Independent and other",Coastal Radio DAB
+http://ukwesta.streaming.broadcast.radio:16070/coastal
+#EXTINF:-1 group-title="Independent and other",CodeSouth
+http://source.clrmedia.co.uk:8000/cdsthbtn
+#EXTINF:-1 group-title="Independent and other",Colourful Radio
+http://edge-audio-w2-01.sharp-stream.com:80/colourfulhigh.mp3
+#EXTINF:-1 group-title="Independent and other",Congregation Room 22
+http://orbit.citrus3.com:8182/stream
+#EXTINF:-1 group-title="Independent and other",Cosoro Radio
+http://streamnode-one.airwaveos.com/cosoro-afrobeats-320
+#EXTINF:-1 group-title="Independent and other",CountryLine
+http://listen-chriscountry.sharp-stream.com/chriscountrydab.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",CPR North
+http://stream.shoutcastservices.com:8077/stream
+#EXTINF:-1 group-title="Independent and other",CPR UK (UK)
+http://listen.streamaudio.co:4174/stream
+#EXTINF:-1 group-title="Independent and other",Culture City Radio
+http://stream3.themediasite.co.uk:8272/stream
+#EXTINF:-1 group-title="Independent and other",Cyndicut Radio
+http://s6.autopo.st:8610/stream
+#EXTINF:-1 group-title="Independent and other",Dance Revolution
+http://s5.radio.co:80/s89dcf578d/listen?ref=RF
+#EXTINF:-1 group-title="Independent and other",DanceLand
+http://likeradiostream.com:80/danceland?ref=RF
+#EXTINF:-1 group-title="Independent and other",DanceLand Anthems
+http://likeradiostream.com:80/dancelandanthems?ref=RF
+#EXTINF:-1 group-title="Independent and other",Dee Radio
+http://listen-nation.sharp-stream.com/tcdee.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Delite Radio
+http://stream.deliteonline.com:48000/live320?ref=RF
+#EXTINF:-1 group-title="Independent and other",Derby ONE
+http://stream.aiir.com/qbgoiwyhsyquv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Devoncast Radio
+http://fast.citrus3.com:8484/stream
+#EXTINF:-1 group-title="Independent and other",Digital City Radio Beats
+http://a11.asurahosting.com:7900/radio.mp3
+#EXTINF:-1 group-title="Independent and other",Digital Soul Radio
+http://play.radioking.io/digitalsoulradio?ref=RF
+#EXTINF:-1 group-title="Independent and other",Divine Radio London
+http://orbit.citrus3.com:8036/stream
+#EXTINF:-1 group-title="Independent and other",Dragon Radio (North)
+http://listen-nation.sharp-stream.com/1199_dragon_north_wales_320_mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Dragon Radio (South)
+http://listen-nation.sharp-stream.com/dragonradio-dab.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Dune Radio
+http://stream.aiir.com/3phqulqckaguv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Durham OnAir
+http://stream3.themediasite.co.uk:8232/stream
+#EXTINF:-1 group-title="Independent and other",East London Radio
+http://188.165.215.64:8123/stream
+#EXTINF:-1 group-title="Independent and other",Edge 2
+http://stream.aiir.com/vps1vob4wpfvv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Edge 3
+http://stream.aiir.com/rhjjpgb4uwitv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Eirewave
+http://n06-eu2.rcs.revma.com:80/z0mfskucweuvv
+#EXTINF:-1 group-title="Independent and other",EKR
+http://ekr.digital:8600/stream
+#EXTINF:-1 group-title="Independent and other",EKR Gold
+http://ekr.digital:8300/stream
+#EXTINF:-1 group-title="Independent and other",Embrace
+http://stream.cotswoldgrp.com:8014/main
+#EXTINF:-1 group-title="Independent and other",Energy 106
+http://stream1.hippynet.co.uk:8189/Studio
+#EXTINF:-1 group-title="Independent and other",Energy FM (Isle of Man)
+http://ukwesta.streaming.broadcast.radio:15580/energyfm
+#EXTINF:-1 group-title="Independent and other",Energy Radio (London)
+http://lunar.citrus3.com:9038/stream
+#EXTINF:-1 group-title="Independent and other",Eruption Radio
+http://streaming04.liveboxstream.uk:8116/stream
+#EXTINF:-1 group-title="Independent and other",Essentials
+http://stream3.themediasite.co.uk:8322/stream
+#EXTINF:-1 group-title="Independent and other",EWTN
+http://ewtn-ice.streamguys1.com/sky-aac?ref=RF
+#EXTINF:-1 group-title="Independent and other",FG CHIC London
+http://n06-eu2.rcs.revma.com:80/8ha6164v5znwv
+#EXTINF:-1 group-title="Independent and other",Fix Radio
+http://n06-eu2.rcs.revma.com:80/pq7npt2nzbuvv
+#EXTINF:-1 group-title="Independent and other",FreshSoundz Radio
+http://solid48.streamupsolutions.com:8083/stream
+#EXTINF:-1 group-title="Independent and other",Frisk Radio (Lancashire)
+http://www.friskradio.com:8000/stream13
+#EXTINF:-1 group-title="Independent and other",Frisk Radio (North East)
+http://www.friskradio.com:8000/stream3
+#EXTINF:-1 group-title="Independent and other",Funky Corner Radio
+http://ais-sa2.cdnstream1.com/2447_192.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",GB Music Radio
+http://arqiva-camelotfm-live-a.edge.audiocdn.com/12400_c8dhoqubtai?ref=RF
+#EXTINF:-1 group-title="Independent and other",GenX Radio
 http://s2.radio.co:80/sf25229e16/listen
+#EXTINF:-1 group-title="Independent and other",Geronimo
+http://s20.reliastream.com:8204/stream
+#EXTINF:-1 group-title="Independent and other",Get Radio
+http://stream.getradio.co.uk:80/56
+#EXTINF:-1 group-title="Independent and other",Giant Radio
+http://icy.cloudrad.io/867dda2f?ref=RF
+#EXTINF:-1 group-title="Independent and other",GlitterBeam
+http://maggie.torontocast.com:9020/stream
+#EXTINF:-1 group-title="Independent and other",Glow Radio (Basingstoke)
+http://stream.cotswoldgrp.com:8008/glow-basingstoke
+#EXTINF:-1 group-title="Independent and other",GO Radio
+http://streaming.broadcastradio.com:8250/goradio
+#EXTINF:-1 group-title="Independent and other",Gold Radio
+http://icecast.thisisdax.com/GoldMP3
+#EXTINF:-1 group-title="Independent and other",Gorgeous
+http://listen-gorgeousfm.sharp-stream.com/45_gorgeous_fm_128_mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",GreekBeat Radio
+http://s2.voscast.com:9576/1/stream
+#EXTINF:-1 group-title="Independent and other",Gwent Radio
+http://stream4.themediasite.co.uk:8092/stream
+#EXTINF:-1 group-title="Independent and other",Hamdosana Radio
+http://stream3.themediasite.co.uk:8242/stream
+#EXTINF:-1 group-title="Independent and other",Hampshire Tourist Radio
+http://stream.touristradio.co.uk:8000/hampshire
+#EXTINF:-1 group-title="Independent and other",Happy Radio
+http://stream.aiir.com/yofqmvmgihuuv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Harrogate Hospital Radio
+http://uksoutha.streaming.broadcast.radio:26750/harrogatehospitalradio
+#EXTINF:-1 group-title="Independent and other",Hastings Rock
+http://cloud.hastingsrock.co.uk:8000/mp3
+#EXTINF:-1 group-title="Independent and other",Heartland Radio (Manchester)
+http://stream.aiir.com/yujjgsh97cptv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Hellas Radio UK
+http://hellasradio.ddns.net:6600/live
+#EXTINF:-1 group-title="Independent and other",Heritage Chart Radio
+http://s4.radio.co:80/sd5b175766/listen
+#EXTINF:-1 group-title="Independent and other",Hope FM (UK)
+http://radio.hopefm.org.uk:12364/live
+#EXTINF:-1 group-title="Independent and other",Hot Gold
+http://stream1.hippynet.co.uk:8111/dorset
+#EXTINF:-1 group-title="Independent and other",House Party Radio
+http://cloud.housepartyradio.net:8000/online.mp3
+#EXTINF:-1 group-title="Independent and other",Huddle Radio
+http://uksoutha.streaming.broadcast.radio:21741/huddle
+#EXTINF:-1 group-title="Independent and other",Illuminations Radio
+http://stream.aiir.com/0xy0rizrkqbtv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Imaan One
+http://streaming.radio.co:80/sdc1941ff2/listen
+#EXTINF:-1 group-title="Independent and other",Impact Digital Radio
+http://uk1.streamingpulse.com:7060/stream
+#EXTINF:-1 group-title="Independent and other",In Demand Decades
+http://icecast.indemandradio.com:8888/2A
+#EXTINF:-1 group-title="Independent and other",In Demand Radio
+http://icecast.indemandradio.com:8888/1A
+#EXTINF:-1 group-title="Independent and other",Island FM
+http://n04-eu1.rcs.revma.com:80/epatpyebanzuv
+#EXTINF:-1 group-title="Independent and other",Isle of Wight Radio
+http://arqiva-camelotfm-live-a.edge.audiocdn.com/12371_czox9d9rdtd?ref=RF
+#EXTINF:-1 group-title="Independent and other",Isle of Wight Tourist Radio
+http://stream.touristradio.co.uk:8000/iow
+#EXTINF:-1 group-title="Independent and other",Isles FM
+http://islesfm.reefnet.co.uk:8000/stream
+#EXTINF:-1 group-title="Independent and other",Juice (North West England)
+http://stream4.themediasite.co.uk:8292/stream
+#EXTINF:-1 group-title="Independent and other",KIC Radio
+http://stream.aiir.com/nbgvn4hgyrxuv?ref=RF
+#EXTINF:-1 group-title="Independent and other",KL1 Radio
+http://stream1.themediasite.co.uk:8006/stream
+#EXTINF:-1 group-title="Independent and other",Kool FM
+http://admin.stream.rinse.fm:8444/stream
+#EXTINF:-1 group-title="Independent and other",LASER558
+http://s1.autopo.st:8548/stream
+#EXTINF:-1 group-title="Independent and other",LGR, London Greek Radio
+http://live3.istoikona.net:8203/stream
+#EXTINF:-1 group-title="Independent and other",Liberty Radio
+http://streamer.radio.co:80/s86d13ba36/listen
+#EXTINF:-1 group-title="Independent and other",Like Radio
+http://likeradiostream.com:80/likeoneuk?ref=RF
+#EXTINF:-1 group-title="Independent and other",Lincs Sound
+http://stream.aiir.com/8dprqqdsdskuv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Liverpool Live
+http://stream.aiir.com/xbmvsamvpnluv?ref=RF
+#EXTINF:-1 group-title="Independent and other",LMR, London Music Radio
+http://stream.londonmusicradio.com:8000/listen
+#EXTINF:-1 group-title="Independent and other",London ONE radio
+http://london.meway.host:8032/stream
+#EXTINF:-1 group-title="Independent and other",Love 80s (Liverpool)
+http://stream3.themediasite.co.uk:8108/stream
+#EXTINF:-1 group-title="Independent and other",Love 80s (Manchester)
+http://stream1.themediasite.co.uk:8038/listen.pls?sid=1
+#EXTINF:-1 group-title="Independent and other",LoveLife Radio
+http://orbit.citrus3.com:8156/stream
+#EXTINF:-1 group-title="Independent and other",Luton Urban Radio
+http://pollux.shoutca.st:8031/stream
+#EXTINF:-1 group-title="Independent and other",Luv Radio
+http://uksoutha.streaming.broadcast.radio:18791/luv
+#EXTINF:-1 group-title="Independent and other",m4dRADIO
+http://s2.radio.co:80/s07cd038f1/listen
+#EXTINF:-1 group-title="Independent and other",Magna Mix
+http://listen-magna-dmin.sharp-stream.com/magna_mix_hi.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Magna Radio
+http://listen-magna-dmin.sharp-stream.com/magna_hi.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Majestic Jukebox Radio
+http://uk3.internet-radio.com:8405/live
+#EXTINF:-1 group-title="Independent and other",Mansfield Radio
+http://n05-eu2.rcs.revma.com:80/dnxt9hasz42vv
+#EXTINF:-1 group-title="Independent and other",Manx Radio (AM)
+http://listen-manxradio.sharp-stream.com/manxradioam.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Manx Radio (FM)
+http://listen-manxradio.sharp-stream.com/manxradiofm.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Marcher Vibe
+http://uksoutha.streaming.broadcast.radio:18321/marcher-vibe
+#EXTINF:-1 group-title="Independent and other",Max
+http://uksoutha.streaming.broadcast.radio:25500/max
+#EXTINF:-1 group-title="Independent and other",Mi-Soul
+http://listen-misoul.sharp-stream.com/462_mi_soul_320_mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Mission Radio
+http://betelgeuse.nucast.co.uk:8004/stream
+#EXTINF:-1 group-title="Independent and other",MIX 56
+http://n05-eu2.rcs.revma.com:80/6t2y9uw5q2uvv
+#EXTINF:-1 group-title="Independent and other",Mixtape Radio
+http://likeradiostream.com:80/likeretro?ref=RF
+#EXTINF:-1 group-title="Independent and other",Moorlands Radio (Staffordshire & Cheshire)
+http://eclipse.galaxywebsolutions.com:9018/DABStoke?ref=RF
+#EXTINF:-1 group-title="Independent and other",New Clear Radio
+http://live.ncradio.fm/320
+#EXTINF:-1 group-title="Independent and other",Nifty UK Radio
+http://source.clrmedia.co.uk:8000/niftyuk
+#EXTINF:-1 group-title="Independent and other",NonStopOldies
+http://ais-sa2.cdnstream1.com/2383_128.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Noods Radio
+http://noods-radio.radiocult.fm/stream?ref=RF
+#EXTINF:-1 group-title="Independent and other",North Derbyshire Radio
+http://s5.themediasite.co.uk:8050/stream
+#EXTINF:-1 group-title="Independent and other",North East Radio Scotland
+http://stream1.hippynet.co.uk:8055/stream
+#EXTINF:-1 group-title="Independent and other",Northern Powerhouse Radio
+http://direct.northernpowerhouseradio.co.uk:8000/radio.mp3
+#EXTINF:-1 group-title="Independent and other",Now Ayrshire Radio
+http://uksoutha.streaming.broadcast.radio:30590/NowAyrshireDAB
+#EXTINF:-1 group-title="Independent and other",Omega Radio
+http://ice23.securenetsystems.net:80/WOIB
+#EXTINF:-1 group-title="Independent and other",One World Radio
+http://n05-eu2.rcs.revma.com:80/n43bp6uppp3vv
+#EXTINF:-1 group-title="Independent and other",Panacea Soul
+http://stream.aiir.com/kqwcuxfxcwhtv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Panjab Radio
+http://lunar.citrus3.com:8016/stream
+#EXTINF:-1 group-title="Independent and other",Passion Radio
+http://stream.mybroadbandradio.com:80/passionradiohq
+#EXTINF:-1 group-title="Independent and other",Persian Mix Radio
+http://s4.radio.co:80/s94270680e/listen
+#EXTINF:-1 group-title="Independent and other",Point Blank Radio
+http://pointblankradio.co.uk/stream?ref=RF
+#EXTINF:-1 group-title="Independent and other",POP DAB
+http://likeradiostream.com:80/likepop?ref=RF
+#EXTINF:-1 group-title="Independent and other",Positive Radio
+http://eu1.reliastream.com:8003/stream
+#EXTINF:-1 group-title="Independent and other",PRL, Polskie Radio Londyn - Polish Radio London
+http://n05-eu2.rcs.revma.com:80/v61s40vqa78uv
+#EXTINF:-1 group-title="Independent and other",Pump Radio
+http://listen.pumpradio.net/stream
+#EXTINF:-1 group-title="Independent and other",Pure Dance
+http://n05-eu2.rcs.revma.com:80/53670r24eq3vv
+#EXTINF:-1 group-title="Independent and other",PURE FM
+http://artemis.streamerr.co:8130/radio.mp3
+#EXTINF:-1 group-title="Independent and other",Pure West Radio
+http://streaming.broadcastradio.com:8582/purewest
+#EXTINF:-1 group-title="Independent and other",Radio Africana
+http://kepler.shoutca.st:8201/stream
+#EXTINF:-1 group-title="Independent and other",Radio Bath
+http://stream.aiir.com/rilkzkwyuuhvv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Radio Broadstairs
+http://s19.myradiostream.com:3684/;
+#EXTINF:-1 group-title="Independent and other",Radio Burnley
+http://ukwesta.streaming.broadcast.radio:20050/radioburnley
+#EXTINF:-1 group-title="Independent and other",Radio Carmarthenshire
+http://listen-nation.sharp-stream.com/nationcarmarthenshiredab.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Radio Central 24
+http://philae.shoutca.st:8459/stream
+#EXTINF:-1 group-title="Independent and other",Radio DGH
+http://media.radiodgh.com:8443/stream
+#EXTINF:-1 group-title="Independent and other",Radio Essex (DAB)
+http://stream.aiir.com/ujzy590c3stvv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Radio Exe (Exeter)
+http://n05-eu2.rcs.revma.com:80/rkefvzqakm3vv
+#EXTINF:-1 group-title="Independent and other",Radio Exe (Plymouth)
+http://n05-eu2.rcs.revma.com:80/n79dch2th13vv
+#EXTINF:-1 group-title="Independent and other",Radio Maria (UK)
+http://dreamsiteradiocp5.com:8094/stream
+#EXTINF:-1 group-title="Independent and other",Radio Matryoshka
+http://213.159.214.57:8000/matryoshka
+#EXTINF:-1 group-title="Independent and other",Radio North Angus
+http://uk3-vn.mixstream.net:8192/;
+#EXTINF:-1 group-title="Independent and other",Radio Pembrokeshire
+http://listen-nation.sharp-stream.com/nationpembrokeshiredab.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Radio Skye
+http://uksoutha.streaming.broadcast.radio:23251/radioskye
+#EXTINF:-1 group-title="Independent and other",Radio Victory
+http://stream3.themediasite.co.uk:8380/stream
+#EXTINF:-1 group-title="Independent and other",Radio West Norfolk
+http://radioradio.ddns.net:8000/RWN
+#EXTINF:-1 group-title="Independent and other",Radio Wester Ross
+http://n05-eu2.rcs.revma.com:80/96z3d1qs5bcwv
+#EXTINF:-1 group-title="Independent and other",Radio Wigwam
+http://uksoutha.streaming.broadcast.radio:15901/radio-wigwam
+#EXTINF:-1 group-title="Independent and other",Radio XL
+http://xlradio.co.uk:8000/;
+#EXTINF:-1 group-title="Independent and other",Radio Xtra
+http://stream3.themediasite.co.uk:8430/stream
+#EXTINF:-1 group-title="Independent and other",Red Rose Radio
+http://stream3.themediasite.co.uk:8266/stream
+#EXTINF:-1 group-title="Independent and other",Regency Radio
+http://stream.regencyradio.co.uk:8480/dab
+#EXTINF:-1 group-title="Independent and other",Resonance Extra
+http://stream.resonance.fm:80/resonance-extra
+#EXTINF:-1 group-title="Independent and other",Retro Music Radio
+http://stream.radiostudio24.com:8060/radio.mp3
+#EXTINF:-1 group-title="Independent and other",Revolution Radio
+http://streaming.soniic.co.uk:8000/stream_hi
+#EXTINF:-1 group-title="Independent and other",Rewind Radio (Cornwall)
+http://n05-eu2.rcs.revma.com:80/zknvxxetem3vv
+#EXTINF:-1 group-title="Independent and other",Rewind Radio Retro
+http://n05-eu2.rcs.revma.com:80/hbu5mef0xmpwv
+#EXTINF:-1 group-title="Independent and other",Rock.Scot
+http://uksoutha.streaming.broadcast.radio:16641/caledonia-tx-ltd
+#EXTINF:-1 group-title="Independent and other",Rother Radio (Doncaster & Thorne)
+http://streaming06.liveboxstream.uk:8008/stream
+#EXTINF:-1 group-title="Independent and other",Sabras Radio
+http://radio.canstream.co.uk:8025/live.mp3
+#EXTINF:-1 group-title="Independent and other",Salisbury Radio
+http://n05-eu2.rcs.revma.com:80/qfdyh58ed52vv
+#EXTINF:-1 group-title="Independent and other",Sami Swoi Radio
+http://s2.radio.co:80/s0dc6b5c9b/listen
+#EXTINF:-1 group-title="Independent and other",Sanskar Radio
+http://radio.canstream.co.uk:8024/live.mp3
+#EXTINF:-1 group-title="Independent and other",Satsang Radio
+http://icecast.maxxwave.co.uk/satsang?ref=RF
+#EXTINF:-1 group-title="Independent and other",Shine 879
+http://s3.radio.co:80/sd4abfe69e/listen
+#EXTINF:-1 group-title="Independent and other",Shore Radio
+http://streamz.anytek.co.uk:9800/live
+#EXTINF:-1 group-title="Independent and other",SIBC
+http://tx9.zetcast.net:8100/stream?ref=RF
+#EXTINF:-1 group-title="Independent and other",Signature Radio
+http://centova87.shoutcastservices.com:8282/stream
+#EXTINF:-1 group-title="Independent and other",Sikh Radio UK
+http://s1.autopo.st:8577/stream
+#EXTINF:-1 group-title="Independent and other",Silk Radio
+http://listen-nation.sharp-stream.com/tcsilk.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Skylab Radio
+http://n05-eu2.rcs.revma.com:80/7vs4sr22w3bwv
+#EXTINF:-1 group-title="Independent and other",Slim Radio
+http://uksoutha.streaming.broadcast.radio:18241/slimradio_graa8
+#EXTINF:-1 group-title="Independent and other",Soho Radio
+http://sohoradiomusic.doughunt.co.uk:8000/320mp3
+#EXTINF:-1 group-title="Independent and other",Solar Radio
+http://listen-msmn.sharp-stream.com/solarhigh.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Soleil Radio
+http://n05-eu2.rcs.revma.com:80/sa3ccwa9yy8uv
+#EXTINF:-1 group-title="Independent and other",Somer Valley FM Rugby Commentary
+http://stream4.hippynet.co.uk:8014/tx2
+#EXTINF:-1 group-title="Independent and other",Sout Al Khaleej
+http://edge-audio-w2-01.sharp-stream.com:80/spectrum4.mp3
+#EXTINF:-1 group-title="Independent and other",South Yorkshire Radio
+http://stream1.themediasite.co.uk:8008/stream
+#EXTINF:-1 group-title="Independent and other",Southdown Radio
+http://stream.aiir.com/rytvcrptvoxtv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Spice Digital
+http://a8.asurahosting.com:7000/radio.mp3
+#EXTINF:-1 group-title="Independent and other",Starpoint Radio
+http://stream2.hippynet.co.uk:8084/stream.mp3
+#EXTINF:-1 group-title="Independent and other",Steel FM
+http://stream3.themediasite.co.uk:8018/stream
+#EXTINF:-1 group-title="Independent and other",Subjam
+http://s11.citrus3.com:8062/stream
+#EXTINF:-1 group-title="Independent and other",Sugar Kayne Radio
+http://uksoutha.streaming.broadcast.radio:28810/sugarkayneradio
+#EXTINF:-1 group-title="Independent and other",Sunnyside Gold
+http://s6.autopo.st:8750/1
+#EXTINF:-1 group-title="Independent and other",Swansea Bay Radio
+http://listen-nation.sharp-stream.com/swanseabay.mp3?ref=RF
+#EXTINF:-1 group-title="Independent and other",Swinging Radio 60s
+http://n05-eu2.rcs.revma.com:80/ba4z4acw5znwv
+#EXTINF:-1 group-title="Independent and other",SWU.FM
+http://admin.stream.rinse.fm:8480/stream
+#EXTINF:-1 group-title="Independent and other",TCMR
+http://stream4.themediasite.co.uk:8236/stream
+#EXTINF:-1 group-title="Independent and other",TFS Radio
+http://uksoutha.streaming.broadcast.radio:11490/tfsradio
+#EXTINF:-1 group-title="Independent and other",The Amp
+http://likeradiostream.com:80/likealt?ref=RF
+#EXTINF:-1 group-title="Independent and other",The Buzz (Manchester)
+http://streaming05.liveboxstream.uk:8001/stream
+#EXTINF:-1 group-title="Independent and other",The Flash
+http://studio.theflashonair.co.uk:8000/1.mp3
+#EXTINF:-1 group-title="Independent and other",The Groove (UK)
+http://uk7.internet-radio.com:8352/stream
+#EXTINF:-1 group-title="Independent and other",The Groove (Walsall)
+http://n05-eu2.rcs.revma.com:80/mgfs2u49z5nwv
+#EXTINF:-1 group-title="Independent and other",The New Horizon Radio (Bedford)
+http://streaming.soniic.co.uk:8030/stream_hi
+#EXTINF:-1 group-title="Independent and other",The Red
+http://hydra.shoutca.st:8223/stream
+#EXTINF:-1 group-title="Independent and other",The Rock Service
+http://therockservice.servebeer.com:7993/
+#EXTINF:-1 group-title="Independent and other",The VIP Lounge
+http://solid24.streamupsolutions.com:8061/stream
+#EXTINF:-1 group-title="Independent and other",The Voice 2
+http://icecast3.rosisystems.com:8000/v2
+#EXTINF:-1 group-title="Independent and other",The Voice Of Doom
+http://eclipse.galaxywebsolutions.com:9046/stream?ref=RF
+#EXTINF:-1 group-title="Independent and other",This is the Coast
+http://streaming.broadcastradio.com:10840/thisisthecoastdab
+#EXTINF:-1 group-title="Independent and other",Together Radio
+http://opportunity.shoutca.st:8068/stream
+#EXTINF:-1 group-title="Independent and other",Top Rizz Radio
+http://s3.radio.co:80/s143113707/listen
+#EXTINF:-1 group-title="Independent and other",Track Radio
+http://n04-eu2.rcs.revma.com:80/dd8zb7wns2nwv
+#EXTINF:-1 group-title="Independent and other",TTNS
+http://edge-audio-w2-01.sharp-stream.com:80/ttns-brighton.mp3
+#EXTINF:-1 group-title="Independent and other",U105
+http://onic.belfast.live.stream.broadcasting.news/stream-u105?ref=RF
+#EXTINF:-1 group-title="Independent and other",UCB 1
+http://edge-audio-w2-01.sharp-stream.com:80/55_ucb_1_128_mp3
+#EXTINF:-1 group-title="Independent and other",UCB 2
+http://edge-audio-w2-01.sharp-stream.com:80/55_ucb_2_128_mp3
+#EXTINF:-1 group-title="Independent and other",URF, University Radio Falmer
+http://edge-audio-w2-01.sharp-stream.com:80/urfonline.mp3
+#EXTINF:-1 group-title="Independent and other",UWS Radio
+http://live.canstream.co.uk:8000/ucaradio.mp3
+#EXTINF:-1 group-title="Independent and other",V2 Radio
+http://stream.v2radio.co.uk:80/V2RadioDAB
+#EXTINF:-1 group-title="Independent and other",Voice of Islam
+http://s6.voscast.com:9980/stream
+#EXTINF:-1 group-title="Independent and other",WaveUp Radio
+http://waveupradio.out.airtime.pro:8000/waveupradio_a
+#EXTINF:-1 group-title="Independent and other",Wild Country
+http://wildcountry.ie:8000/dab
+#EXTINF:-1 group-title="Independent and other",Windrush Radio
+http://s30.myradiostream.com:29210/stream
+#EXTINF:-1 group-title="Independent and other",Wyvern Timeless Classics
+http://stream.aiir.com/4nrmrub7cznvv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Xenon Radio
+http://uksoutha.streaming.broadcast.radio:21491/xenon-radio
+#EXTINF:-1 group-title="Independent and other",xRhythms
+http://edge-audio-w2-01.sharp-stream.com:80/xrhythms.mp3
+#EXTINF:-1 group-title="Independent and other",YorkMix Radio
+http://stream2.hippynet.co.uk:8021/stream
+#EXTINF:-1 group-title="Independent and other",Your FM (Stockport)
+http://195.72.55.45:8000/stockportdab
+#EXTINF:-1 group-title="Independent and other",Your Harrogate
+http://stream.aiir.com/gxs0oxyllbqtv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Your Ilkley
+http://stream.aiir.com/hn4i1a30o0cvv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Your Skipton
+http://stream.aiir.com/wfttjcesvynuv?ref=RF
+#EXTINF:-1 group-title="Independent and other",Zest (Liverpool)
+http://n08-eu2.rcs.revma.com:80/71d8zn0s8guvv
+
+# kmfm
+#EXTINF:-1 group-title="kmfm",kmfm (Ashford)
+http://listen-kmfm.sharp-stream.com/kmfmashford.mp3?ref=RF
+#EXTINF:-1 group-title="kmfm",kmfm (Canterbury, Whitstable & Herne Bay)
+http://listen-kmfm.sharp-stream.com/kmfmcanterbury.mp3?ref=RF
+#EXTINF:-1 group-title="kmfm",kmfm (Maidstone)
+http://listen-kmfm.sharp-stream.com/kmfmmaidstone.mp3?ref=RF
+#EXTINF:-1 group-title="kmfm",kmfm (Medway)
+http://listen-kmfm.sharp-stream.com/kmfmmedway.mp3?ref=RF
+#EXTINF:-1 group-title="kmfm",kmfm (Shepway & White Cliffs Country)
+http://listen-kmfm.sharp-stream.com/kmfmdoverfolkestone.mp3?ref=RF
+#EXTINF:-1 group-title="kmfm",kmfm (Thanet)
+http://listen-kmfm.sharp-stream.com/kmfmthanet.mp3?ref=RF
+#EXTINF:-1 group-title="kmfm",kmfm (West Kent)
+http://listen-kmfm.sharp-stream.com/kmfmwestkent.mp3?ref=RF
+
+# LBC
+#EXTINF:-1 group-title="LBC",LBC (London)
+http://icecast.thisisdax.com/LBCLondon
+#EXTINF:-1 group-title="LBC",LBC News (London)
+http://icecast.thisisdax.com/LBCNewsLondon
+#EXTINF:-1 group-title="LBC",LBC News UK
+https://media-ssl.musicradio.com/LBCNewsUK
+#EXTINF:-1 group-title="LBC",LBC UK
+http://media-ice.musicradio.com/LBCUKMP3Low
+
+# Linn
+#EXTINF:-1 group-title="Linn",Linn Radio
+http://radio.linn.co.uk:8003/stream
+
+# Lyca
+#EXTINF:-1 group-title="Lyca",Lyca Gold
+http://listen-lycaradio.sharp-stream.com/1035.mp3?ref=RF
+#EXTINF:-1 group-title="Lyca",Lyca Radio (Greater Manchester)
+http://listen-lycaradio.sharp-stream.com/802_asian_sound_radio_192_mp3?ref=RF
+#EXTINF:-1 group-title="Lyca",Lyca Radio (London)
+http://listen-lycaradio.sharp-stream.com/1458.mp3?ref=RF
+#EXTINF:-1 group-title="Lyca",Lyca Radio (Midlands)
+http://listen-lycaradio.sharp-stream.com/831_lyca_radio_leicester_192_mp3?ref=RF
+
+# More Radio
+#EXTINF:-1 group-title="More Radio",More Radio (Eastbourne)
+http://s3.xrad.io:8190/stream
+#EXTINF:-1 group-title="More Radio",More Radio (Hastings)
+http://s3.xrad.io:8192/stream
+#EXTINF:-1 group-title="More Radio",More Radio (Mid Sussex)
+http://s3.xrad.io:8194/stream
+#EXTINF:-1 group-title="More Radio",More Radio (Sussex)
+http://arqiva-camelotfm-live-a.edge.audiocdn.com/12361_cb8btik5s7g?ref=RF
+#EXTINF:-1 group-title="More Radio",More Radio (Worthing)
+http://s3.xrad.io:8196/stream
+
+# News and talk
+#EXTINF:-1 group-title="News and talk",Bloomberg Radio (UK)
+http://bloomberg-live-prod-us-east-1.s3.amazonaws.com/rad/Channel-RAD-AWS-virginia-1/Source-RadUK-96-1_live.m3u8
+#EXTINF:-1 group-title="News and talk",GB News
+http://listen-gbnews.sharp-stream.com/gbnews.mp3
+#EXTINF:-1 group-title="News and talk",Monocle Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONOCLE_24.mp3
+#EXTINF:-1 group-title="News and talk",News Radio UK
+http://stream.aiir.com/clcb6m0k9shvv?ref=RF
+#EXTINF:-1 group-title="News and talk",Newstalk
+https://edge.audioxi.com/NT
+#EXTINF:-1 group-title="News and talk",Sky News
+https://tunein.cdnstream1.com/3688_96_nn.mp3
+#EXTINF:-1 group-title="News and talk",Sky News Radio
+https://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:-1 group-title="News and talk",Talk Radio
+https://radio.talkradio.co.uk/stream
+#EXTINF:-1 group-title="News and talk",Talk Sport 1
+https://radio.talksport.com/stream
+#EXTINF:-1 group-title="News and talk",Talk Sport 2
+https://radio.talksport.com/stream2
+#EXTINF:-1 group-title="News and talk",Times Radio
+https://timesradio.wireless.radio/stream
+
+# NME
+#EXTINF:-1 group-title="NME",NME 1
+http://listen-nme.sharp-stream.com/nme1high.mp3
+#EXTINF:-1 group-title="NME",NME 2
+http://listen-nme.sharp-stream.com/nme2high.mp3
+
+# Original 106
+#EXTINF:-1 group-title="Original 106",Original 106 (Aberdeen & Peterhead)
+http://listen-original.sharp-stream.com/original106.mp3?ref=RF
+#EXTINF:-1 group-title="Original 106",Original 106 (Fife)
+http://listen-kingdomfm.sharp-stream.com/kingdomfm.mp3?ref=RF
+#EXTINF:-1 group-title="Original 106",Original 106 (Tayside)
+http://listen-pureradio.sharp-stream.com/145_pure_radio_tayside_128_mp3?ref=RF
+#EXTINF:-1 group-title="Original 106",Original 106 Gold
+http://listen-original.sharp-stream.com/originalgold.mp3?ref=RF
+
+# Outreach
+#EXTINF:-1 group-title="Outreach",Outreach Classical
+http://live.ukrp.tv:11270/outreachclassical.mp3
+#EXTINF:-1 group-title="Outreach",Outreach Dance
+http://live.ukrp.tv:11170/outreachdance.mp3
+#EXTINF:-1 group-title="Outreach",Outreach Gold
+http://live.ukrp.tv:11370/outreachgold.mp3
+#EXTINF:-1 group-title="Outreach",Outreach Radio
+http://live.ukrp.tv:11070/outreachradio.mp3
+
+# Premier
+#EXTINF:-1 group-title="Premier",Premier Christian Radio (London)
+http://pcr.streamguys1.com/pcrlondon-96k.aac
+#EXTINF:-1 group-title="Premier",Premier Christian Radio (UK)
+http://pcr.streamguys1.com/pcrnational-96k.aac
+#EXTINF:-1 group-title="Premier",Premier Gospel
+http://pcr.streamguys1.com/pgospel-96k.aac
+#EXTINF:-1 group-title="Premier",Premier Praise
+http://pcr.streamguys1.com/ppraise-96k.aac
+
+# Q Radio
+#EXTINF:-1 group-title="Q Radio",Q Radio (Ballymena)
+http://edge-audio-w2-01.sharp-stream.com:80/qr1070.mp3
+#EXTINF:-1 group-title="Q Radio",Q Radio (Belfast)
+http://edge-audio-w2-01.sharp-stream.com:80/qr967.mp3
+#EXTINF:-1 group-title="Q Radio",Q Radio (Coleraine)
+http://edge-audio-w2-01.sharp-stream.com:80/qr972.mp3
+#EXTINF:-1 group-title="Q Radio",Q Radio (Londonderry)
+http://edge-audio-w2-01.sharp-stream.com:80/qr1029.mp3
+#EXTINF:-1 group-title="Q Radio",Q Radio (Mid-Ulster)
+http://edge-audio-w2-01.sharp-stream.com:80/qr1060.mp3
+#EXTINF:-1 group-title="Q Radio",Q Radio (Newry & Mourne)
+http://edge-audio-w2-01.sharp-stream.com:80/qr1005.mp3
+#EXTINF:-1 group-title="Q Radio",Q Radio (Omagh & Enniskillen)
+http://edge-audio-w2-01.sharp-stream.com:80/qr1012.mp3
+
+# Radio Caroline
+#EXTINF:-1 group-title="Radio Caroline",Radio Caroline
+http://78.129.202.200:8030/;
+#EXTINF:-1 group-title="Radio Caroline",Radio Caroline Flashback
+http://sc2.radiocaroline.net:10558/;
+
+# Radio X
+#EXTINF:-1 group-title="Radio X",Radio X (London)
+http://icecast.thisisdax.com/RadioXLondonMP3
+#EXTINF:-1 group-title="Radio X",Radio X (Manchester)
+http://icecast.thisisdax.com/RadioXManchesterMP3
+#EXTINF:-1 group-title="Radio X",Radio X (UK)
+http://icecast.thisisdax.com/RadioXUKMP3
+#EXTINF:-1 group-title="Radio X",Radio X 00s
+http://media-ice.musicradio.com/RadioX00sMP3
+#EXTINF:-1 group-title="Radio X",Radio X 90s (Manchester)
+http://icecast.thisisdax.com/RadioX90sManchesterMP3
+#EXTINF:-1 group-title="Radio X",Radio X 90s (UK)
+http://media-ice.musicradio.com/RadioX90sMP3
+#EXTINF:-1 group-title="Radio X",Radio X Chilled
+http://media-ice.musicradio.com/RadioXChilledMP3
+#EXTINF:-1 group-title="Radio X",Radio X Classic Rock
+http://media-ice.musicradio.com/RadioXClassicRockMP3
+
+# STV Radio
+#EXTINF:-1 group-title="STV Radio",STV Radio (Ayrshire & North of Scotland)
+http://stv-dsharp.sharp-stream.com/stv_high.mp3?ref=RF
+#EXTINF:-1 group-title="STV Radio",STV Radio (Central Scotland)
+http://stv-dsharp.sharp-stream.com/stv_central.aac?ref=RF
+#EXTINF:-1 group-title="STV Radio",STV Radio (North East Scotland)
+http://stv-dsharp.sharp-stream.com/stv_aberdeen.aac?ref=RF
+#EXTINF:-1 group-title="STV Radio",STV Radio (Tayside)
+http://stv-dsharp.sharp-stream.com/stv_dundee.aac?ref=RF
+
+# Sunrise
+#EXTINF:-1 group-title="Sunrise",Sunrise Hits
+http://listen-sunriseradio.sharp-stream.com/529_sunrise_smooth_128_mp3?ref=RF
+#EXTINF:-1 group-title="Sunrise",Sunrise Radio (London)
+http://listen-sunriseradio.sharp-stream.com/sunriseradio.mp3?ref=RF
+#EXTINF:-1 group-title="Sunrise",Sunrise Radio (UK)
+http://listen-sunriseradio.sharp-stream.com/sunriseradioalexa.mp3?ref=RF
+#EXTINF:-1 group-title="Sunrise",Sunrise Radio (Yorkshire)
+http://stream1.themediasite.co.uk:8070/stream
+#EXTINF:-1 group-title="Sunrise",Sunrise Radio Gold
+http://streaming.radio.co:80/s6a51b5927/listen
+#EXTINF:-1 group-title="Sunrise",Sunrise Retro
+http://listen-sunriseradio.sharp-stream.com/1014_sunrise_retro_128_mp3?ref=RF
+
+# Sunshine
+#EXTINF:-1 group-title="Sunshine",Sunshine (Northern Ireland DAB)
+http://195.72.55.45:8000/sundigi
+#EXTINF:-1 group-title="Sunshine",Sunshine 1049
+http://195.72.55.45:8000/sunshine
+#EXTINF:-1 group-title="Sunshine",Sunshine Radio (Herefordshire)
+http://icecast.easystream.co.uk:8000/herefordFM
+#EXTINF:-1 group-title="Sunshine",Sunshine Radio (Monmouthshire)
+http://icecast.easystream.co.uk:8000/monmouth
+#EXTINF:-1 group-title="Sunshine",Sunshine Radio (Shropshire)
+http://icecast.easystream.co.uk:8000/sunshine855
+
+# Virgin Radio
+#EXTINF:-1 group-title="Virgin Radio",Virgin Radio
+http://virgin.live.stream.broadcasting.news/stream?ref=RF
+#EXTINF:-1 group-title="Virgin Radio",Virgin Radio 80s
+http://virgin.live.stream.broadcasting.news/stream-80s?ref=RF
+#EXTINF:-1 group-title="Virgin Radio",Virgin Radio 90s
+http://virgin.live.stream.broadcasting.news/stream-90s?ref=RF
+#EXTINF:-1 group-title="Virgin Radio",Virgin Radio Chilled
+http://virgin.live.stream.broadcasting.news/stream-chilled?ref=RF
+#EXTINF:-1 group-title="Virgin Radio",Virgin Radio Christmas
+http://virgin.live.stream.broadcasting.news/stream-popup?ref=RF
+#EXTINF:-1 group-title="Virgin Radio",Virgin Radio Legends
+http://virgin.live.stream.broadcasting.news/stream-legends?ref=RF
