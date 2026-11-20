@@ -50,9 +50,9 @@ https://allzic13.ice.infomaniak.ch/allzic13.mp3
 #EXTINF:-1 group-title="Allzic",Allzic Radio Rock
 https://allzic17.ice.infomaniak.ch/allzic17.mp3
 #EXTINF:-1 group-title="BFM",BFM Business
-http://audio.bfmtv.com/bfmbusiness_128.mp3
+https://bfmreg.hostingradio.ru/kz.bfm128.mp3
 #EXTINF:-1 group-title="BFM",BFM Radio
-https://audio.bfmtv.com/bfmradio_128.mp3
+https://stream.bfmradio.us/stream128/
 #EXTINF:-1 group-title="Chante France",Chante France
 http://stream.chantefrance.com/Chante_France
 #EXTINF:-1 group-title="Chante France",Chante France Emotion
@@ -94,7 +94,7 @@ http://europe2.lmn.fm/europe2.mp3
 #EXTINF:-1 group-title="Europe 1",Europe 2 Hits
 https://europe2.lmn.fm/vr-wr4.mp3
 #EXTINF:-1 group-title="Europe 1",Europe 2 Pays de la Loire
-https://europe2.lmn.fm/europe2-44000/playlist.m3u8
+https://europe2.lmn.fm/europe2.aac
 #EXTINF:-1 group-title="Europe 1",Europe 2 Classics
 https://europe2.lmn.fm/vr-wr2.mp3
 #EXTINF:-1 group-title="Europe 1",Europe 2 New
@@ -124,95 +124,95 @@ https://icecast.radiofrance.fr/fipmetal-hifi.aac
 #EXTINF:-1 group-title="FIP",FIP Sacré français !
 https://icecast.radiofrance.fr/fipsacrefrancais-hifi.aac
 #EXTINF:-1 group-title="Ici",Ici Alsace
-https://stream.radiofrance.fr/fbalsace/fbalsace.m3u8
+http://direct.francebleu.fr/live/fbalsace-midfi.mp3
 #EXTINF:-1 group-title="Ici",Ici Armorique
-https://stream.radiofrance.fr/fbarmorique/fbarmorique.m3u8
+https://icecast.radiofrance.fr/fbarmorique-midfi.mp3
 #EXTINF:-1 group-title="Ici",Ici Auxerre
-https://stream.radiofrance.fr/fbauxerre/fbauxerre.m3u8
+https://icecast.radiofrance.fr/fbauxerre-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Azur
-https://stream.radiofrance.fr/fbazur/fbazur.m3u8
+https://icecast.radiofrance.fr/fbazur-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Basse Normandy
 https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie.m3u8
 #EXTINF:-1 group-title="Ici",Ici Béarn
-https://stream.radiofrance.fr/fbbearn/fbbearn.m3u8
+https://icecast.radiofrance.fr/fbbearn-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Belfort-Montbéliard
-https://stream.radiofrance.fr/fbbelfort/fbbelfort.m3u8
+https://icecast.radiofrance.fr/fbbelfort-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Berry
-https://stream.radiofrance.fr/fbberry/fbberry.m3u8
+https://icecast.radiofrance.fr/fbberry-midfi.mp3
 #EXTINF:-1 group-title="Ici",Ici Besançon
-https://stream.radiofrance.fr/fbbesancon/fbbesancon.m3u8
+https://icecast.radiofrance.fr/fbbesancon-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Bourgogne
-https://stream.radiofrance.fr/fbbourgogne/fbbourgogne.m3u8
+https://icecast.radiofrance.fr/fbbourgogne-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Breiz Izel
-https://stream.radiofrance.fr/fbbreizizel/fbbreizizel.m3u8
+https://icecast.radiofrance.fr/fbbreizizel-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Champagne Ardenne
-https://stream.radiofrance.fr/fbchampagne/fbchampagne.m3u8
+http://reims.ice.infomaniak.ch/reims-64.aac
 #EXTINF:-1 group-title="Ici",Ici Cotentin
-https://stream.radiofrance.fr/fbcotentin/fbcotentin.m3u8
+https://icecast.radiofrance.fr/fbcotentin-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Creuse
-https://stream.radiofrance.fr/fbcreuse/fbcreuse.m3u8
+https://icecast.radiofrance.fr/fbcreuse-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Drome Ardeche
-https://stream.radiofrance.fr/fbdromeardeche/fbdromeardeche.m3u8
+https://icecast.radiofrance.fr/fbdromeardeche-midfi.mp3
 #EXTINF:-1 group-title="Ici",Ici Elsass
-https://stream.radiofrance.fr/fbelsass/fbelsass.m3u8
+http://direct.francebleu.fr/live/Fbelsass-midfi.mp3
 #EXTINF:-1 group-title="Ici",Ici Gard Lozère
-https://stream.radiofrance.fr/fbgardlozere/fbgardlozere.m3u8
+https://icecast.radiofrance.fr/fbgardlozere-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Gascogne
-https://stream.radiofrance.fr/fbgascogne/fbgascogne.m3u8
+https://icecast.radiofrance.fr/fbgascogne-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Gironde
-https://stream.radiofrance.fr/fbgironde/fbgironde.m3u8
+https://icecast.radiofrance.fr/fbgironde-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Haute normandy
 https://stream.radiofrance.fr/fbhautenormandie/fbhautenormandie.m3u8
 #EXTINF:-1 group-title="Ici",Ici Herault
-https://stream.radiofrance.fr/fbherault/fbherault.m3u8
+https://icecast.radiofrance.fr/fbherault-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Isère
-https://stream.radiofrance.fr/fbisere/fbisere.m3u8
+https://icecast.radiofrance.fr/fbisere-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici La Rochelle
-https://stream.radiofrance.fr/fblarochelle/fblarochelle.m3u8
+https://icecast.radiofrance.fr/fblarochelle-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Limousin
-https://stream.radiofrance.fr/fblimousin/fblimousin.m3u8
+https://icecast.radiofrance.fr/fblimousin-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Loire Océan
-https://stream.radiofrance.fr/fbloireocean/fbloireocean.m3u8
+http://213.175.217.198:8000/sligo
 #EXTINF:-1 group-title="Ici",Ici Lorraine Nord
-https://stream.radiofrance.fr/fblorrainenord/fblorrainenord.m3u8
+https://icecast.radiofrance.fr/fblorrainenord-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Maine
-https://stream.radiofrance.fr/fbmaine/fbmaine.m3u8
+https://icecast.radiofrance.fr/fbmaine-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Mayenne
-https://stream.radiofrance.fr/fbmayenne/fbmayenne.m3u8
+https://icecast.radiofrance.fr/fbmayenne-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Nord
-https://stream.radiofrance.fr/fbnord/fbnord.m3u8
+https://icecast.radiofrance.fr/fbnord-midfi.mp3
 #EXTINF:-1 group-title="Ici",Ici Occitanie
-https://stream.radiofrance.fr/fbtoulouse/fbtoulouse.m3u8
+https://icecast.radiofrance.fr/fbtoulouse-midfi.mp3
 #EXTINF:-1 group-title="Ici",Ici Orléans
-https://stream.radiofrance.fr/fborleans/fborleans.m3u8
+https://icecast.radiofrance.fr/fborleans-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Paris
-https://stream.radiofrance.fr/fb1071/fb1071.m3u8
+https://icecast.radiofrance.fr/fb1071-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Pays Basque
-https://stream.radiofrance.fr/fbpaysbasque/fbpaysbasque.m3u8
+https://icecast.radiofrance.fr/fbpaysbasque-midfi.mp3
 #EXTINF:-1 group-title="Ici",Ici Pays De Savoie
-https://stream.radiofrance.fr/fbpaysdesavoie/fbpaysdesavoie.m3u8
+https://icecast.radiofrance.fr/fbpaysdesavoie-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Perigord
-https://stream.radiofrance.fr/fbperigord/fbperigord.m3u8
+https://icecast.radiofrance.fr/fbperigord-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Picardie
-https://stream.radiofrance.fr/fbpicardie/fbpicardie.m3u8
+https://icecast.radiofrance.fr/fbpicardie-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Poitou
-https://stream.radiofrance.fr/fbpoitou/fbpoitou.m3u8
+https://viaradios.com/stream/radiopoitou
 #EXTINF:-1 group-title="Ici",Ici Provence
-https://stream.radiofrance.fr/fbprovence/fbprovence.m3u8
+https://icecast.radiofrance.fr/fbprovence-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici RCFM
-https://stream.radiofrance.fr/fbfrequenzamora/fbfrequenzamora.m3u8
+https://icecast.radiofrance.fr/fbfrequenzamora-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Roussillon
-https://stream.radiofrance.fr/fbroussillon/fbroussillon.m3u8
+https://icecast.radiofrance.fr/fbroussillon-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Saint-Étienne Loire
-https://stream.radiofrance.fr/fbstetienne/fbstetienne.m3u8
+http://icecast.radiofrance.fr/fbstetienne-midfi.mp3
 #EXTINF:-1 group-title="Ici",Ici Sud Lorraine
-https://stream.radiofrance.fr/fbsudlorraine/fbsudlorraine.m3u8
+https://icecast.radiofrance.fr/fbsudlorraine-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Touraine
-https://stream.radiofrance.fr/fbtouraine/fbtouraine.m3u8
+https://icecast.radiofrance.fr/fbtouraine-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Vaucluse
-https://stream.radiofrance.fr/fbvaucluse/fbvaucluse.m3u8
+https://icecast.radiofrance.fr/fbvaucluse-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Misc",RMC Info Talk Sport
-https://audio.bfmtv.com/rmcradio_128.mp3
+https://stream.lava.net.au/au_wa_6wsm_sportfm
 #EXTINF:-1 group-title="Misc",Sud Radio
 http://start-sud.ice.infomaniak.ch/start-sud-high.mp3
 #EXTINF:-1 group-title="Misc",Le Figaro Radio
@@ -230,7 +230,7 @@ https://streaming.nrjaudio.fm/oumvmk8fnozc
 #EXTINF:-1 group-title="Misc",Le Son Parisien
 http://stream.lesonparisien.com/hi.mp3
 #EXTINF:-1 group-title="Misc",Mistral FM
-http://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3
+https://mistralfmnice.ice.infomaniak.ch/mistralfmnice-192.mp3
 #EXTINF:-1 group-title="Misc",Radio Marseillette
 https://rcast.pro-fhi.net:9006/stream
 #EXTINF:-1 group-title="Misc",Forever la Radio Bordeaux
@@ -330,9 +330,9 @@ http://rcf.streamakaci.com/rcf06.mp3
 #EXTINF:-1 group-title="RCF",RCF BRUXELLES
 http://rcf.streamakaci.com/rcfbruxelles.mp3
 #EXTINF:-1 group-title="RFI",RFI Monde
-http://live02.rfi.fr/rfimonde-96k.mp3
+https://stream.radiofrance.fr/accs3/fipworld/prod1transcoder2/fipworld_aac_hifi_4_548068_1795203846.ts?id=radiofrance
 #EXTINF:-1 group-title="RFI",RFI Afrique
-http://live02.rfi.fr/rfiafrique-96k.mp3
+https://rfiafrique96k.ice.infomaniak.ch/rfiafrique-96k.mp3
 #EXTINF:-1 group-title="RFI",RFI Persan
 http://rfipersan96k.ice.infomaniak.ch/rfipersan-96k.mp3
 #EXTINF:-1 group-title="RFI",RFI Anglais

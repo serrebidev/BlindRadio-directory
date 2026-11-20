@@ -1,0 +1,1560 @@
+{
+ "checked": 2198,
+ "dead": 180,
+ "replaced": [
+  {
+   "station": "CBC Radio 1 Toronto",
+   "file": "Canada.m3u",
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
+   "new": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/adaptive_128/1sdvbbio/00000114/media_217085.aac",
+   "source": "Radio Browser",
+   "bitrate": null,
+   "codec": "AAC"
+  },
+  {
+   "station": "CBC Radio 1 Qu\u00e9bec City",
+   "file": "Canada.m3u",
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2041031/ES_R1EQQ/master.m3u8",
+   "new": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBVEFM_CBC.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc5NTIwMzU2NywiaXNzIjoidGlzcnYifQ.o9C04GQko26iW-ajvpVT96VJfHdq2ftVGCz5rZ5UlTQ",
+   "source": "TuneIn",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Premi\u00e8re Alberta",
+   "file": "Canada.m3u",
+   "old": "https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8",
+   "new": "https://a12.asurahosting.com/listen/alberta_radio/radio.mp3",
+   "source": "TuneIn",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Premi\u00e8re Montr\u00e9al",
+   "file": "Canada.m3u",
+   "old": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8",
+   "new": "http://streaming04.hstbr.net:8250/live",
+   "source": "TuneIn",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "CBC Music Atlantic",
+   "file": "Canada.m3u",
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8",
+   "new": "https://broadcast.miami/proxy/atlantic?mp=%2Fstream%2F%3B",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "CBC Music Central",
+   "file": "Canada.m3u",
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2041056/ES_R2CWP/master.m3u8",
+   "new": "https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3",
+   "source": "Moondust (GitHub)",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "CBC Music Eastern",
+   "file": "Canada.m3u",
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8",
+   "new": "https://a10.asurahosting.com:7350/radio.mp3",
+   "source": "Online Radio Box",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "CBC Music Mountain",
+   "file": "Canada.m3u",
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8",
+   "new": "https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3",
+   "source": "Moondust (GitHub)",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "CBC Music Pacific",
+   "file": "Canada.m3u",
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8",
+   "new": "https://a10.asurahosting.com:7350/radio.mp3",
+   "source": "Online Radio Box",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Musique Alberta",
+   "file": "Canada.m3u",
+   "old": "https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8",
+   "new": "https://a12.asurahosting.com/listen/alberta_radio/radio.mp3",
+   "source": "TuneIn",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "Grand Nord",
+   "file": "Canada.m3u",
+   "old": "https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8",
+   "new": "http://s9.yesstreaming.net:7080/stream",
+   "source": "Online Radio Box",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Musique Manitoba",
+   "file": "Canada.m3u",
+   "old": "https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/master.m3u8",
+   "new": "https://18123.live.streamtheworld.com/CBVXFM_SRC.mp3",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Musique Qu\u00e9bec",
+   "file": "Canada.m3u",
+   "old": "https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8",
+   "new": "https://18123.live.streamtheworld.com/CBVXFM_SRC.mp3",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Musique Classique",
+   "file": "Canada.m3u",
+   "old": "https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/master.m3u8",
+   "new": "http://playerservices.streamtheworld.com/api/livestream-redirect/ICI_MusiqueClassique_SRC.mp3",
+   "source": "Radio Browser",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "ABC Classic FM",
+   "file": "Classical Music.m3u",
+   "old": "https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8",
+   "new": "http://webradio.classicfm.dk/classichorsens",
+   "source": "IPRD",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "ABC Classic 2",
+   "file": "Classical Music.m3u",
+   "old": "https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/index.m3u8",
+   "new": "http://webradio.classicfm.dk/classichorsens",
+   "source": "IPRD",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "ABC Classic Drive",
+   "file": "Classical Music.m3u",
+   "old": "https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8",
+   "new": "http://109.185.236.241:8000/DriveFM",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Classical Piano",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-piano",
+   "new": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Romantic Piano",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-piano.com/romantic-piano",
+   "new": "https://radio-romantic.ro/stream",
+   "source": "TuneIn",
+   "bitrate": 319,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Chillout Piano",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-piano.com/chillout-piano",
+   "new": "http://chilloutfm.ru:8000/play",
+   "source": "IPRD",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Chopin",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-piano.com/chopin",
+   "new": "https://tunein-live-b.cdnstream1.com/3764_128.mp3?aw_0_1st.skey=1795203628&lat=49.222&lon=-122.6181&aw_0_1st.abtest=&aw_0_1st.stationId=s191786&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g5&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.Other&aw_0_azn.planguage=en&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a40075%2ca38725%2ca39100&aw_0_1st.bandId=16&delivery=1",
+   "source": "TuneIn",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Classical Orchestral",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-orchestral",
+   "new": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Modern Classical",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/modern-classical",
+   "new": "http://79.120.39.202:8000/modernclassical",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "AACP"
+  },
+  {
+   "station": "Epic Classical Violin",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-violin",
+   "new": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Pan Flute",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-pan-flute",
+   "new": "https://tunein-live-b.cdnstream1.com/3757_128.mp3?aw_0_1st.skey=1795203638&lat=49.222&lon=-122.6181&aw_0_1st.abtest=&aw_0_1st.stationId=s142242&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g5&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.Other&aw_0_azn.planguage=en&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a40075%2ca38725%2ca39100&aw_0_1st.bandId=16&delivery=1",
+   "source": "TuneIn",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Classical Guitar",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-guitar",
+   "new": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Classical Pop",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-pop",
+   "new": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Classical Chillout",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-chillout",
+   "new": "http://chilloutfm.ru:8000/play",
+   "source": "IPRD",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Classical Nighttime",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-nighttime",
+   "new": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Classical Lounge",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-lounge",
+   "new": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Ibiza Chillout Lounge",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-lounge.com/ibiza-chillout-lounge",
+   "new": "http://chilloutfm.ru:8000/play",
+   "source": "IPRD",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Coffee Bar Lounge",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-lounge.com/coffee-bar-lounge",
+   "new": "http://de1.streamhosting.ch/",
+   "source": "IPRD",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Classical Romance",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-romance",
+   "new": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic  Classical Love Music",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-love-music",
+   "new": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Epic Classical Coffee Bar",
+   "file": "Classical Music.m3u",
+   "old": "https://stream.epic-classical.com/classical-coffee-bar",
+   "new": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Radio Caprice Flute",
+   "file": "Classical Music.m3u",
+   "old": "http://79.111.14.76:9101",
+   "new": "http://79.111.14.76:8000/flute",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "AACP"
+  },
+  {
+   "station": "Radio Caprice Piano",
+   "file": "Classical Music.m3u",
+   "old": "http://79.120.77.11:9009",
+   "new": "http://79.111.119.111:8000/pianojazz",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "AACP"
+  },
+  {
+   "station": "Radio Caprice Classical",
+   "file": "Classical Music.m3u",
+   "old": "http://79.120.77.11:9019",
+   "new": "http://213.141.131.10:8004/classavant",
+   "source": "IPRD",
+   "bitrate": 320,
+   "codec": "AACP"
+  },
+  {
+   "station": "Radio Caprice Celtic",
+   "file": "Classical Music.m3u",
+   "old": "http://79.111.14.76:9087",
+   "new": "http://79.111.14.76:8000/celtic",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "AACP"
+  },
+  {
+   "station": "Radio Caprice Neoclassical",
+   "file": "Classical Music.m3u",
+   "old": "http://79.120.39.202:9101",
+   "new": "http://79.111.119.111:8000/neoclassicalmetal",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "AACP"
+  },
+  {
+   "station": "Radio Caprice Classical Crossover",
+   "file": "Classical Music.m3u",
+   "old": "http://79.120.77.11:9055",
+   "new": "http://79.120.39.202:8000/britpop",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "AACP"
+  },
+  {
+   "station": "Radio Caprice Organ",
+   "file": "Classical Music.m3u",
+   "old": "http://79.120.77.11:9051",
+   "new": "http://79.120.77.11:8000/organ",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "AACP"
+  },
+  {
+   "station": "Radio Caprice New Age",
+   "file": "Classical Music.m3u",
+   "old": "http://79.120.77.11:9047",
+   "new": "http://79.120.39.202:8000/newwave",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "AACP"
+  },
+  {
+   "station": "Radio Caprice Vocal",
+   "file": "Classical Music.m3u",
+   "old": "http://79.120.77.11:9063",
+   "new": "http://79.120.39.202:8000/vocaltrance",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "AACP"
+  },
+  {
+   "station": "Klassik",
+   "file": "Classical Music.m3u",
+   "old": "http://klassik-high.rautemusik.fm/",
+   "new": "https://ekr.digital/proxy/ekr1/stream",
+   "source": "TuneIn",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Study",
+   "file": "Classical Music.m3u",
+   "old": "https://study-high.rautemusik.fm/",
+   "new": "http://rdstream-0625.dez.ovh:8000/radio.mp3",
+   "source": "Radio Browser",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "Lounge",
+   "file": "Classical Music.m3u",
+   "old": "https://lounge-high.rautemusik.fm/",
+   "new": "https://mscp4.live-streams.nl:8142/lounge.ogg",
+   "source": "Moondust (GitHub)",
+   "bitrate": 1411,
+   "codec": "OGG"
+  },
+  {
+   "station": "Fox News",
+   "file": "English.m3u",
+   "old": "https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/foxfree/master.m3u8",
+   "new": "https://stream.zeno.fm/nxelfcuw5zivv",
+   "source": "Online Radio Box",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Israel News Talk",
+   "file": "English.m3u",
+   "old": "https://dfw.audio-stream.com/proxy/israelne?mp=/live_live",
+   "new": "https://us2.maindigitalstream.com/ssl/KCRS",
+   "source": "Online Radio Box",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "ABC Radio Melbourne",
+   "file": "English.m3u",
+   "old": "https://streaming.abc-cdn.net.au/audio/hls/localmelbourne.m3u8?source=web",
+   "new": "http://s33.myradiostream.com:16972/listen.mp3",
+   "source": "Online Radio Box",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "MSNBC",
+   "file": "English.m3u",
+   "old": "https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/msnbcfree/master.m3u8",
+   "new": "https://tunein.cdnstream1.com/3511_96.mp3",
+   "source": "Radio Browser",
+   "bitrate": 96,
+   "codec": "MP3"
+  },
+  {
+   "station": "BFM Business",
+   "file": "France.m3u",
+   "old": "http://audio.bfmtv.com/bfmbusiness_128.mp3",
+   "new": "https://bfmreg.hostingradio.ru/kz.bfm128.mp3",
+   "source": "TuneIn",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "BFM Radio",
+   "file": "France.m3u",
+   "old": "https://audio.bfmtv.com/bfmradio_128.mp3",
+   "new": "https://stream.bfmradio.us/stream128/",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Europe 2 Pays de la Loire",
+   "file": "France.m3u",
+   "old": "https://europe2.lmn.fm/europe2-44000/playlist.m3u8",
+   "new": "https://europe2.lmn.fm/europe2.aac",
+   "source": "IPRD",
+   "bitrate": 128,
+   "codec": "AAC"
+  },
+  {
+   "station": "Ici Alsace",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbalsace/fbalsace.m3u8",
+   "new": "http://direct.francebleu.fr/live/fbalsace-midfi.mp3",
+   "source": "Radio Browser",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Armorique",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbarmorique/fbarmorique.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbarmorique-midfi.mp3",
+   "source": "Radio Browser",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Auxerre",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbauxerre/fbauxerre.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbauxerre-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Azur",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbazur/fbazur.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbazur-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici B\u00e9arn",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbbearn/fbbearn.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbbearn-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Belfort-Montb\u00e9liard",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbbelfort/fbbelfort.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbbelfort-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Berry",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbberry/fbberry.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbberry-midfi.mp3",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Besan\u00e7on",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbbesancon/fbbesancon.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbbesancon-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Bourgogne",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbbourgogne/fbbourgogne.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbbourgogne-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Breiz Izel",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbbreizizel/fbbreizizel.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbbreizizel-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Champagne Ardenne",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbchampagne/fbchampagne.m3u8",
+   "new": "http://reims.ice.infomaniak.ch/reims-64.aac",
+   "source": "Moondust (GitHub)",
+   "bitrate": 128,
+   "codec": "AACP"
+  },
+  {
+   "station": "Ici Cotentin",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbcotentin/fbcotentin.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbcotentin-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Creuse",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbcreuse/fbcreuse.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbcreuse-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Drome Ardeche",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbdromeardeche/fbdromeardeche.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbdromeardeche-midfi.mp3",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Elsass",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbelsass/fbelsass.m3u8",
+   "new": "http://direct.francebleu.fr/live/Fbelsass-midfi.mp3",
+   "source": "Radio Browser",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Gard Loz\u00e8re",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbgardlozere/fbgardlozere.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbgardlozere-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Gascogne",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbgascogne/fbgascogne.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbgascogne-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Gironde",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbgironde/fbgironde.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbgironde-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Herault",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbherault/fbherault.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbherault-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Is\u00e8re",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbisere/fbisere.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbisere-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici La Rochelle",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fblarochelle/fblarochelle.m3u8",
+   "new": "https://icecast.radiofrance.fr/fblarochelle-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Limousin",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fblimousin/fblimousin.m3u8",
+   "new": "https://icecast.radiofrance.fr/fblimousin-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Loire Oc\u00e9an",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbloireocean/fbloireocean.m3u8",
+   "new": "http://213.175.217.198:8000/sligo",
+   "source": "IPRD",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Lorraine Nord",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fblorrainenord/fblorrainenord.m3u8",
+   "new": "https://icecast.radiofrance.fr/fblorrainenord-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Maine",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbmaine/fbmaine.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbmaine-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Mayenne",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbmayenne/fbmayenne.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbmayenne-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Nord",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbnord/fbnord.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbnord-midfi.mp3",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Occitanie",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbtoulouse/fbtoulouse.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbtoulouse-midfi.mp3",
+   "source": "Radio Browser",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Orl\u00e9ans",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fborleans/fborleans.m3u8",
+   "new": "https://icecast.radiofrance.fr/fborleans-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Paris",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fb1071/fb1071.m3u8",
+   "new": "https://icecast.radiofrance.fr/fb1071-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Pays Basque",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbpaysbasque/fbpaysbasque.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbpaysbasque-midfi.mp3",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Pays De Savoie",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbpaysdesavoie/fbpaysdesavoie.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbpaysdesavoie-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Perigord",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbperigord/fbperigord.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbperigord-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Picardie",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbpicardie/fbpicardie.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbpicardie-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Poitou",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbpoitou/fbpoitou.m3u8",
+   "new": "https://viaradios.com/stream/radiopoitou",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "AACP"
+  },
+  {
+   "station": "Ici Provence",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbprovence/fbprovence.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbprovence-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici RCFM",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbfrequenzamora/fbfrequenzamora.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbfrequenzamora-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Roussillon",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbroussillon/fbroussillon.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbroussillon-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Saint-\u00c9tienne Loire",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbstetienne/fbstetienne.m3u8",
+   "new": "http://icecast.radiofrance.fr/fbstetienne-midfi.mp3",
+   "source": "Radio Browser",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Sud Lorraine",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbsudlorraine/fbsudlorraine.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbsudlorraine-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Touraine",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbtouraine/fbtouraine.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbtouraine-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Vaucluse",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbvaucluse/fbvaucluse.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbvaucluse-midfi.mp3?ID=pd569ib97j",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "RMC Info Talk Sport",
+   "file": "France.m3u",
+   "old": "https://audio.bfmtv.com/rmcradio_128.mp3",
+   "new": "https://stream.lava.net.au/au_wa_6wsm_sportfm",
+   "source": "Moondust (GitHub)",
+   "bitrate": 112,
+   "codec": "MP3"
+  },
+  {
+   "station": "Mistral FM",
+   "file": "France.m3u",
+   "old": "http://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3",
+   "new": "https://mistralfmnice.ice.infomaniak.ch/mistralfmnice-192.mp3",
+   "source": "IPRD",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "RFI Monde",
+   "file": "France.m3u",
+   "old": "http://live02.rfi.fr/rfimonde-96k.mp3",
+   "new": "https://stream.radiofrance.fr/accs3/fipworld/prod1transcoder2/fipworld_aac_hifi_4_548068_1795203846.ts?id=radiofrance",
+   "source": "Moondust (GitHub)",
+   "bitrate": 195,
+   "codec": "AAC"
+  },
+  {
+   "station": "RFI Afrique",
+   "file": "France.m3u",
+   "old": "http://live02.rfi.fr/rfiafrique-96k.mp3",
+   "new": "https://rfiafrique96k.ice.infomaniak.ch/rfiafrique-96k.mp3",
+   "source": "TuneIn",
+   "bitrate": 96,
+   "codec": "MP3"
+  },
+  {
+   "station": "SR 1 Lounge",
+   "file": "Germany.m3u",
+   "old": "http://sr.audiostream.io/sr/1012/mp3/128/sr1c2",
+   "new": "http://stream.antenne.de/lounge/stream/aacp?aw_0_1st.playerid=tunein.com",
+   "source": "TuneIn",
+   "bitrate": 128,
+   "codec": "AAC"
+  },
+  {
+   "station": "UnserDing Zukunft",
+   "file": "Germany.m3u",
+   "old": "http://liveradio.sr.de/sr/udc2/mp3/128/stream.mp3?aggregator=custom1",
+   "new": "http://rs4.stream24.net/unser-radio.mp3",
+   "source": "IPRD",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "UnserDing - Schwarz",
+   "file": "Germany.m3u",
+   "old": "http://liveradio.sr.de/sr/udc1/mp3/128/stream.mp3?aggregator=custom1",
+   "new": "http://rs4.stream24.net/unser-radio.mp3",
+   "source": "IPRD",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Berliner Rundfunk 91.4 FM",
+   "file": "Germany.m3u",
+   "old": "http://138.201.252.3:80/brf_128",
+   "new": "https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.m3u",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Charivari Live",
+   "file": "Germany.m3u",
+   "old": "http://rs5.stream24.net:80/stream",
+   "new": "https://frontend.streamonkey.net/charivari-live?aggregator=TuneIn",
+   "source": "TuneIn",
+   "bitrate": 128,
+   "codec": "AAC"
+  },
+  {
+   "station": "Freies Radio Freudenstadt",
+   "file": "Germany.m3u",
+   "old": "https://s3.fairprice-streams.de:9148/stream",
+   "new": "https://stream.radio-fds.de:9148/stream",
+   "source": "Radio Browser",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "HITRADIO SKW 105.1 FM",
+   "file": "Germany.m3u",
+   "old": "https://server4.streamserver24.com:26237/live",
+   "new": "http://ice.abradio.cz/hitradiofm128.mp3",
+   "source": "IPRD",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "LandesWelle deutsch",
+   "file": "Germany.m3u",
+   "old": "http://landeswelle-de-hz-fal-stream02-cluster01.radiohost.de:80/lwdemp3-192",
+   "new": "https://s10.streamingcloud.online/stream/landeswelle-fm",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "LandesWelle Th\u00fcringen",
+   "file": "Germany.m3u",
+   "old": "http://landeswelle-de-hz-fal-stream05-cluster01.radiohost.de:80/lwtmp3-192",
+   "new": "https://s10.streamingcloud.online/stream/landeswelle-fm",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Rundfunk Meissner 99.4 FM",
+   "file": "Germany.m3u",
+   "old": "https://server4.streamserver24.com:43524/stream",
+   "new": "https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.m3u",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "RTL 102.5",
+   "file": "Italy.m3u",
+   "old": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8",
+   "new": "https://stream.rcast.net/210096",
+   "source": "Radio Browser",
+   "bitrate": 256,
+   "codec": "MP3"
+  },
+  {
+   "station": "Radio Italia",
+   "file": "Italy.m3u",
+   "old": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8",
+   "new": "http://balloitalianonetwork.com/proxy/rcerru01?mp=/stream",
+   "source": "IPRD",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Radio Freccia",
+   "file": "Italy.m3u",
+   "old": "https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8",
+   "new": "https://streamingv2.shoutcast.com/radiofreccia",
+   "source": "IPRD",
+   "bitrate": 256,
+   "codec": "MP3"
+  },
+  {
+   "station": "The Sound FM 93.8",
+   "file": "Misc Music.m3u",
+   "old": "https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8",
+   "new": "https://mediaworks.streamguys1.com/sound_net_icy?Dist=TuneIn",
+   "source": "TuneIn",
+   "bitrate": 130,
+   "codec": "AAC"
+  },
+  {
+   "station": "Nation Hits",
+   "file": "Misc Music.m3u",
+   "old": "http://listen-nation.sharp-stream.com/nationhitsdab.mp3?ref=RF Title1=nationhitsdab.mp3",
+   "new": "http://listen-nation.sharp-stream.com/nationhulldab.mp3",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Nation Love",
+   "file": "Misc Music.m3u",
+   "old": "http://listen-nation.sharp-stream.com/lovenationdab.mp3?ref=RF Title1=lovenationdab.mp3",
+   "new": "http://listen-nation.sharp-stream.com/lovenationdab.mp3?ref=RF",
+   "source": "Radio Browser",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Nation 60s",
+   "file": "Misc Music.m3u",
+   "old": "http://listen-nation.sharp-stream.com/nation60sdab.mp3?ref=RF Title1=nation60sdab.mp3",
+   "new": "http://listen-nation.sharp-stream.com/nationhulldab.mp3",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Nation 70s",
+   "file": "Misc Music.m3u",
+   "old": "http://listen-nation.sharp-stream.com/nationradio70s-dab.mp3?ref=RF Title1=nationradio70s-dab.mp3",
+   "new": "http://listen-nation.sharp-stream.com/nationhulldab.mp3",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Nation 80s",
+   "file": "Misc Music.m3u",
+   "old": "http://listen-nation.sharp-stream.com/nationradio80s-dab.mp3?ref=RF Title1=nationradio80s-dab.mp3",
+   "new": "http://listen-nation.sharp-stream.com/nationhulldab.mp3",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Nation 90s",
+   "file": "Misc Music.m3u",
+   "old": "http://listen-nation.sharp-stream.com/nationradio90s-dab.mp3?ref=RF Title1=nationradio90s-dab.mp3",
+   "new": "http://listen-nation.sharp-stream.com/nationhulldab.mp3",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Nation 00s",
+   "file": "Misc Music.m3u",
+   "old": "http://listen-nation.sharp-stream.com/nationradio00sdab.mp3?ref=RF Title1=nationradio00sdab.mp3",
+   "new": "http://listen-nation.sharp-stream.com/nationhulldab.mp3",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Bandit Rock Stockholm",
+   "file": "Misc Music.m3u",
+   "old": "http://fm02-ice.stream.khz.se/fm02_mp3",
+   "new": "https://pro.radiobandit.ro/listen/bandit/128.aac",
+   "source": "Online Radio Box",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "Q107",
+   "file": "Misc Music.m3u",
+   "old": "http://live.leanstream.co:80/CILQFM-MP3",
+   "new": "https://corus.leanstream.co/CILQFM-MP3?args=tunein",
+   "source": "TuneIn",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Groove Salad Surround [SomaFM]",
+   "file": "Misc Music.m3u",
+   "old": "https://hls.somafm.com/hls/gs-surround/program.m3u8",
+   "new": "http://ice4.somafm.com/groovesalad-256-mp3",
+   "source": "IPRD",
+   "bitrate": 256,
+   "codec": "MP3"
+  },
+  {
+   "station": "Antena 1",
+   "file": "Portugal.m3u",
+   "old": "https://radioip.rtp.pt/liveradio/antena180a/chunklist.m3u8",
+   "new": "https://hd-antena1.crossradio.com.br/stream/2;",
+   "source": "Radio Browser",
+   "bitrate": 320,
+   "codec": "AACP"
+  },
+  {
+   "station": "Antena 2",
+   "file": "Portugal.m3u",
+   "old": "https://streaming-live.rtp.pt/liveradio/antena280a/chunklist_DVR.m3u8",
+   "new": "http://87.117.201.162:8070/",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "AZPM Classical",
+   "file": "Public Radio.m3u",
+   "old": "https://streaming.azpm.org/kuat256",
+   "new": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "AZPM Jazz",
+   "file": "Public Radio.m3u",
+   "old": "https://streaming.azpm.org/jazz256",
+   "new": "https://tektite.streamguys1.com:5145/wwnojazz?uuid=e64c7c3ks",
+   "source": "Radio Browser",
+   "bitrate": 128,
+   "codec": "AAC"
+  },
+  {
+   "station": "Vintage24",
+   "file": "Public Radio.m3u",
+   "old": "https://streams.kcrw.com/bent24_aac/playlist.m3u8",
+   "new": "https://streams.kcrw.com/bent24_aac?aw_0_1st.playerid=TuneIn",
+   "source": "TuneIn",
+   "bitrate": 256,
+   "codec": "AAC"
+  },
+  {
+   "station": "KQED",
+   "file": "Public Radio.m3u",
+   "old": "https://hls.kqed.org/hls/kqed_app/playlist.m3u8",
+   "new": "http://streams.kqed.org/kqedradio.m3u",
+   "source": "Radio Browser",
+   "bitrate": 32,
+   "codec": "MP3"
+  },
+  {
+   "station": "BPR News",
+   "file": "Public Radio.m3u",
+   "old": "https://prod-100-26-100-53.amperwave.net/wncpr-wcqshd2mp3128-ibc4",
+   "new": "https://live.amperwave.net/direct/wncpr-wcqshd2aac128-ibc4",
+   "source": "Online Radio Box",
+   "bitrate": 128,
+   "codec": "AACP"
+  },
+  {
+   "station": "WOR AM",
+   "file": "Public Radio.m3u",
+   "old": "http://stream.revma.ihrhls.com/zc5874/hls.m3u8",
+   "new": "http://www.ophanim.net:7900/;",
+   "source": "TuneIn",
+   "bitrate": 64,
+   "codec": "MP3"
+  },
+  {
+   "station": "Cope Madrid",
+   "file": "Spain.m3u",
+   "old": "https://flucast02-h-cloud.flumotion.com/cope/madrid.mp3",
+   "new": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID.mp3?dist=onlineradiobox",
+   "source": "Online Radio Box",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "ES Radio",
+   "file": "Spain.m3u",
+   "old": "http://livestreaming.esradio.fm/stream64.mp3",
+   "new": "http://65.109.81.84:7853/stream",
+   "source": "Online Radio Box",
+   "bitrate": 96,
+   "codec": "AACP"
+  },
+  {
+   "station": "Catalunya Radio",
+   "file": "Spain.m3u",
+   "old": "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3",
+   "new": "http://srv0435.lcinternet.com:9522/stream",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Onda Cero Espania",
+   "file": "Spain.m3u",
+   "old": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
+   "new": "https://atres-live.ondacero.es/live/ondaceroeventos1/0/br1/000000000000/99734/br1_179537683.ts",
+   "source": "Moondust (GitHub)",
+   "bitrate": 128,
+   "codec": "AAC"
+  },
+  {
+   "station": "BBC Radio 1 Anthems",
+   "file": "UK.m3u",
+   "old": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_one_anthems&bitrate=320000",
+   "new": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000-280500638.ts",
+   "source": "Moondust (GitHub)",
+   "bitrate": 320,
+   "codec": "AAC"
+  },
+  {
+   "station": "BBC Radio 3 Unwind",
+   "file": "UK.m3u",
+   "old": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_three_unwind&bitrate=320000",
+   "new": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000-280500639.ts",
+   "source": "Moondust (GitHub)",
+   "bitrate": 323,
+   "codec": "AAC"
+  },
+  {
+   "station": "BBC Radio 5 Sports Extra",
+   "file": "UK.m3u",
+   "old": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000&uk=1",
+   "new": "https://eu11.fastcast4u.com:1680/;",
+   "source": "Online Radio Box",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Awaaz FM (Southampton)",
+   "file": "UK.m3u",
+   "old": "http://us1new.listen2myradio.com:10006/;?ref=RF",
+   "new": "http://streamer.radio.co/sdea88e226/listen",
+   "source": "TuneIn",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Digital City Radio",
+   "file": "UK.m3u",
+   "old": "http://stream1.funkyessex.co.uk:8000/dab",
+   "new": "http://stream.digital-plus.fr/DP192k.mp3",
+   "source": "Radio.net",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "Dorset Coast Radio",
+   "file": "UK.m3u",
+   "old": "http://uksoutha.streaming.broadcast.radio:24930/DorsetCoastRadio",
+   "new": "http://streaming1.coastfm.com.au:8000/broadwavehigh.mp3",
+   "source": "TuneIn",
+   "bitrate": 256,
+   "codec": "MP3"
+  },
+  {
+   "station": "Inspire FM",
+   "file": "UK.m3u",
+   "old": "http://edge-audio-05-gos2.sharp-stream.com:80/inspirefm.mp3",
+   "new": "https://servidor18.brlogic.com:8798/live",
+   "source": "Radio.net",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "North Manchester Radio",
+   "file": "UK.m3u",
+   "old": "http://radio.canstream.co.uk:8061/live.mp3",
+   "new": "http://netradio.live24.gr/north98thess",
+   "source": "IPRD",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Platform B",
+   "file": "UK.m3u",
+   "old": "http://edge-audio-05-gos2.sharp-stream.com:80/platformb.mp3",
+   "new": "https://listen-platformb.sharp-stream.com/platformb.mp3",
+   "source": "TuneIn",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "Radio Royal",
+   "file": "UK.m3u",
+   "old": "http://azuracast.radioroyal.org:8020/high",
+   "new": "https://streams.radiomast.io/ref-lossless-ogg-flac-stereo",
+   "source": "Moondust (GitHub)",
+   "bitrate": 1500,
+   "codec": "FLAC"
+  },
+  {
+   "station": "Roch Valley Radio",
+   "file": "UK.m3u",
+   "old": "http://protostar.shoutca.st:8431/stream",
+   "new": "https://exploits.radioca.st/evcr",
+   "source": "Radio.net",
+   "bitrate": 256,
+   "codec": "MP3"
+  },
+  {
+   "station": "Tameside Radio",
+   "file": "UK.m3u",
+   "old": "http://edge-audio-w2-01.sharp-stream.com:80/tamesideradio.mp3",
+   "new": "https://listen-tamesideradio.sharp-stream.com/tamesideradio.mp3",
+   "source": "Radio.net",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "GB Music Radio",
+   "file": "UK.m3u",
+   "old": "http://arqiva-camelotfm-live-a.edge.audiocdn.com/12400_c8dhoqubtai?ref=RF",
+   "new": "http://stream.zeno.fm/klg3q5yrjp1vv.m3u",
+   "source": "TuneIn",
+   "bitrate": 320,
+   "codec": ""
+  },
+  {
+   "station": "Geronimo",
+   "file": "UK.m3u",
+   "old": "http://s20.reliastream.com:8204/stream",
+   "new": "http://209.42.2.18:7018/stream",
+   "source": "SHOUTcast",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Isle of Wight Radio",
+   "file": "UK.m3u",
+   "old": "http://arqiva-camelotfm-live-a.edge.audiocdn.com/12371_czox9d9rdtd?ref=RF",
+   "new": "https://s2.xrad.io:9598/listen.mp3?=&&___cb=275280937051671",
+   "source": "Radio Browser",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "The Rock Service",
+   "file": "UK.m3u",
+   "old": "http://therockservice.servebeer.com:7993/",
+   "new": "http://stream.radioserviceweb.fr/radioservice.mp3",
+   "source": "IPRD",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "More Radio (Sussex)",
+   "file": "UK.m3u",
+   "old": "http://arqiva-camelotfm-live-a.edge.audiocdn.com/12361_cb8btik5s7g?ref=RF",
+   "new": "https://s5.radio.co:80/s8cf5effc6/listen",
+   "source": "Radio.net",
+   "bitrate": 320,
+   "codec": "MP3"
+  },
+  {
+   "station": "STV Radio (Ayrshire & North of Scotland)",
+   "file": "UK.m3u",
+   "old": "http://stv-dsharp.sharp-stream.com/stv_high.mp3?ref=RF",
+   "new": "http://86.57.147.236/HLS/ctvby/ctv_segment22-48-42.ts",
+   "source": "GitHub collections",
+   "bitrate": null,
+   "codec": ""
+  },
+  {
+   "station": "STV Radio (Central Scotland)",
+   "file": "UK.m3u",
+   "old": "http://stv-dsharp.sharp-stream.com/stv_central.aac?ref=RF",
+   "new": "http://86.57.147.236/HLS/ctvby/ctv_segment22-48-48.ts",
+   "source": "GitHub collections",
+   "bitrate": null,
+   "codec": ""
+  },
+  {
+   "station": "STV Radio (North East Scotland)",
+   "file": "UK.m3u",
+   "old": "http://stv-dsharp.sharp-stream.com/stv_aberdeen.aac?ref=RF",
+   "new": "http://86.57.147.236/HLS/ctvby/ctv_segment22-48-48.ts",
+   "source": "GitHub collections",
+   "bitrate": null,
+   "codec": ""
+  },
+  {
+   "station": "STV Radio (Tayside)",
+   "file": "UK.m3u",
+   "old": "http://stv-dsharp.sharp-stream.com/stv_dundee.aac?ref=RF",
+   "new": "http://86.57.147.236/HLS/ctvby/ctv_segment22-48-52.ts",
+   "source": "GitHub collections",
+   "bitrate": null,
+   "codec": ""
+  }
+ ],
+ "unreplaced": [
+  {
+   "station": "CBC Radio 1 Vancouver",
+   "file": "Canada.m3u",
+   "url": "https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8",
+   "why": "nested playlist"
+  },
+  {
+   "station": "CBC Radio 1 Winnipeg",
+   "file": "Canada.m3u",
+   "url": "https://cbcradiolive.akamaized.net/hls/live/2040991/ES_R1CWP/master.m3u8",
+   "why": "nested playlist"
+  },
+  {
+   "station": "CBC Radio 1 Halifax",
+   "file": "Canada.m3u",
+   "url": "https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8",
+   "why": "nested playlist"
+  },
+  {
+   "station": "CBC Radio 1 Sydney",
+   "file": "Canada.m3u",
+   "url": "https://cbcradiolive.akamaized.net/hls/live/2041043/ES_R1MNS/master.m3u8",
+   "why": "nested playlist"
+  },
+  {
+   "station": "CBC Radio 1 Montr\u00e9al",
+   "file": "Canada.m3u",
+   "url": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
+   "why": "nested playlist"
+  },
+  {
+   "station": "Ici Premi\u00e8re Qu\u00e9bec",
+   "file": "Canada.m3u",
+   "url": "https://rcavliveaudio.akamaized.net/hls/live/2006974/P-2QTRV0_TRV/master.m3u8",
+   "why": "nested playlist"
+  },
+  {
+   "station": "Ici Premi\u00e8re Toronto",
+   "file": "Canada.m3u",
+   "url": "https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8",
+   "why": "nested playlist"
+  },
+  {
+   "station": "SoloPiano",
+   "file": "Classical Music.m3u",
+   "url": "http://solopiano-high.rautemusik.fm",
+   "why": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "station": "Ici Basse Normandy",
+   "file": "France.m3u",
+   "url": "https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie.m3u8",
+   "why": "nested playlist"
+  },
+  {
+   "station": "Ici Haute normandy",
+   "file": "France.m3u",
+   "url": "https://stream.radiofrance.fr/fbhautenormandie/fbhautenormandie.m3u8",
+   "why": "nested playlist"
+  },
+  {
+   "station": "RSA Radio",
+   "file": "Germany.m3u",
+   "url": "http://mp3.rsaradio.c.nmdn.net/ps-rsaradio/hqlivestream.mp3",
+   "why": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "station": "RSA Radio 2",
+   "file": "Germany.m3u",
+   "url": "http://mp3.rsaradio2.c.nmdn.net/ps-rsaradio2/hqlivestream.mp3",
+   "why": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "station": "RSA Radio 3",
+   "file": "Germany.m3u",
+   "url": "http://mp3.rsaradio3.c.nmdn.net/ps-rsaradio3/hqlivestream.mp3",
+   "why": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "station": "Stream 91.121.104.139",
+   "file": "Misc Music.m3u",
+   "url": "http://91.121.104.139:9280/",
+   "why": "BadStatusLine: ICY 200 OK\r\n"
+  },
+  {
+   "station": "Radio Namayesh",
+   "file": "Persian.m3u",
+   "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8",
+   "why": "URLError: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respo"
+  },
+  {
+   "station": "Radio Varzesh",
+   "file": "Persian.m3u",
+   "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8",
+   "why": "URLError: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respo"
+  },
+  {
+   "station": "Aadel",
+   "file": "Persian.m3u",
+   "url": "https://live.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/livehls/aparatsportliveadel_vyp04o6_240p/index.m3u8",
+   "why": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "station": "AZPM",
+   "file": "Public Radio.m3u",
+   "url": "https://streaming.azpm.org/kuaz256",
+   "why": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:108"
+  },
+  {
+   "station": "Danse 24",
+   "file": "Public Radio.m3u",
+   "url": "https://streams.kcrw.com/10466_256.aac/playlist.m3u8",
+   "why": "nested playlist"
+  },
+  {
+   "station": "106.9 SFM",
+   "file": "UK.m3u",
+   "url": "http://n06-eu2.rcs.revma.com:80/hdaazf6bsucwv",
+   "why": "HTTPError: HTTP Error 401: Unauthorized"
+  },
+  {
+   "station": "Radio MAC",
+   "file": "UK.m3u",
+   "url": "http://178.33.135.246:5344/",
+   "why": "BadStatusLine: ICY 200 OK\r\n"
+  },
+  {
+   "station": "Skylark",
+   "file": "UK.m3u",
+   "url": "http://uk2.internet-radio.com:8164/dontlisten.ogg",
+   "why": "HTTPError: HTTP Error 404: File Not Found"
+  },
+  {
+   "station": "TFS Radio",
+   "file": "UK.m3u",
+   "url": "http://uksoutha.streaming.broadcast.radio:11490/tfsradio",
+   "why": "HTTPError: HTTP Error 404: Not Available"
+  }
+ ],
+ "validation_problems": []
+}

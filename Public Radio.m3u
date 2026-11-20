@@ -2,9 +2,9 @@
 #EXTINF:-1 group-title="AZPM",AZPM
 https://streaming.azpm.org/kuaz256
 #EXTINF:-1 group-title="AZPM",AZPM Classical
-https://streaming.azpm.org/kuat256
+https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
 #EXTINF:-1 group-title="AZPM",AZPM Jazz
-https://streaming.azpm.org/jazz256
+https://tektite.streamguys1.com:5145/wwnojazz?uuid=e64c7c3ks
 #EXTINF:-1 group-title="Blue Lake Public Radio",Blue Lake Public Radio
 http://wblv.streamguys1.com/live
 #EXTINF:-1 group-title="Houston Public Media",Houston Public Media News
@@ -34,7 +34,7 @@ https://streams.kcrw.com/e24_aac
 #EXTINF:-1 group-title="KCRW",Danse 24
 https://streams.kcrw.com/10466_256.aac/playlist.m3u8
 #EXTINF:-1 group-title="KCRW",Vintage24
-https://streams.kcrw.com/bent24_aac/playlist.m3u8
+https://streams.kcrw.com/bent24_aac?aw_0_1st.playerid=TuneIn
 #EXTINF:-1 group-title="KOPB",KOPB
 http://stream1.opb.org/radio.mp3
 #EXTINF:-1 group-title="KPBS",KPBS Radio
@@ -48,7 +48,7 @@ http://radio3.radio-calico.com:8080/calico.mp3
 #EXTINF:-1 group-title="KPCC",KPCC
 https://laist.streamguys1.com/kpcc-mp3
 #EXTINF:-1 group-title="KQED",KQED
-https://hls.kqed.org/hls/kqed_app/playlist.m3u8
+http://streams.kqed.org/kqedradio.m3u
 #EXTINF:-1 group-title="KRCC",KRCC
 http://streams.krcc.org/krcc_mp3
 #EXTINF:-1 group-title="KUOW",KUOW
@@ -110,7 +110,7 @@ http://mozart.wkar.msu.edu/wkar-jazz
 #EXTINF:-1 group-title="WKAR",WKAR Radio Reading Service
 http://mozart.wkar.msu.edu/rrs-64-mp3
 #EXTINF:-1 group-title="WNCPR",BPR News
-https://prod-100-26-100-53.amperwave.net/wncpr-wcqshd2mp3128-ibc4
+https://live.amperwave.net/direct/wncpr-wcqshd2aac128-ibc4
 #EXTINF:-1 group-title="WNYC",WNYC FM
 http://fm939.wnyc.org/wnycfm
 #EXTINF:-1 group-title="WNYC",WNYC WQXR
@@ -118,7 +118,7 @@ http://stream.wqxr.org/wqxr
 #EXTINF:-1 group-title="WNYC",WNYC Operavore
 http://opera-stream.wqxr.org/operavore.aac
 #EXTINF:-1 group-title="WOR",WOR AM
-http://stream.revma.ihrhls.com/zc5874/hls.m3u8
+http://www.ophanim.net:7900/;
 #EXTINF:-1 group-title="WOSU",WOSU
 https://wosu.streamguys1.com/NPR_128
 #EXTINF:-1 group-title="WPR",WPR

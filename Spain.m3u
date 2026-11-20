@@ -18,11 +18,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.
 #EXTINF:-1 group-title="Misc",Cope Directo 2
 https://flucast07-o-cloud.flumotion.com/cope/net2.mp3
 #EXTINF:-1 group-title="Misc",Cope Madrid
-https://flucast02-h-cloud.flumotion.com/cope/madrid.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID.mp3?dist=onlineradiobox
 #EXTINF:-1 group-title="Misc",Cope Sevilla
 http://sevilla.copesedes.stream.flumotion.com/copesedes/sevilla.mp3.m3u
 #EXTINF:-1 group-title="Misc",ES Radio
-http://livestreaming.esradio.fm/stream64.mp3
+http://65.109.81.84:7853/stream
 #EXTINF:-1 group-title="Misc",RAC 1
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
 #EXTINF:-1 group-title="Misc",Radio Marca Madrid
@@ -30,9 +30,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NAC
 #EXTINF:-1 group-title="Misc",Radio Marca Barcelona
 http://radioweb.radiomarcabarcelona.com:9000/stream.m3u
 #EXTINF:-1 group-title="Misc",Catalunya Radio
-https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
+http://srv0435.lcinternet.com:9522/stream
 #EXTINF:-1 group-title="Misc",Onda Cero Espania
-https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
+https://atres-live.ondacero.es/live/ondaceroeventos1/0/br1/000000000000/99734/br1_179537683.ts
 #EXTINF:-1 group-title="Misc",Informa Radio
 https://24x7.red:42045/informa
 #EXTINF:-1 group-title="Misc",Radio Libertad

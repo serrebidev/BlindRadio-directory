@@ -26,23 +26,23 @@ https://tunein.cdnstream1.com/3519_96.aac
 #EXTINF:-1 group-title="Misc",Fox News Radio
 https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc
 #EXTINF:-1 group-title="Misc",Fox News
-https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/foxfree/master.m3u8
+https://stream.zeno.fm/nxelfcuw5zivv
 #EXTINF:-1 group-title="Misc",Fox Sports Radio 1400
 https://stream.revma.ihrhls.com/zc2089
 #EXTINF:-1 group-title="Misc",Israel News Talk
-https://dfw.audio-stream.com/proxy/israelne?mp=/live_live
+https://us2.maindigitalstream.com/ssl/KCRS
 #EXTINF:-1 group-title="Misc",World Radio Switzerland
 https://streamingr.broadcastradio.com:10295/wrs
 #EXTINF:-1 group-title="Misc",ABC Radio National
 http://abc.streamguys1.com/live/rnnsw/icecast.audio
 #EXTINF:-1 group-title="Misc",ABC Radio Melbourne
-https://streaming.abc-cdn.net.au/audio/hls/localmelbourne.m3u8?source=web
+http://s33.myradiostream.com:16972/listen.mp3
 #EXTINF:-1 group-title="Misc",ABC News Radio
 http://abc.streamguys1.com/live/newsradio/icecast.audio
 #EXTINF:-1 group-title="Misc",Sky News Australia Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
 #EXTINF:-1 group-title="Misc",MSNBC
-https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/msnbcfree/master.m3u8
+https://tunein.cdnstream1.com/3511_96.mp3
 #EXTINF:-1 group-title="Misc",Radio Vaticana English
 https://radio.vaticannews.va/stream-en
 #EXTINF:-1 group-title="Misc",MS Now

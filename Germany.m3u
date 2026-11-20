@@ -186,7 +186,7 @@ http://sr.audiostream.io/sr/1009/mp3/128/sr1
 #EXTINF:-1 group-title="SR",SR 1 Like-O-Mat
 http://sr.audiostream.io/sr/1012/mp3/128/sr1c1
 #EXTINF:-1 group-title="SR",SR 1 Lounge
-http://sr.audiostream.io/sr/1012/mp3/128/sr1c2
+http://stream.antenne.de/lounge/stream/aacp?aw_0_1st.playerid=tunein.com
 #EXTINF:-1 group-title="SR",SR 2 KulturRadio
 http://sr.audiostream.io/sr/1010/mp3/128/sr2
 #EXTINF:-1 group-title="SR",SR 3 Oldiewelt
@@ -198,9 +198,9 @@ http://sr.audiostream.io/sr/1012/mp3/128/sr3c1
 #EXTINF:-1 group-title="SR",UnserDing
 http://liveradio.sr.de/sr/ud/mp3/128/stream.mp3?aggregator=custom1
 #EXTINF:-1 group-title="SR",UnserDing Zukunft
-http://liveradio.sr.de/sr/udc2/mp3/128/stream.mp3?aggregator=custom1
+http://rs4.stream24.net/unser-radio.mp3
 #EXTINF:-1 group-title="SR",UnserDing - Schwarz
-http://liveradio.sr.de/sr/udc1/mp3/128/stream.mp3?aggregator=custom1
+http://rs4.stream24.net/unser-radio.mp3
 #EXTINF:-1 group-title="SWR",DASDING
 https://liveradio.swr.de/sw282p3/dasding/
 #EXTINF:-1 group-title="SWR",DASDING Chillout
@@ -398,7 +398,7 @@ http://streambbr.ir-media-tec.com/partydance/mp3-128
 #EXTINF:-1 group-title="B",BB Radio - Rock
 http://streambbr.ir-media-tec.com/rock/mp3-128
 #EXTINF:-1 group-title="B",Berliner Rundfunk 91.4 FM
-http://138.201.252.3:80/brf_128
+https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.m3u
 #EXTINF:-1 group-title="B",bigFM
 http://stream.bigfm.de/worldbeats/mp3-128
 #EXTINF:-1 group-title="B",ByteFM
@@ -410,7 +410,7 @@ http://stream.laut.fm/chaos-radio
 #EXTINF:-1 group-title="C",Charivari 98.6 - Funkhaus Nürnberg
 https://frontend.streamonkey.net/fhn-986charivarichillout/stream/mp3
 #EXTINF:-1 group-title="C",Charivari Live
-http://rs5.stream24.net:80/stream
+https://frontend.streamonkey.net/charivari-live?aggregator=TuneIn
 #EXTINF:-1 group-title="C",Charivari Regensburg
 https://edge03.streamonkey.net/charivaristream-regensburg/stream/mp3
 #EXTINF:-1 group-title="C",Coloradio 98.4 FM
@@ -472,7 +472,7 @@ https://ffn-stream20.radiohost.de/peppermintfm_mp3-192
 #EXTINF:-1 group-title="F",FluxFM Berlin
 http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035
 #EXTINF:-1 group-title="F",Freies Radio Freudenstadt
-https://s3.fairprice-streams.de:9148/stream
+https://stream.radio-fds.de:9148/stream
 #EXTINF:-1 group-title="F",Freies Sender Kombinat Hamburg
 http://stream.fsk-hh.org:8000/fsk.mp3
 #EXTINF:-1 group-title="G",Gitarre.fm
@@ -506,7 +506,7 @@ http://streaming.hitradio-rtl.de/hitradio-rtl_simulcast__dresden_192k_mp3
 #EXTINF:-1 group-title="H",Hitradio RTL - Top40
 http://streaming.hitradio-rtl.de/hitradio-rtl_top40_192k_mp3
 #EXTINF:-1 group-title="H",HITRADIO SKW 105.1 FM
-https://server4.streamserver24.com:26237/live
+http://ice.abradio.cz/hitradiofm128.mp3
 #EXTINF:-1 group-title="H",Hochschulradio Aachen 99.1 FM
 http://evans.hochschulradio.rwth-aachen.de:8000/radio.mp3
 #EXTINF:-1 group-title="H",Hochschulradio Kölncampus
@@ -570,9 +570,9 @@ http://stream.klassikradio.de/smooth/mp3-128
 #EXTINF:-1 group-title="Klassik Radio",Klassik Radio - Schiller
 http://stream.klassikradio.de/schiller/mp3-128
 #EXTINF:-1 group-title="L",LandesWelle deutsch
-http://landeswelle-de-hz-fal-stream02-cluster01.radiohost.de:80/lwdemp3-192
+https://s10.streamingcloud.online/stream/landeswelle-fm
 #EXTINF:-1 group-title="L",LandesWelle Thüringen
-http://landeswelle-de-hz-fal-stream05-cluster01.radiohost.de:80/lwtmp3-192
+https://s10.streamingcloud.online/stream/landeswelle-fm
 #EXTINF:-1 group-title="L",Lausitzwelle
 http://s4.radionetz.de/lausitzwelle.mp3
 #EXTINF:-1 group-title="L",LernRadio LIVE
@@ -872,7 +872,7 @@ http://mp3.rsaradio2.c.nmdn.net/ps-rsaradio2/hqlivestream.mp3
 #EXTINF:-1 group-title="R",RSA Radio 3
 http://mp3.rsaradio3.c.nmdn.net/ps-rsaradio3/hqlivestream.mp3
 #EXTINF:-1 group-title="R",Rundfunk Meissner 99.4 FM
-https://server4.streamserver24.com:43524/stream
+https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.m3u
 #EXTINF:-1 group-title="S",Schwany 1 Volkstümlich
 https://schwany.streampanel.cloud/1-schwany
 #EXTINF:-1 group-title="S",Schwany 2 Schlager

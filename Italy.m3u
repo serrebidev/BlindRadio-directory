@@ -40,7 +40,7 @@ https://sportiva.inmystream.it/stream/sportiva
 #EXTINF:-1 group-title="Misc",TeleRadio
 http://stream.laut.fm/teleradio1
 #EXTINF:-1 group-title="Misc",RTL 102.5
-https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8
+https://stream.rcast.net/210096
 #EXTINF:-1 group-title="Misc",Radio Onda d'Urto
 https://hochimin.urtostream.org:8443/radiondadurto.mp3
 #EXTINF:-1 group-title="Misc",Radio Italy Live
@@ -48,9 +48,9 @@ https://streaming.radiostreamlive.com/radioitalylive_devices
 #EXTINF:-1 group-title="Misc",ICN Radio
 http://icnradiostream.out.airtime.pro:8000/icnradiostream_a
 #EXTINF:-1 group-title="Misc",Radio Italia
-https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
+http://balloitalianonetwork.com/proxy/rcerru01?mp=/stream
 #EXTINF:-1 group-title="Misc",Radio Freccia
-https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8
+https://streamingv2.shoutcast.com/radiofreccia
 #EXTINF:-1 group-title="Misc",Radio Senti Chi Parla
 https://26343.live.streamtheworld.com/SAM01AAC222.aac
 #EXTINF:-1 group-title="Misc",Radio Ufita

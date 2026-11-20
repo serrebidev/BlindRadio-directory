@@ -153,6 +153,24 @@ def probe_dead(url):
     return second["why"] or first["why"]
 
 
+def probe_alive_twice(url):
+    """Mirror of probe_dead: a replacement counts only if two probes,
+    with different clients, both succeed. Returns the probe result or
+    None."""
+    first = probe(url, ua=UA_PROBE)
+    if not first["alive"]:
+        return None
+    time.sleep(1)
+    second = probe(url, ua=UA_PROBE2)
+    if not second["alive"]:
+        return None
+    if second["bitrate"] is None:
+        second["bitrate"] = first["bitrate"]
+    if not second["codec"]:
+        second["codec"] = first["codec"]
+    return second
+
+
 # ---------------------------------------------------------------- names
 
 def norm(name):
@@ -436,11 +454,12 @@ def find_replacement(name, dead_url):
         except Exception as e:
             print(f"  source {fn.__name__} failed: {e}", file=sys.stderr)
     verified = []
-    # Probe every candidate so the highest-quality stream wins, not
-    # merely the first one a source happens to list.
+    # Probe every candidate twice (both must succeed) so the
+    # highest-quality stream wins, not merely the first one a source
+    # happens to list, and never a flaky one-probe wonder.
     for c in candidates:
-        p = probe(c["url"])
-        if p["alive"]:
+        p = probe_alive_twice(c["url"])
+        if p:
             c = dict(c)
             c["url"] = p["final_url"]
             c["bitrate"] = p["bitrate"] or c["bitrate"]
