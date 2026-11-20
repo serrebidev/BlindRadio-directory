@@ -46,7 +46,11 @@ def fetch(url, ua=UA_WEB, timeout=25, limit=2_000_000, data=None, headers=None):
         h.update(headers)
     req = urllib.request.Request(url, data=data, headers=h)
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.status, r.headers, r.read(limit)
+        try:
+            body = r.read(limit)
+        except Exception as e:  # IncompleteRead: server closed early
+            body = getattr(e, "partial", b"") or b""
+        return r.status, r.headers, body
 
 
 # ---------------------------------------------------------------- probe
@@ -178,20 +182,24 @@ def src_icecast(name):
     if _icecast_cache is None:
         _, _, body = fetch("https://dir.xiph.org/yp.xml", timeout=60,
                            limit=60_000_000)
-        _icecast_cache = body.decode("utf-8", "replace")
-    out = []
-    for entry in re.findall(r"<entry>.*?</entry>", _icecast_cache, re.S):
-        def tag(t):
-            m = re.search(rf"<{t}>(.*?)</{t}>", entry, re.S)
-            return m.group(1).strip() if m else ""
-        sname = tag("server_name")
-        if sname and name_match(name, sname):
+        text = body.decode("utf-8", "replace")
+        _icecast_cache = []
+        for entry in re.findall(r"<entry>.*?</entry>", text, re.S):
+            def tag(t):
+                m = re.search(rf"<{t}>(.*?)</{t}>", entry, re.S)
+                return m.group(1).strip() if m else ""
+            sname = tag("server_name")
             br = tag("bitrate")
-            out.append({"name": sname, "url": tag("listen_url"),
-                        "bitrate": int(br) if br.isdigit() else None,
-                        "codec": tag("server_type").replace("audio/", "").upper(),
-                        "source": "Icecast"})
-    return out
+            if sname:
+                _icecast_cache.append(
+                    (sname, norm(sname), tag("listen_url"),
+                     int(br) if br.isdigit() else None,
+                     tag("server_type").replace("audio/", "").upper()))
+    want = norm(name)
+    return [{"name": sname, "url": url, "bitrate": br, "codec": codec,
+             "source": "Icecast"}
+            for sname, snorm, url, br, codec in _icecast_cache
+            if url and match_norm(want, snorm)]
 
 
 def src_shoutcast(name):
@@ -227,11 +235,12 @@ def src_iprd(name):
         _iprd_cache = json.loads(body)
     stations = _iprd_cache.get("stations", _iprd_cache) \
         if isinstance(_iprd_cache, dict) else _iprd_cache
+    want = norm(name)
     out = []
     for st in stations:
         sname = st.get("name") or st.get("title") or ""
         streams = st.get("streams") or ([st["url"]] if st.get("url") else [])
-        if sname and name_match(name, sname):
+        if sname and match_norm(want, norm(sname)):
             for u in streams[:2]:
                 if isinstance(u, dict):
                     u = u.get("url", "")
@@ -335,7 +344,7 @@ def src_moondust(name):
         if st.get("status") == "retired":
             continue
         sname = st.get("name", "")
-        if sname and name_match(name, sname):
+        if sname and match_norm(norm(name), norm(sname)):
             for s in st.get("streams", []):
                 u = s.get("url", "")
                 if u.startswith(("http://", "https://")):
