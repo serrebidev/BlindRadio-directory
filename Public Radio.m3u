@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="AZPM",AZPM
-https://streaming.azpm.org/kuaz256
+http://streaming.azpm.org:80/kuaz128.mp3
 #EXTINF:-1 group-title="AZPM",AZPM Classical
 http://mscp3.live-streams.nl:8250/class-high.aac
 #EXTINF:-1 group-title="AZPM",AZPM Jazz

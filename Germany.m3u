@@ -200,7 +200,7 @@ http://liveradio.sr.de/sr/ud/mp3/128/stream.mp3?aggregator=custom1
 #EXTINF:-1 group-title="SR",UnserDing Zukunft
 http://streaming02.sr-online.de/unserding-zukunft.m3u
 #EXTINF:-1 group-title="SR",UnserDing - Schwarz
-http://liveradio.sr.de/sr/udc1/mp3/128/stream.mp3?aggregator=custom1
+https://liveradio.sr.de/sr/ud/mp3/128/stream.mp3?aggregator=custom1
 #EXTINF:-1 group-title="SWR",DASDING
 https://liveradio.swr.de/sw282p3/dasding/
 #EXTINF:-1 group-title="SWR",DASDING Chillout
@@ -872,7 +872,7 @@ http://mp3.rsaradio2.c.nmdn.net/ps-rsaradio2/hqlivestream.mp3
 #EXTINF:-1 group-title="R",RSA Radio 3
 http://mp3.rsaradio3.c.nmdn.net/ps-rsaradio3/hqlivestream.mp3
 #EXTINF:-1 group-title="R",Rundfunk Meissner 99.4 FM
-https://server4.streamserver24.com:43524/stream
+https://icecast.radiorfm.de/rfm.ogg
 #EXTINF:-1 group-title="S",Schwany 1 Volkstümlich
 https://schwany.streampanel.cloud/1-schwany
 #EXTINF:-1 group-title="S",Schwany 2 Schlager

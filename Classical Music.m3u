@@ -8,7 +8,7 @@ http://stream.zeno.fm/omumxm9egmytv
 #EXTINF:-1 group-title="ABC Classic",ABC Classic 2
 https://abc.streamguys1.com/live/classicfmnsw/icecast.audio
 #EXTINF:-1 group-title="ABC Classic",ABC Classic Drive
-https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8
+https://abc.streamguys1.com/live/classicfmnsw/icecast.audio
 #EXTINF:-1 group-title="Accent 4",Accent 4
 http://str0.creacast.com/accent4
 #EXTINF:-1 group-title="Adagio.FM",Adagio.FM - Timeless Classical Music
@@ -172,7 +172,7 @@ http://79.120.77.11:9063
 #EXTINF:-1 group-title="RauteMusik.FM",Klassik
 https://stream.klassikradio.de/national/aac-128/tunein
 #EXTINF:-1 group-title="RauteMusik.FM",SoloPiano
-http://solopiano-high.rautemusik.fm
+https://rautemusik.stream37.radiohost.de/solopiano
 #EXTINF:-1 group-title="RauteMusik.FM",Study
 https://study-high.rautemusik.fm/
 #EXTINF:-1 group-title="RauteMusik.FM",Lounge

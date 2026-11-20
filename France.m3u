@@ -132,7 +132,7 @@ https://icecast.radiofrance.fr/fbauxerre-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Azur
 https://icecast.radiofrance.fr/fbazur-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Basse Normandy
-https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie.m3u8
+https://icecast.radiofrance.fr/fbbassenormandie-midfi.mp3?id=radiofrance
 #EXTINF:-1 group-title="Ici",Ici Béarn
 https://icecast.radiofrance.fr/fbbearn-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Belfort-Montbéliard
@@ -162,7 +162,7 @@ https://icecast.radiofrance.fr/fbgascogne-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Gironde
 https://icecast.radiofrance.fr/fbgironde-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Haute normandy
-https://stream.radiofrance.fr/fbhautenormandie/fbhautenormandie.m3u8
+https://icecast.radiofrance.fr/fbhautenormandie-midfi.mp3?id=radiofrance
 #EXTINF:-1 group-title="Ici",Ici Herault
 https://icecast.radiofrance.fr/fbherault-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Isère

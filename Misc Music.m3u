@@ -120,11 +120,11 @@ https://listen-nation.sharp-stream.com/nation60s.mp3
 #EXTINF:-1 group-title="Nation",Nation 70s
 https://listen-nation.sharp-stream.com/nationradio70s.mp3
 #EXTINF:-1 group-title="Nation",Nation 80s
-http://listen-nation.sharp-stream.com/nationradio80s-dab.mp3?ref=RF Title1=nationradio80s-dab.mp3
+http://listen-nation.sharp-stream.com/nationradio80s.mp3
 #EXTINF:-1 group-title="Nation",Nation 90s
-http://listen-nation.sharp-stream.com/nationradio90s-dab.mp3?ref=RF Title1=nationradio90s-dab.mp3
+http://listen-nation.sharp-stream.com/nationradio90s.mp3
 #EXTINF:-1 group-title="Nation",Nation 00s
-http://listen-nation.sharp-stream.com/nationradio00sdab.mp3?ref=RF Title1=nationradio00sdab.mp3
+http://listen-nation.sharp-stream.com/nationradio00s.mp3
 #EXTINF:-1 group-title="New Age",New Age Radio
 http://a7.radioheart.ru:8044/newageradio?_ga=2.255684622.769977034.1646991967-126118534.1646991967
 #EXTINF:-1 group-title="New Age",RadioArt - New Age
@@ -294,7 +294,7 @@ https://secureonair.krone.at/kronehit-ultra-hd.aac
 #EXTINF:-1 group-title="Misc",M-1 Plius
 http://radio.m-1.fm/m1plius/aacp320
 #EXTINF:-1 group-title="Misc",Stream 91.121.104.139
-http://91.121.104.139:9280/
+http://nr7.newradio.it:9350/stream
 #EXTINF:-1 group-title="Misc",Dance Wave!
 http://dancewave.online/dance.flac.ogg
 #EXTINF:-1 group-title="Misc",Dance Wave Retro!

@@ -1010,39 +1010,153 @@
    "source": "Radio.net",
    "bitrate": 320,
    "codec": "MP3"
-  }
- ],
- "unreplaced": [
+  },
   {
    "station": "CBC Radio 1 Vancouver",
    "file": "Canada.m3u",
-   "url": "https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8",
-   "why": "nested playlist"
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8",
+   "new": "https://22983.live.streamtheworld.com/CBU2FM_CBC.mp3",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 128,
+   "codec": "MP3"
   },
   {
    "station": "CBC Radio 1 Winnipeg",
    "file": "Canada.m3u",
-   "url": "https://cbcradiolive.akamaized.net/hls/live/2040991/ES_R1CWP/master.m3u8",
-   "why": "nested playlist"
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2040991/ES_R1CWP/master.m3u8",
+   "new": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBWAM_CBC.mp3",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 128,
+   "codec": "MP3"
   },
   {
    "station": "CBC Radio 1 Halifax",
    "file": "Canada.m3u",
-   "url": "https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8",
-   "why": "nested playlist"
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8",
+   "new": "https://26733.live.streamtheworld.com/CBHA_CBC.mp3",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 128,
+   "codec": "MP3"
   },
   {
    "station": "CBC Radio 1 Sydney",
    "file": "Canada.m3u",
-   "url": "https://cbcradiolive.akamaized.net/hls/live/2041043/ES_R1MNS/master.m3u8",
-   "why": "nested playlist"
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2041043/ES_R1MNS/master.m3u8",
+   "new": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBIS_CBC.mp3",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 128,
+   "codec": "MP3"
   },
   {
    "station": "CBC Radio 1 Montr\u00e9al",
    "file": "Canada.m3u",
-   "url": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
-   "why": "nested playlist"
+   "old": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
+   "new": "http://27033.live.streamtheworld.com:80/CBMEFM_CBC_SC",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 128,
+   "codec": "MP3"
   },
+  {
+   "station": "SoloPiano",
+   "file": "Classical Music.m3u",
+   "old": "http://solopiano-high.rautemusik.fm",
+   "new": "https://rautemusik.stream37.radiohost.de/solopiano",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Basse Normandy",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbbassenormandie-midfi.mp3?id=radiofrance",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Ici Haute normandy",
+   "file": "France.m3u",
+   "old": "https://stream.radiofrance.fr/fbhautenormandie/fbhautenormandie.m3u8",
+   "new": "https://icecast.radiofrance.fr/fbhautenormandie-midfi.mp3?id=radiofrance",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Stream 91.121.104.139",
+   "file": "Misc Music.m3u",
+   "old": "http://91.121.104.139:9280/",
+   "new": "http://nr7.newradio.it:9350/stream",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": null,
+   "codec": "MP3"
+  },
+  {
+   "station": "AZPM",
+   "file": "Public Radio.m3u",
+   "old": "https://streaming.azpm.org/kuaz256",
+   "new": "http://streaming.azpm.org:80/kuaz128.mp3",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 192,
+   "codec": "MP3"
+  },
+  {
+   "station": "ABC Classic Drive",
+   "file": "Classical Music.m3u",
+   "old": "https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8",
+   "new": "https://abc.streamguys1.com/live/classicfmnsw/icecast.audio",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 56,
+   "codec": "AACP"
+  },
+  {
+   "station": "UnserDing - Schwarz",
+   "file": "Germany.m3u",
+   "old": "http://liveradio.sr.de/sr/udc1/mp3/128/stream.mp3?aggregator=custom1",
+   "new": "https://liveradio.sr.de/sr/ud/mp3/128/stream.mp3?aggregator=custom1",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Rundfunk Meissner 99.4 FM",
+   "file": "Germany.m3u",
+   "old": "https://server4.streamserver24.com:43524/stream",
+   "new": "https://icecast.radiorfm.de/rfm.ogg",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 96,
+   "codec": "OGG"
+  },
+  {
+   "station": "Nation 80s",
+   "file": "Misc Music.m3u",
+   "old": "http://listen-nation.sharp-stream.com/nationradio80s-dab.mp3?ref=RF Title1=nationradio80s-dab.mp3",
+   "new": "http://listen-nation.sharp-stream.com/nationradio80s.mp3",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Nation 90s",
+   "file": "Misc Music.m3u",
+   "old": "http://listen-nation.sharp-stream.com/nationradio90s-dab.mp3?ref=RF Title1=nationradio90s-dab.mp3",
+   "new": "http://listen-nation.sharp-stream.com/nationradio90s.mp3",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 128,
+   "codec": "MP3"
+  },
+  {
+   "station": "Nation 00s",
+   "file": "Misc Music.m3u",
+   "old": "http://listen-nation.sharp-stream.com/nationradio00sdab.mp3?ref=RF Title1=nationradio00sdab.mp3",
+   "new": "http://listen-nation.sharp-stream.com/nationradio00s.mp3",
+   "source": "web/GitHub per-station search (2026-11-20)",
+   "bitrate": 128,
+   "codec": "MP3"
+  }
+ ],
+ "unreplaced": [
   {
    "station": "Ici Premi\u00e8re Qu\u00e9bec",
    "file": "Canada.m3u",
@@ -1053,24 +1167,6 @@
    "station": "Ici Premi\u00e8re Toronto",
    "file": "Canada.m3u",
    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8",
-   "why": "nested playlist"
-  },
-  {
-   "station": "SoloPiano",
-   "file": "Classical Music.m3u",
-   "url": "http://solopiano-high.rautemusik.fm",
-   "why": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "station": "Ici Basse Normandy",
-   "file": "France.m3u",
-   "url": "https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie.m3u8",
-   "why": "nested playlist"
-  },
-  {
-   "station": "Ici Haute normandy",
-   "file": "France.m3u",
-   "url": "https://stream.radiofrance.fr/fbhautenormandie/fbhautenormandie.m3u8",
    "why": "nested playlist"
   },
   {
@@ -1092,12 +1188,6 @@
    "why": "HTTPError: HTTP Error 404: Not Found"
   },
   {
-   "station": "Stream 91.121.104.139",
-   "file": "Misc Music.m3u",
-   "url": "http://91.121.104.139:9280/",
-   "why": "BadStatusLine: ICY 200 OK\r\n"
-  },
-  {
    "station": "Radio Namayesh",
    "file": "Persian.m3u",
    "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8",
@@ -1114,12 +1204,6 @@
    "file": "Persian.m3u",
    "url": "https://live.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/livehls/aparatsportliveadel_vyp04o6_240p/index.m3u8",
    "why": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "station": "AZPM",
-   "file": "Public Radio.m3u",
-   "url": "https://streaming.azpm.org/kuaz256",
-   "why": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:108"
   },
   {
    "station": "Danse 24",
@@ -1167,12 +1251,6 @@
    "station": "Grand Nord",
    "file": "Canada.m3u",
    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8",
-   "why": "wrong-station swap reverted; no verified same-station replacement"
-  },
-  {
-   "station": "ABC Classic Drive",
-   "file": "Classical Music.m3u",
-   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8",
    "why": "wrong-station swap reverted; no verified same-station replacement"
   },
   {
@@ -1314,21 +1392,9 @@
    "why": "wrong-station swap reverted; no verified same-station replacement"
   },
   {
-   "station": "UnserDing - Schwarz",
-   "file": "Germany.m3u",
-   "url": "http://liveradio.sr.de/sr/udc1/mp3/128/stream.mp3?aggregator=custom1",
-   "why": "wrong-station swap reverted; no verified same-station replacement"
-  },
-  {
    "station": "HITRADIO SKW 105.1 FM",
    "file": "Germany.m3u",
    "url": "https://server4.streamserver24.com:26237/live",
-   "why": "wrong-station swap reverted; no verified same-station replacement"
-  },
-  {
-   "station": "Rundfunk Meissner 99.4 FM",
-   "file": "Germany.m3u",
-   "url": "https://server4.streamserver24.com:43524/stream",
    "why": "wrong-station swap reverted; no verified same-station replacement"
   },
   {
@@ -1410,24 +1476,6 @@
    "why": "wrong-station swap reverted; no verified same-station replacement"
   },
   {
-   "station": "Nation 80s",
-   "file": "Misc Music.m3u",
-   "url": "http://listen-nation.sharp-stream.com/nationradio80s-dab.mp3?ref=RF Title1=nationradio80s-dab.mp3",
-   "why": "wrong-station swap reverted; no verified same-station replacement"
-  },
-  {
-   "station": "Nation 90s",
-   "file": "Misc Music.m3u",
-   "url": "http://listen-nation.sharp-stream.com/nationradio90s-dab.mp3?ref=RF Title1=nationradio90s-dab.mp3",
-   "why": "wrong-station swap reverted; no verified same-station replacement"
-  },
-  {
-   "station": "Nation 00s",
-   "file": "Misc Music.m3u",
-   "url": "http://listen-nation.sharp-stream.com/nationradio00sdab.mp3?ref=RF Title1=nationradio00sdab.mp3",
-   "why": "wrong-station swap reverted; no verified same-station replacement"
-  },
-  {
    "station": "BBC Radio 1 Anthems",
    "file": "UK.m3u",
    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_one_anthems&bitrate=320000",
@@ -1438,5 +1486,6 @@
  "repair": {
   "refixed": 47,
   "reverted": 37
- }
+ },
+ "web_github_search": "2026-11-20: 16 of 70 unreplaced stations fixed; 54 still have no verified same-station stream"
 }

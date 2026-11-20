@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="cbc",CBC Radio 1 Vancouver
-https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8
+https://22983.live.streamtheworld.com/CBU2FM_CBC.mp3
 #EXTINF:-1 group-title="cbc",CBC Radio 1 Winnipeg
-https://cbcradiolive.akamaized.net/hls/live/2040991/ES_R1CWP/master.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBWAM_CBC.mp3
 #EXTINF:-1 group-title="cbc",CBC Radio 1 Halifax
-https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8
+https://26733.live.streamtheworld.com/CBHA_CBC.mp3
 #EXTINF:-1 group-title="cbc",CBC Radio 1 Sydney
-https://cbcradiolive.akamaized.net/hls/live/2041043/ES_R1MNS/master.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBIS_CBC.mp3
 #EXTINF:-1 group-title="cbc",CBC Radio 1 Toronto
 https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/adaptive_128/1sdvbbio/00000114/media_217127.aac
 #EXTINF:-1 group-title="cbc",CBC Radio 1 Montréal
-https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
+http://27033.live.streamtheworld.com:80/CBMEFM_CBC_SC
 #EXTINF:-1 group-title="cbc",CBC Radio 1 Québec City
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBVEFM_CBC.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc5NTIwMzk5MiwiaXNzIjoidGlzcnYifQ.7CMe2X55k6Q0XI9H0-31000FDavoPBPqt9-ssUqqWKE
 #EXTINF:-1 group-title="cbc",Ici Première Alberta
