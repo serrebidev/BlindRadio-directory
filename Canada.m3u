@@ -8,37 +8,37 @@ https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8
 #EXTINF:-1 group-title="cbc",CBC Radio 1 Sydney
 https://cbcradiolive.akamaized.net/hls/live/2041043/ES_R1MNS/master.m3u8
 #EXTINF:-1 group-title="cbc",CBC Radio 1 Toronto
-https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/adaptive_128/1sdvbbio/00000114/media_217085.aac
+https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/adaptive_128/1sdvbbio/00000114/media_217127.aac
 #EXTINF:-1 group-title="cbc",CBC Radio 1 Montréal
 https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
 #EXTINF:-1 group-title="cbc",CBC Radio 1 Québec City
-https://playerservices.streamtheworld.com/api/livestream-redirect/CBVEFM_CBC.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc5NTIwMzU2NywiaXNzIjoidGlzcnYifQ.o9C04GQko26iW-ajvpVT96VJfHdq2ftVGCz5rZ5UlTQ
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBVEFM_CBC.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc5NTIwMzk5MiwiaXNzIjoidGlzcnYifQ.7CMe2X55k6Q0XI9H0-31000FDavoPBPqt9-ssUqqWKE
 #EXTINF:-1 group-title="cbc",Ici Première Alberta
-https://a12.asurahosting.com/listen/alberta_radio/radio.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHFAFM_SRC.mp3
 #EXTINF:-1 group-title="cbc",Ici Première Montréal
-http://streaming04.hstbr.net:8250/live
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBFFM_SRC.mp3
 #EXTINF:-1 group-title="cbc",Ici Première Québec
 https://rcavliveaudio.akamaized.net/hls/live/2006974/P-2QTRV0_TRV/master.m3u8
 #EXTINF:-1 group-title="cbc",Ici Première Toronto
 https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8
 #EXTINF:-1 group-title="cbc",CBC Music Atlantic
-https://broadcast.miami/proxy/atlantic?mp=%2Fstream%2F%3B
+https://26183.live.streamtheworld.com/CBH_CBC_SC
 #EXTINF:-1 group-title="cbc",CBC Music Central
-https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3
+https://cbcradiolive.akamaized.net/hls/live/2041056/ES_R2CWP/adaptive_192/b16jqi62/00000114/media_217889.aac
 #EXTINF:-1 group-title="cbc",CBC Music Eastern
-https://a10.asurahosting.com:7350/radio.mp3
+https://26373.live.streamtheworld.com/CBLFM_CBC_SC
 #EXTINF:-1 group-title="cbc",CBC Music Mountain
-https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3
+https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
 #EXTINF:-1 group-title="cbc",CBC Music Pacific
-https://a10.asurahosting.com:7350/radio.mp3
+https://26733.live.streamtheworld.com/CBUFM_CBC_SC
 #EXTINF:-1 group-title="cbc",Ici Musique Alberta
-https://a12.asurahosting.com/listen/alberta_radio/radio.mp3
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
 #EXTINF:-1 group-title="cbc",Ici Musique Colombie-Britannique-Yukon, Grand Nord
-http://s9.yesstreaming.net:7080/stream
+https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
 #EXTINF:-1 group-title="cbc",Ici Musique Manitoba
 https://18123.live.streamtheworld.com/CBVXFM_SRC.mp3
 #EXTINF:-1 group-title="cbc",Ici Musique Québec
-https://18123.live.streamtheworld.com/CBVXFM_SRC.mp3
+https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
 #EXTINF:-1 group-title="cbc",Ici Musique Classique
 http://playerservices.streamtheworld.com/api/livestream-redirect/ICI_MusiqueClassique_SRC.mp3
 #EXTINF:-1 group-title="Misc",CityNews Toronto

@@ -2,9 +2,9 @@
 #EXTINF:-1 group-title="AZPM",AZPM
 https://streaming.azpm.org/kuaz256
 #EXTINF:-1 group-title="AZPM",AZPM Classical
-https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+http://mscp3.live-streams.nl:8250/class-high.aac
 #EXTINF:-1 group-title="AZPM",AZPM Jazz
-https://tektite.streamguys1.com:5145/wwnojazz?uuid=e64c7c3ks
+https://streaming.azpm.org/jazz256
 #EXTINF:-1 group-title="Blue Lake Public Radio",Blue Lake Public Radio
 http://wblv.streamguys1.com/live
 #EXTINF:-1 group-title="Houston Public Media",Houston Public Media News

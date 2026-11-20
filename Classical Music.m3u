@@ -4,11 +4,11 @@ http://listen.livestreamingservice.com/181-classical_128k.mp3
 #EXTINF:-1 group-title="181.FM",181.FM Classical Guitar
 http://listen.181fm.com/181-classicalguitar_128k.mp3
 #EXTINF:-1 group-title="ABC Classic",ABC Classic FM
-http://webradio.classicfm.dk/classichorsens
+http://stream.zeno.fm/omumxm9egmytv
 #EXTINF:-1 group-title="ABC Classic",ABC Classic 2
-http://webradio.classicfm.dk/classichorsens
+https://abc.streamguys1.com/live/classicfmnsw/icecast.audio
 #EXTINF:-1 group-title="ABC Classic",ABC Classic Drive
-http://109.185.236.241:8000/DriveFM
+https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8
 #EXTINF:-1 group-title="Accent 4",Accent 4
 http://str0.creacast.com/accent4
 #EXTINF:-1 group-title="Adagio.FM",Adagio.FM - Timeless Classical Music
@@ -42,41 +42,41 @@ http://streams.greenhost.nl:8080/gehoordestilte
 #EXTINF:-1 group-title="DR P2",DR P2 Klassisk
 https://opml.radiotime.com/Tune.ashx?id=s37197&formats=mp3,aac,ogg,hls
 #EXTINF:-1 group-title="Epic",Epic Classical Piano
-https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+https://holiday.stream.publicradio.org/peacefulpiano.mp3
 #EXTINF:-1 group-title="Epic",Epic Romantic Piano
-https://radio-romantic.ro/stream
+https://stream.epic-piano.com/romantic-piano
 #EXTINF:-1 group-title="Epic",Epic Chillout Piano
-http://chilloutfm.ru:8000/play
+https://stream.epic-piano.com/chillout-piano
 #EXTINF:-1 group-title="Epic",Epic Chopin
-https://tunein-live-b.cdnstream1.com/3764_128.mp3?aw_0_1st.skey=1795203628&lat=49.222&lon=-122.6181&aw_0_1st.abtest=&aw_0_1st.stationId=s191786&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g5&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.Other&aw_0_azn.planguage=en&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a40075%2ca38725%2ca39100&aw_0_1st.bandId=16&delivery=1
+https://stream.epic-piano.com/chopin
 #EXTINF:-1 group-title="Epic",Epic Classical Orchestral
-https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+https://stream.epic-classical.com/classical-orchestral
 #EXTINF:-1 group-title="Epic",Epic Modern Classical
-http://79.120.39.202:8000/modernclassical
+https://stream.epic-classical.com/modern-classical
 #EXTINF:-1 group-title="Epic",Epic Classical Violin
-https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+https://radio.hearme.fm:9210/stream
 #EXTINF:-1 group-title="Epic",Epic Pan Flute
-https://tunein-live-b.cdnstream1.com/3757_128.mp3?aw_0_1st.skey=1795203638&lat=49.222&lon=-122.6181&aw_0_1st.abtest=&aw_0_1st.stationId=s142242&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g5&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.Other&aw_0_azn.planguage=en&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a40075%2ca38725%2ca39100&aw_0_1st.bandId=16&delivery=1
+https://stream.epic-classical.com/classical-pan-flute
 #EXTINF:-1 group-title="Epic",Epic Classical Guitar
-https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+http://149.28.117.85/listen/classical_guitar_radio/radio.mp3
 #EXTINF:-1 group-title="Epic",Epic Classical Pop
-https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+https://stream.epic-classical.com/classical-pop
 #EXTINF:-1 group-title="Epic",Epic Classical Chillout
-http://chilloutfm.ru:8000/play
+https://stream.epic-classical.com/classical-chillout
 #EXTINF:-1 group-title="Epic",Epic Classical Nighttime
-https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+https://stream.epic-classical.com/classical-nighttime
 #EXTINF:-1 group-title="Epic",Epic Classical Lounge
-https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+https://stream.epic-classical.com/classical-lounge
 #EXTINF:-1 group-title="Epic",Epic Ibiza Chillout Lounge
-http://chilloutfm.ru:8000/play
+https://stream.epic-lounge.com/ibiza-chillout-lounge
 #EXTINF:-1 group-title="Epic",Epic Coffee Bar Lounge
-http://de1.streamhosting.ch/
+https://stream.epic-lounge.com/coffee-bar-lounge
 #EXTINF:-1 group-title="Epic",Epic Classical Romance
-https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+https://stream.epic-classical.com/classical-romance
 #EXTINF:-1 group-title="Epic",Epic  Classical Love Music
-https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+https://stream.epic-classical.com/classical-love-music
 #EXTINF:-1 group-title="Epic",Epic Classical Coffee Bar
-https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+https://stream.epic-classical.com/classical-coffee-bar
 #EXTINF:-1 group-title="Geen Dag",Geen dag zonder Bach
 http://streams.greenhost.nl:8080/bach
 #EXTINF:-1 group-title="Got Radio",Got Radio - Piano Perfect
@@ -160,23 +160,23 @@ http://213.141.131.10:8004/classavant
 #EXTINF:-1 group-title="Radio Caprice",Radio Caprice Celtic
 http://79.111.14.76:8000/celtic
 #EXTINF:-1 group-title="Radio Caprice",Radio Caprice Neoclassical
-http://79.111.119.111:8000/neoclassicalmetal
+http://79.120.39.202:9101
 #EXTINF:-1 group-title="Radio Caprice",Radio Caprice Classical Crossover
-http://79.120.39.202:8000/britpop
+http://79.120.77.11:9055
 #EXTINF:-1 group-title="Radio Caprice",Radio Caprice Organ
 http://79.120.77.11:8000/organ
 #EXTINF:-1 group-title="Radio Caprice",Radio Caprice New Age
-http://79.120.39.202:8000/newwave
+http://79.120.77.11:9047
 #EXTINF:-1 group-title="Radio Caprice",Radio Caprice Vocal
-http://79.120.39.202:8000/vocaltrance
+http://79.120.77.11:9063
 #EXTINF:-1 group-title="RauteMusik.FM",Klassik
-https://ekr.digital/proxy/ekr1/stream
+https://stream.klassikradio.de/national/aac-128/tunein
 #EXTINF:-1 group-title="RauteMusik.FM",SoloPiano
 http://solopiano-high.rautemusik.fm
 #EXTINF:-1 group-title="RauteMusik.FM",Study
-http://rdstream-0625.dez.ovh:8000/radio.mp3
+https://study-high.rautemusik.fm/
 #EXTINF:-1 group-title="RauteMusik.FM",Lounge
-https://mscp4.live-streams.nl:8142/lounge.ogg
+https://streams.radio7.de/lounge/aac-64/tunein/
 #EXTINF:-1 group-title="Rete Toscana Classica",Rete Toscana Classica
 https://nr12.newradio.it/stream/8744
 #EXTINF:-1 group-title="RMF Classic",RMF Classic

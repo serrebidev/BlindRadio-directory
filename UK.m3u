@@ -26,7 +26,7 @@ http://as-hls-ww-live.akamaized.net/pool_76847612/live/ww/bbc_pashto_radio/bbc_p
 #EXTINF:-1 group-title="BBC",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio 1 Anthems
-http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000-280500638.ts
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_one_anthems&bitrate=320000
 #EXTINF:-1 group-title="BBC",BBC Radio 1 Dance
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/dash/bbc_radio_one_dance-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio 1Xtra
@@ -36,7 +36,7 @@ http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radi
 #EXTINF:-1 group-title="BBC",BBC Radio 3
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio 3 Unwind
-http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000-280500639.ts
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_three_unwind&bitrate=320000
 #EXTINF:-1 group-title="BBC",BBC Radio 4
 http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio 4 Extra
@@ -44,7 +44,7 @@ http://as-hls-ww.live.cf.md.bbci.co.uk/pool_26173715/live/ww/bbc_radio_four_extr
 #EXTINF:-1 group-title="BBC",BBC Radio 5 Live
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/dash/bbc_radio_five_live-audio=320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio 5 Sports Extra
-https://eu11.fastcast4u.com:1680/;
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000&uk=1
 #EXTINF:-1 group-title="BBC",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="BBC",BBC Radio Berkshire
@@ -752,7 +752,7 @@ http://s6.autopo.st:8561/stream
 #EXTINF:-1 group-title="Community",DCR 97.4fm, Dunoon Community Radio
 http://stream2.hippynet.co.uk:8001/dunoon.mp3
 #EXTINF:-1 group-title="Community",DCR, Digital City Radio
-http://stream.digital-plus.fr/DP192k.mp3
+http://stream1.funkyessex.co.uk:8000/dab
 #EXTINF:-1 group-title="Community",DCR, Dover Community Radio
 http://stream1.hippynet.co.uk:8119/stream
 #EXTINF:-1 group-title="Community",Dean Radio
@@ -764,7 +764,7 @@ http://n06-eu2.rcs.revma.com:80/48dmk70k91uvv
 #EXTINF:-1 group-title="Community",Diverse FM
 http://icecast.mediaice.co.uk/DiverseMP3?ref=RF
 #EXTINF:-1 group-title="Community",Dorset Coast Radio
-http://streaming1.coastfm.com.au:8000/broadwavehigh.mp3
+http://uksoutha.streaming.broadcast.radio:24930/DorsetCoastRadio
 #EXTINF:-1 group-title="Community",Drive 105
 http://icecast.easystream.co.uk:8000/drive105
 #EXTINF:-1 group-title="Community",Drystone Radio
@@ -858,7 +858,7 @@ https://stream.cor.insanityradio.com/insanity.flac
 #EXTINF:-1 group-title="Community",Inspiration FM
 http://radio.canstream.co.uk:8078/inspirationfm.mp3
 #EXTINF:-1 group-title="Community",Inspire FM
-https://servidor18.brlogic.com:8798/live
+https://listen-inspirefm.sharp-stream.com/inspirefm.mp3?_=1
 #EXTINF:-1 group-title="Community",Irvine Beat FM
 http://solid2.streamupsolutions.com:24921/stream
 #EXTINF:-1 group-title="Community",Islands FM
@@ -932,7 +932,7 @@ http://stream3.themediasite.co.uk:8168/stream
 #EXTINF:-1 group-title="Community",NLive
 http://nebula.shoutca.st:8085/stream
 #EXTINF:-1 group-title="Community",North Manchester Radio
-http://netradio.live24.gr/north98thess
+http://radio.canstream.co.uk:8061/live.mp3
 #EXTINF:-1 group-title="Community",Nova Radio North East
 http://orion.shoutca.st:8003/stream
 #EXTINF:-1 group-title="Community",Oldham Community Radio
@@ -1010,7 +1010,7 @@ http://s3.voscast.com:11264/stream
 #EXTINF:-1 group-title="Community",Radio Plus
 http://stream.radioplus.org.uk:8000/plus320k
 #EXTINF:-1 group-title="Community",Radio Royal
-https://streams.radiomast.io/ref-lossless-ogg-flac-stereo
+https://stream.zeno.fm/kez8asv5echvv
 #EXTINF:-1 group-title="Community",Radio Saltire
 http://ukwesta.streaming.broadcast.radio:17750/radiosaltire
 #EXTINF:-1 group-title="Community",Radio Sangam
@@ -1068,7 +1068,7 @@ http://streaming04.liveboxstream.uk:8216/stream
 #EXTINF:-1 group-title="Community",RNIB Connect Radio
 http://n05-eu2.rcs.revma.com:80/yv4znr4xcg0uv
 #EXTINF:-1 group-title="Community",Roch Valley Radio
-https://exploits.radioca.st/evcr
+https://stream.rcs.revma.com/v0k7g3paxd3vv
 #EXTINF:-1 group-title="Community",Rookwood Sound
 http://149.202.83.114:8130/;
 #EXTINF:-1 group-title="Community",Rossendale Radio
@@ -1136,7 +1136,7 @@ http://uksoutha.streaming.broadcast.radio:16040/susycloudradio
 #EXTINF:-1 group-title="Community",SWINDON 105.5
 http://stream.cotswoldgrp.com:8015/sn
 #EXTINF:-1 group-title="Community",Tameside Radio
-https://listen-tamesideradio.sharp-stream.com/tamesideradio.mp3
+http://edge-audio-w2-01.sharp-stream.com:80/tamesideradio.mp3
 #EXTINF:-1 group-title="Community",TD1 Radio
 http://td1.mbc.scot:8000/radio.mp3
 #EXTINF:-1 group-title="Community",Tempo FM
@@ -1740,7 +1740,7 @@ http://streaming.soniic.co.uk:8030/stream_hi
 #EXTINF:-1 group-title="Independent and other",The Red
 http://hydra.shoutca.st:8223/stream
 #EXTINF:-1 group-title="Independent and other",The Rock Service
-http://stream.radioserviceweb.fr/radioservice.mp3
+http://therockservice.servebeer.com:7993/
 #EXTINF:-1 group-title="Independent and other",The VIP Lounge
 http://solid24.streamupsolutions.com:8061/stream
 #EXTINF:-1 group-title="Independent and other",The Voice 2
@@ -1950,13 +1950,13 @@ http://media-ice.musicradio.com/RadioXClassicRockMP3
 
 # STV Radio
 #EXTINF:-1 group-title="STV Radio",STV Radio (Ayrshire & North of Scotland)
-http://86.57.147.236/HLS/ctvby/ctv_segment22-48-42.ts
+http://stv-dsharp.sharp-stream.com/stv_high.mp3?ref=RF
 #EXTINF:-1 group-title="STV Radio",STV Radio (Central Scotland)
-http://86.57.147.236/HLS/ctvby/ctv_segment22-48-48.ts
+http://stv-dsharp.sharp-stream.com/stv_central.aac?ref=RF
 #EXTINF:-1 group-title="STV Radio",STV Radio (North East Scotland)
-http://86.57.147.236/HLS/ctvby/ctv_segment22-48-48.ts
+http://stv-dsharp.sharp-stream.com/stv_aberdeen.aac?ref=RF
 #EXTINF:-1 group-title="STV Radio",STV Radio (Tayside)
-http://86.57.147.236/HLS/ctvby/ctv_segment22-48-52.ts
+http://stv-dsharp.sharp-stream.com/stv_dundee.aac?ref=RF
 
 # Sunrise
 #EXTINF:-1 group-title="Sunrise",Sunrise Hits

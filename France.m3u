@@ -172,7 +172,7 @@ https://icecast.radiofrance.fr/fblarochelle-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Limousin
 https://icecast.radiofrance.fr/fblimousin-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Loire Océan
-http://213.175.217.198:8000/sligo
+http://direct.francebleu.fr/live/fbloireocean-midfi.mp3
 #EXTINF:-1 group-title="Ici",Ici Lorraine Nord
 https://icecast.radiofrance.fr/fblorrainenord-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Maine
@@ -196,7 +196,7 @@ https://icecast.radiofrance.fr/fbperigord-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Picardie
 https://icecast.radiofrance.fr/fbpicardie-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Poitou
-https://viaradios.com/stream/radiopoitou
+https://icecast.radiofrance.fr/fbpoitou-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Provence
 https://icecast.radiofrance.fr/fbprovence-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici RCFM
@@ -212,7 +212,7 @@ https://icecast.radiofrance.fr/fbtouraine-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Ici",Ici Vaucluse
 https://icecast.radiofrance.fr/fbvaucluse-midfi.mp3?ID=pd569ib97j
 #EXTINF:-1 group-title="Misc",RMC Info Talk Sport
-https://stream.lava.net.au/au_wa_6wsm_sportfm
+https://audio.bfmtv.com/rmcradio_128.mp3
 #EXTINF:-1 group-title="Misc",Sud Radio
 http://start-sud.ice.infomaniak.ch/start-sud-high.mp3
 #EXTINF:-1 group-title="Misc",Le Figaro Radio
@@ -230,7 +230,7 @@ https://streaming.nrjaudio.fm/oumvmk8fnozc
 #EXTINF:-1 group-title="Misc",Le Son Parisien
 http://stream.lesonparisien.com/hi.mp3
 #EXTINF:-1 group-title="Misc",Mistral FM
-https://mistralfmnice.ice.infomaniak.ch/mistralfmnice-192.mp3
+http://37.187.77.45:9011/stream
 #EXTINF:-1 group-title="Misc",Radio Marseillette
 https://rcast.pro-fhi.net:9006/stream
 #EXTINF:-1 group-title="Misc",Forever la Radio Bordeaux
@@ -330,7 +330,7 @@ http://rcf.streamakaci.com/rcf06.mp3
 #EXTINF:-1 group-title="RCF",RCF BRUXELLES
 http://rcf.streamakaci.com/rcfbruxelles.mp3
 #EXTINF:-1 group-title="RFI",RFI Monde
-https://stream.radiofrance.fr/accs3/fipworld/prod1transcoder2/fipworld_aac_hifi_4_548068_1795203846.ts?id=radiofrance
+http://direct.fipradio.fr/live/fipworld-hifi.aac
 #EXTINF:-1 group-title="RFI",RFI Afrique
 https://rfiafrique96k.ice.infomaniak.ch/rfiafrique-96k.mp3
 #EXTINF:-1 group-title="RFI",RFI Persan

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Misc",Antena 1
-https://hd-antena1.crossradio.com.br/stream/2;
+http://87.117.201.166:8000
 #EXTINF:-1 group-title="Misc",Antena 2
 http://87.117.201.162:8070/
 #EXTINF:-1 group-title="Misc",TSF Rádio Notícias

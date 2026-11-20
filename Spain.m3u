@@ -18,7 +18,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.
 #EXTINF:-1 group-title="Misc",Cope Directo 2
 https://flucast07-o-cloud.flumotion.com/cope/net2.mp3
 #EXTINF:-1 group-title="Misc",Cope Madrid
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID.mp3?dist=onlineradiobox
+https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3
 #EXTINF:-1 group-title="Misc",Cope Sevilla
 http://sevilla.copesedes.stream.flumotion.com/copesedes/sevilla.mp3.m3u
 #EXTINF:-1 group-title="Misc",ES Radio
@@ -30,9 +30,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NAC
 #EXTINF:-1 group-title="Misc",Radio Marca Barcelona
 http://radioweb.radiomarcabarcelona.com:9000/stream.m3u
 #EXTINF:-1 group-title="Misc",Catalunya Radio
-http://srv0435.lcinternet.com:9522/stream
+https://stream.zeno.fm/af97g1d4fm0uv
 #EXTINF:-1 group-title="Misc",Onda Cero Espania
-https://atres-live.ondacero.es/live/ondaceroeventos1/0/br1/000000000000/99734/br1_179537683.ts
+https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
 #EXTINF:-1 group-title="Misc",Informa Radio
 https://24x7.red:42045/informa
 #EXTINF:-1 group-title="Misc",Radio Libertad

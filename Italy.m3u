@@ -48,7 +48,7 @@ https://streaming.radiostreamlive.com/radioitalylive_devices
 #EXTINF:-1 group-title="Misc",ICN Radio
 http://icnradiostream.out.airtime.pro:8000/icnradiostream_a
 #EXTINF:-1 group-title="Misc",Radio Italia
-http://balloitalianonetwork.com/proxy/rcerru01?mp=/stream
+https://ice05.fluidstream.net/ritalia5.mp3
 #EXTINF:-1 group-title="Misc",Radio Freccia
 https://streamingv2.shoutcast.com/radiofreccia
 #EXTINF:-1 group-title="Misc",Radio Senti Chi Parla

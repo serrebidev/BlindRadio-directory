@@ -183,13 +183,22 @@ def norm(name):
 
 
 def match_norm(a, b):
+    """Strict same-station test. The old substring/shared-word test
+    matched similar-sounding different stations (a "classic" matched
+    any "classic fm ..."), so require almost all wanted words to be
+    present, every long distinctive word to be present, and a high
+    string ratio."""
     if not a or not b:
         return False
-    if a == b or (len(a) >= 5 and a in b) or (len(b) >= 5 and b in a):
+    if a == b:
         return True
-    if not set(a.split()) & set(b.split()):
+    ta, tb = set(a.split()), set(b.split())
+    inter = ta & tb
+    if not inter or len(inter) < len(ta) - 1:
         return False
-    return difflib.SequenceMatcher(None, a, b).ratio() >= 0.88
+    if any(len(t) >= 6 and t not in tb for t in ta):
+        return False
+    return difflib.SequenceMatcher(None, a, b).ratio() >= 0.85
 
 
 def name_match(want, got):
@@ -442,12 +451,20 @@ SOURCES = [src_radio_browser, src_icecast, src_shoutcast, src_iprd,
            src_github_collections]
 
 
+def _is_instant_playable(url):
+    """Reject HLS segment files (.ts): they play a few seconds and die,
+    so they are never a durable replacement."""
+    u = url.split("?")[0].rstrip("/").lower()
+    return not (u.endswith(".ts") or "/segment" in u or "_seg" in u)
+
+
 def find_replacement(name, dead_url):
     candidates, seen = [], set()
     for fn in SOURCES:
         try:
             for c in fn(name):
                 if c["url"] != dead_url and c["url"] not in seen \
+                        and _is_instant_playable(c["url"]) \
                         and name_match(name, c["name"]):
                     seen.add(c["url"])
                     candidates.append(c)
@@ -456,10 +473,12 @@ def find_replacement(name, dead_url):
     verified = []
     # Probe every candidate twice (both must succeed) so the
     # highest-quality stream wins, not merely the first one a source
-    # happens to list, and never a flaky one-probe wonder.
+    # happens to list, and never a flaky one-probe wonder. A
+    # candidate playlist may also resolve to an HLS segment file;
+    # that final URL must be instantly playable too.
     for c in candidates:
         p = probe_alive_twice(c["url"])
-        if p:
+        if p and _is_instant_playable(p["final_url"]):
             c = dict(c)
             c["url"] = p["final_url"]
             c["bitrate"] = p["bitrate"] or c["bitrate"]
