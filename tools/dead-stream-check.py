@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Daily dead-stream check for the BlindRadio-directory playlists.
+"""Weekly dead-stream check for the BlindRadio-directory playlists.
 
 Probes every stream URL in the repo's .m3u files twice (a stream is dead
 only after both probes fail). For each dead stream, searches the station
@@ -23,6 +23,7 @@ import re
 import sys
 import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
@@ -40,12 +41,23 @@ CTYPE_CODEC = {"audio/mpeg": "MP3", "audio/mp3": "MP3", "audio/aac": "AAC",
                "audio/x-ms-wma": "WMA", "audio/mp4": "AAC"}
 
 
-def fetch(url, ua=UA_WEB, timeout=25, limit=2_000_000, data=None, headers=None):
+def fetch(url, ua=UA_WEB, timeout=25, limit=2_000_000, data=None, headers=None,
+          _depth=0):
     h = {"User-Agent": ua, "Accept-Encoding": "identity"}
     if headers:
         h.update(headers)
     req = urllib.request.Request(url, data=data, headers=h)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
+    try:
+        r = urllib.request.urlopen(req, timeout=timeout)
+    except urllib.error.HTTPError as e:
+        # Follow plain http(s) redirects urllib refuses (proxy hops).
+        # icy:// / icyx:// 301s are left for probe() to judge.
+        loc = e.headers.get("Location") if e.headers else None
+        if loc and _depth < 2 and loc.startswith(("http://", "https://")):
+            return fetch(loc, ua=ua, timeout=timeout, limit=limit,
+                         _depth=_depth + 1)
+        raise
+    with r:
         try:
             body = r.read(limit)
         except Exception as e:  # IncompleteRead: server closed early
@@ -82,6 +94,17 @@ def probe(url, ua=UA_PROBE, depth=0):
     try:
         status, headers, body = fetch(url, ua=ua, timeout=TIMEOUT, limit=32768)
     except Exception as e:  # DNS, connect, TLS, HTTP error, timeout
+        # A 301 to an icy:// / icyx:// Shoutcast URL is a working
+        # stream for players, even though plain HTTP cannot play it.
+        loc = ""
+        if isinstance(e, urllib.error.HTTPError) and e.headers:
+            loc = e.headers.get("Location") or ""
+        if isinstance(e, urllib.error.HTTPError) \
+                and e.code in (301, 302, 303, 307, 308) \
+                and loc.startswith(("icy://", "icyx://")):
+            out["alive"] = True
+            out["why"] = "icy redirect"
+            return out
         out["why"] = f"{type(e).__name__}: {e}"[:120]
         return out
     ctype = headers.get_content_type()
@@ -413,7 +436,9 @@ def find_replacement(name, dead_url):
         except Exception as e:
             print(f"  source {fn.__name__} failed: {e}", file=sys.stderr)
     verified = []
-    for c in candidates[:24]:
+    # Probe every candidate so the highest-quality stream wins, not
+    # merely the first one a source happens to list.
+    for c in candidates:
         p = probe(c["url"])
         if p["alive"]:
             c = dict(c)
